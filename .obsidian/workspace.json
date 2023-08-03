@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5f4dee95a883a1e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e4a2554fe1ea956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5950b594f407021b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7a829b15b497764",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b09276d14defe78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a675e87dc8c9fbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e2e4707183ca8ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#calculus",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1854021d87fd4750",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a249b810334dfa20",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2a0271689b2f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "894c41ad4b0cc954",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008bb3ffdcacd39e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b41b78f0398579cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d83ac7c79b2baa24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hobbies/Goodbye, Don Glees!.md"
+              }
+            }
+          },
+          {
+            "id": "3a8002c3a1c23de3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a298e3aca34811ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5950b594f407021b",
+  "lastOpenFiles": [
+    "Hobbies/Anime Movie.md",
+    "Hobbies/Goodbye, Don Glees!.md",
+    "Hobbies/WebNovels.md",
+    "Hobbies/White Online.md",
+    "Hobbies/Omniscient Reader's Viewpoint.md",
+    "Hobbies/The Beginning After The End.md",
+    "Screen Shot 2023-08-01 at 8.10.53 PM.png",
+    "Screen Recording 2023-08-01 at 7.06.32 PM.mov",
+    "Screen Shot 2023-08-01 at 7.03.56 PM.png",
+    "Screen Shot 2023-08-01 at 7.03.01 PM.png",
+    "Screen Shot 2023-08-01 at 7.02.43 PM.png",
+    "Screen Shot 2023-08-01 at 7.01.32 PM.png",
+    "Screen Shot 2023-08-01 at 7.00.05 PM.png",
+    "Keyboard Shortcuts.md",
+    "CompSci Orientation Leader Meeting.md",
+    "Blender Shortcuts.md",
+    "Unity/Unity Shortcuts.md",
+    "daily/2023-06-30.md",
+    "Calculus/Calculus Table of Content.md",
+    "Calculus/Algebra-base Fomular.md",
+    "Calculus/Quadratic Formula.md",
+    "Calculus/Logarithms.md",
+    "Calculus/Limits and Continuity.md",
+    "Calculus/Integration and Accumulation of Change.md",
+    "Calculus/Differentiation - Definition and Fundamental Properties.md",
+    "Calculus/Differentiation - Composite, Implicit, and Inverse Functions.md",
+    "Calculus/Differential Equations.md",
+    "Calculus/Contextual Applications of Differentiation.md",
+    "Calculus/Analytical Applications of Differentiation.md",
+    "Calculus/Applications of Integration.md",
+    "Calculus/Unit Circle.md",
+    "Calculus/Geometry.md",
+    "Calculus/Circle.md",
+    "Pasted image 20230731173428.png",
+    "Pasted image 20230731174124.png",
+    "Pasted image 20230731173057.png",
+    "Pasted image 20230731173548.png",
+    "CompSci pre meeting",
+    "Calculus/Geo.canvas",
+    "Unity",
+    "Blender",
+    "Hobbies",
+    "Personal",
+    "Physics",
+    "Calculus",
+    "daily",
+    "Untitled 1",
+    "Keyboard Shortcut.canvas"
+  ]
+}
