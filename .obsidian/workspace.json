@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "file": "Unity/Unity Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "file": "Unity/Unity Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Goodbye, Don Glees!.md",
+                "file": "Unity/Unity Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Goodbye, Don Glees!.md"
+                "file": "Unity/Unity Shortcuts.md"
               }
             }
           },
@@ -166,22 +166,23 @@
   },
   "active": "5950b594f407021b",
   "lastOpenFiles": [
-    "Hobbies/Anime Movie.md",
-    "Hobbies/Goodbye, Don Glees!.md",
-    "Hobbies/WebNovels.md",
-    "Hobbies/White Online.md",
-    "Hobbies/Omniscient Reader's Viewpoint.md",
-    "Hobbies/The Beginning After The End.md",
+    "Blender Shortcuts.md",
+    "CompSci Orientation Leader Meeting.md",
+    "Keyboard Shortcuts.md",
+    "Hobbies/Far Away Home.md",
     "Screen Shot 2023-08-01 at 8.10.53 PM.png",
-    "Screen Recording 2023-08-01 at 7.06.32 PM.mov",
     "Screen Shot 2023-08-01 at 7.03.56 PM.png",
     "Screen Shot 2023-08-01 at 7.03.01 PM.png",
     "Screen Shot 2023-08-01 at 7.02.43 PM.png",
     "Screen Shot 2023-08-01 at 7.01.32 PM.png",
     "Screen Shot 2023-08-01 at 7.00.05 PM.png",
-    "Keyboard Shortcuts.md",
-    "CompSci Orientation Leader Meeting.md",
-    "Blender Shortcuts.md",
+    "Screen Recording 2023-08-01 at 7.06.32 PM.mov",
+    "Hobbies/Goodbye, Don Glees!.md",
+    "Hobbies/Anime Movie.md",
+    "Hobbies/WebNovels.md",
+    "Hobbies/White Online.md",
+    "Hobbies/Omniscient Reader's Viewpoint.md",
+    "Hobbies/The Beginning After The End.md",
     "Unity/Unity Shortcuts.md",
     "daily/2023-06-30.md",
     "Calculus/Calculus Table of Content.md",
@@ -197,8 +198,6 @@
     "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Applications of Integration.md",
     "Calculus/Unit Circle.md",
-    "Calculus/Geometry.md",
-    "Calculus/Circle.md",
     "Pasted image 20230731173428.png",
     "Pasted image 20230731174124.png",
     "Pasted image 20230731173057.png",
