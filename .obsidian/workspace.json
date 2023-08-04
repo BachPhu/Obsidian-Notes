@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Algebra-base Fomular.md",
-                "mode": "preview",
+                "file": "Hobbies/your wings my wings.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Algebra-base Fomular.md",
+                "file": "Hobbies/your wings my wings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Algebra-base Fomular.md",
+                "file": "Hobbies/your wings my wings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Algebra-base Fomular.md"
+                "file": "Hobbies/your wings my wings.md"
               }
             }
           },
@@ -165,8 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f6fd94adf49444c",
+  "active": "3a675e87dc8c9fbb",
   "lastOpenFiles": [
+    "Hobbies/Games.md",
+    "Hobbies/your wings my wings.md",
+    "Calculus/Algebra-base Fomular.md",
     "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Contextual Applications of Differentiation.md",
     "Calculus/Differential Equations.md",
@@ -188,13 +191,10 @@
     "Calculus/Logarithms.md",
     "Calculus/Applications of Integration.md",
     "Calculus/Calculus Table of Content.md",
-    "Calculus/Algebra-base Fomular.md",
     "Images/a home far away.jpg",
     "Images",
     "Keyboard Shortcuts.md",
     "Calculus/Circle.md",
-    "Hobbies/Goodbye, Don Glees!.md",
-    "Hobbies/The Beginning After The End.md",
     "Images/Screen Shot 2023-08-01 at 8.10.53 PM.png",
     "Images/Screen Shot 2023-08-01 at 7.03.56 PM.png",
     "Images/Screen Shot 2023-08-01 at 7.03.01 PM.png",
