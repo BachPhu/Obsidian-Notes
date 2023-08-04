@@ -3,20 +3,20 @@
   "highlighterMethods": "css-classes",
   "highlighters": {
     "Light-Purple": "#9BBCFFFA",
-    "Purple": "#8944EFFA",
     "Pink": "#FF6AD7FA",
     "Red": "#FE5A5AFA",
     "Yellow": "#F8CD69FA",
     "Green": "#66E983FA",
-    "Blue": "#66ADE9FA"
+    "Blue": "#66ADE9FA",
+    "Purple": "#9C79E7FA"
   },
   "highlighterOrder": [
     "Light-Purple",
-    "Purple",
     "Pink",
     "Red",
     "Yellow",
     "Green",
-    "Blue"
+    "Blue",
+    "Purple"
   ]
 }
