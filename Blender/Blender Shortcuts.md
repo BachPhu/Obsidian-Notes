@@ -20,3 +20,8 @@
  Ctrl + A - apply scale/ rotation / ect
   Alt + S - move vertex in certain direction
   Hover mouse to object + L - define which mesh is which
+
+## Sculpting Mode
+F - change brush size
+Shift + F - change brush strength
+Shift - temporary smooth brush
