@@ -1,5 +1,5 @@
 ---
-tag: list/hobby
+tag: list/hobby, anime
 ---
 
 ```dataview

@@ -1,0 +1,1 @@
+![[a home far away.jpg | 300]]
