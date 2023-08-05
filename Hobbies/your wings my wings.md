@@ -1,7 +1,7 @@
 ---
 tag: game
 genre: visual novel
-play time: 30 min
+play_time: 30 min
 date: 1:24 am 08/04/23
 rating: 5
 ---

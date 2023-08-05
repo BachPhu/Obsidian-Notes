@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/your wings my wings.md",
+                "file": "Hobbies/Games.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/your wings my wings.md",
+                "file": "Hobbies/Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/your wings my wings.md",
+                "file": "Hobbies/Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/your wings my wings.md"
+                "file": "Hobbies/Games.md"
               }
             }
           },
@@ -167,11 +167,12 @@
   },
   "active": "2f6fd94adf49444c",
   "lastOpenFiles": [
+    "Hobbies/your wings my wings.md",
+    "Hobbies/Games.md",
+    "Hobbies/Far Away Home.md",
     "Hobbies/Goodbye, Don Glees!.md",
     "Hobbies/Anime Movie.md",
-    "Hobbies/Far Away Home.md",
-    "Hobbies/Games.md",
-    "Hobbies/your wings my wings.md",
+    "Hobbies/White Online.md",
     "Images/Screen Shot 2023-08-04 at 1.14.19 AM.png",
     "Calculus/Algebra-base Fomular.md",
     "Calculus/Analytical Applications of Differentiation.md",
@@ -185,7 +186,6 @@
     "Calculus/Quadratic Formula.md",
     "Calculus/Triangle.md",
     "Calculus/Unit Circle.md",
-    "Hobbies/White Online.md",
     "Hobbies/WebNovels.md",
     "Hobbies/Regressor Instruction Manual.md",
     "Hobbies/The Author's POV.md",
