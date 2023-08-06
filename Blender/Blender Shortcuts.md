@@ -10,7 +10,9 @@
  Tab - edit mode
  Alt + Z - X-ray mode
  P - separate
-
+ Alt + G - snap selected object to the center 
+ Ctrl + Alt + 0 - (adjust the view you like first) snap the camera there
+ Z - Shading option
 ## Click on Object
  G - grab 
  Middle Mouse - snap to axis
