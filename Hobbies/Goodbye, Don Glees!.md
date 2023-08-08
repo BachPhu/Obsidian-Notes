@@ -2,7 +2,7 @@
 tag: movie, anime
 length: 1h 38m
 date: 08/01/2023
-rating: 5 
+rating: 4.5 
 ---
 ![Goodbye, Don Glees! (2021) - IMDb | 350](https://m.media-amazon.com/images/M/MV5BMTJmYWI3MjgtY2QzNi00MGE3LWFmN2UtNTg2Yzk0OWFhZWUxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg)
 
