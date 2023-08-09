@@ -27,3 +27,8 @@
 F - change brush size
 Shift + F - change brush strength
 Shift - temporary smooth brush
+
+## Shading
+### Node Window
+Ctrl + Right Mouse - cut tie between nodes
+Ctrl + Shift + Click on Node - see a review that node
