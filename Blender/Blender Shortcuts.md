@@ -26,6 +26,7 @@
  Hover mouse to object + L - define which mesh is which
  Alt + Left Click - select Edge Loop
  A - select all 
+ Alt + A - deselect
 
 ## Sculpting Mode
 F - change brush size
