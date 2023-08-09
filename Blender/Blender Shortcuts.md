@@ -20,8 +20,9 @@
  Shift + D - duplicate object
  N - bring up the properties
  Ctrl + A - apply scale/ rotation / ect
-  Alt + S - move vertex in certain direction
-  Hover mouse to object + L - define which mesh is which
+ Alt + S - move vertex in certain direction
+ Hover mouse to object + L - define which mesh is which
+ Alt + Left Click - select Edge Loop
 
 ## Sculpting Mode
 F - change brush size
