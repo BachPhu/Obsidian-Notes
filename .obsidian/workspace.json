@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "Hobbies/Games.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "Hobbies/Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "Hobbies/Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md"
+                "file": "Hobbies/Games.md"
               }
             }
           },
@@ -167,16 +167,16 @@
   },
   "active": "2f6fd94adf49444c",
   "lastOpenFiles": [
+    "Hobbies/your wings my wings.md",
     "Hobbies/Goodbye, Don Glees!.md",
     "Hobbies/Anime Movie.md",
+    "Calculus/Analytical Applications of Differentiation.md",
     "Hobbies/Far Away Home.md",
     "Blender/Blender Shortcuts.md",
     "Hobbies/Games.md",
-    "Hobbies/your wings my wings.md",
     "Hobbies/White Online.md",
     "Images/Screen Shot 2023-08-04 at 1.14.19 AM.png",
     "Calculus/Algebra-base Fomular.md",
-    "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Contextual Applications of Differentiation.md",
     "Calculus/Differential Equations.md",
     "Calculus/Differentiation - Composite, Implicit, and Inverse Functions.md",
