@@ -13,7 +13,9 @@
  Alt + G - snap selected object to the center 
  Ctrl + Alt + 0 - (adjust the view you like first) snap the camera there
  Z - Shading option
+ Ctrl + Space - full screen the window you want
 ## Click on Object
+
  G - grab 
  Middle Mouse - snap to axis
  R - rotate
@@ -23,6 +25,7 @@
  Alt + S - move vertex in certain direction
  Hover mouse to object + L - define which mesh is which
  Alt + Left Click - select Edge Loop
+ A - select all 
 
 ## Sculpting Mode
 F - change brush size
