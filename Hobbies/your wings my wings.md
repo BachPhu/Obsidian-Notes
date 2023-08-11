@@ -1,6 +1,6 @@
 ---
 tag: game
-genre: visual novel
+genre: visual novel, oneshot
 play_time: 30 min
 date: 1:24 am 08/04/23
 rating: 5
@@ -10,7 +10,7 @@ rating: 5
 # Game Info
 "a girl chooses to love and be loved instead of being haunted  "
 
-made by demo, nate, valendar, vera & liliko
+Author: demo, nate, valendar, vera & liliko
 
 
 
