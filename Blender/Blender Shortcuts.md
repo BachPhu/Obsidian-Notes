@@ -14,6 +14,7 @@
  Ctrl + Alt + 0 - (adjust the view you like first) snap the camera there
  Z - Shading option
  Ctrl + Space - full screen the window you want
+  Ctrl + Tab - select mode
 ## Click on Object
 
  G - grab 
@@ -32,8 +33,11 @@
 F - change brush size
 Shift + F - change brush strength
 Shift - temporary smooth brush
-
+Ctrl + F - change brush strength
 ## Shading
 ### Node Window
 Ctrl + Right Mouse - cut tie between nodes
 Ctrl + Shift + Click on Node - see a review that node
+
+
+
