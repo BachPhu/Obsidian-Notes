@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits and Continuity.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -185,9 +185,9 @@
   },
   "active": "2f6fd94adf49444c",
   "lastOpenFiles": [
-    "Obsidian Shortcuts.md",
     "Calculus/Limits and Continuity.md",
-    "Screen Shot 2023-08-11 at 12.02.56 AM.png",
+    "Obsidian Shortcuts.md",
+    "Images/Screen Shot 2023-08-11 at 12.02.56 AM.png",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Applications of Integration.md",
     "Calculus/Analytical Applications of Differentiation.md",

@@ -14,7 +14,9 @@
  Ctrl + Alt + 0 - (adjust the view you like first) snap the camera there
  Z - Shading option
  Ctrl + Space - full screen the window you want
-  Ctrl + Tab - select mode
+ Ctrl + Tab - select mode
+ Ctrl + number - add in  level for modify
+ Ctrl + R - loop cut
 ## Click on Object
 
  G - grab 
