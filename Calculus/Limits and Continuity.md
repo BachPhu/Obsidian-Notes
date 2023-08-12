@@ -14,11 +14,11 @@ unit: 1
 
 # Limit Existence Theorem
 
-$$\sum\limits_{x -> a} f(x) $$
+$$\lim_{x -> a} f(x)$$
 
 
 
-	WARNING 1: -> means “approaches.” Avoid using this symbol outside the context of limits.
-	WARNING 2: Sometimes, the limit value lim x  a f x( ) does not equal the function value f a( )
-	WARNING 3: Do not omit the limit operator lim x 1 until this substitution phase.
+WARNING 1: -> means “approaches.” Avoid using this symbol outside the context of limits.
+WARNING 2: Sometimes, the limit value $\lim_{x -> a} f(x)$ does not equal the function value f a( )
+WARNING 3: Do not omit the limit operator lim x 1 until this substitution phase.
 
