@@ -10,6 +10,7 @@ Radio The Universe
 Cult of The Lamb
 The Last Night
 Replace
+Mariachi legend
 ## Good Art SO Maybe
 Chinatown Detective Agency
 Narita Boy
@@ -27,3 +28,5 @@ Being and Becoming (Inspo)
 Gestalt: Steam & Cinder
 Moonscars
 Anima Well
+Sessions
+gunbrella
