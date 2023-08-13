@@ -18,7 +18,7 @@
  Ctrl + number - add in  level for modify
  Ctrl + L - link // click all object needed and select the one to copy from last
  I - insert keyframe menu
- 
+ Ctrl + J - add frame to node for annotation // 
 ## Click on Object
 
  G - grab 
