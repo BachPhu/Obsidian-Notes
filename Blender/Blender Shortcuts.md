@@ -16,7 +16,8 @@
  Ctrl + Space - full screen the window you want
  Ctrl + Tab - select mode
  Ctrl + number - add in  level for modify
-Ctrl + L - link // click all object needed and select the one to copy from last
+ Ctrl + L - link // click all object needed and select the one to copy from last
+ I - insert keyframe menu
  
 ## Click on Object
 
@@ -46,3 +47,7 @@ Ctrl + Shift + Click on Node - see a review that node
 
 
 
+## Animation 
+Ctrl + Middle Mouse - to move around graph editor
+X - and mouse on the oject to delete
+Ctrl + Right Mouse - add another keyframe
