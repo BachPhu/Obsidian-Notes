@@ -32,6 +32,7 @@ Ctrl + L - link // click all object needed and select the one to copy from last
  A - select all 
  Alt + A - deselect
  Ctrl + R - loop cut // Scroll down to add more
+ Ctrl + P - set parent // select the object and shift select last object as parent
 
 ## Sculpting Mode
 F - change brush size
