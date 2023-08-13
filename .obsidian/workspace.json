@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "04bdb51025112881",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fceec22f7bec74b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Shortcuts.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Game Wish List.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -185,6 +167,7 @@
   },
   "active": "2f6fd94adf49444c",
   "lastOpenFiles": [
+    "Hobbies/Game Wish List.md",
     "Hobbies/Games.md",
     "Blender/Blender Shortcuts.md",
     "Calculus/Limits and Continuity.md",
@@ -196,7 +179,6 @@
     "Calculus/Algebra-base Fomular.md",
     "Hobbies/Vitreous.md",
     "Hobbies/your wings my wings.md",
-    "Hobbies/Game Wish List.md",
     "Hobbies/Goodbye, Don Glees!.md",
     "Hobbies/Anime Movie.md",
     "Hobbies/Far Away Home.md",

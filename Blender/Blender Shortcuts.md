@@ -16,7 +16,8 @@
  Ctrl + Space - full screen the window you want
  Ctrl + Tab - select mode
  Ctrl + number - add in  level for modify
- Ctrl + R - loop cut
+Ctrl + L - link // click all object needed and select the one to copy from last
+ 
 ## Click on Object
 
  G - grab 
@@ -30,6 +31,7 @@
  Alt + Left Click - select Edge Loop
  A - select all 
  Alt + A - deselect
+ Ctrl + R - loop cut // Scroll down to add more
 
 ## Sculpting Mode
 F - change brush size
