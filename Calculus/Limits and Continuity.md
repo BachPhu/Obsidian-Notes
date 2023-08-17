@@ -8,17 +8,22 @@ unit: 1
  Link to calculus symbol :
   https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/
   https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
- a ∈ ℝ = a is a real number 
 
 
 
-# Limit Existence Theorem
+___
 
 $$\lim_{x -> a} f(x)$$
 
-
-
+This is read as: “the limit of f x( ) as x approaches a.”
+a ∈ ℝ = a is a real number 
+ 
 WARNING 1: -> means “approaches.” Avoid using this symbol outside the context of limits.
-WARNING 2: Sometimes, the limit value $\lim_{x -> a} f(x)$ does not equal the function value f a( )
-WARNING 3: Do not omit the limit operator lim x 1 until this substitution phase.
+WARNING 2: Sometimes, the limit value $\lim_{x -> a} f(x)$ does not equal the function value f(a)
+WARNING 3: Do not omit the limit operator $\lim_{x -> 1}$  until this substitution phase.
+___
 
+# Limit Existence Theorem
+$\lim_{x -> a} f(x)$ = L exists if:
+$$\lim_{x -> a^-} f(x) = \lim_{x -> a^+} f(x) = L$$
+where L is any real number (not -∞ or ∞) 
