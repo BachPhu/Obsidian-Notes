@@ -11,6 +11,10 @@ Cult of The Lamb
 The Last Night
 Replace
 Mariachi legend
+Fowl Scourge
+Len's Island
+Hunt the Night
+a space for the unbound
 ## Good Art SO Maybe
 Chinatown Detective Agency
 Narita Boy
@@ -30,3 +34,5 @@ Moonscars
 Anima Well
 Sessions
 gunbrella
+Zealot
+Sons of Valhalla

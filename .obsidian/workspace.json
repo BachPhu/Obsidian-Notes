@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits and Continuity.md"
+                "file": "Hobbies/Game Wish List.md"
               }
             }
           },
@@ -182,13 +182,13 @@
   },
   "active": "a6ae8299e91d5c39",
   "lastOpenFiles": [
+    "Calculus/Limits and Continuity.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Algebra-base Fomular.md",
     "Calculus/Applications of Integration.md",
     "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Quadratic Formula.md",
     "Keyboard Shortcuts.md",
-    "Calculus/Limits and Continuity.md",
     "Blender/Blender Shortcuts.md",
     "Hobbies/Game Wish List.md",
     "Hobbies/Games.md",
