@@ -35,9 +35,9 @@ where L is any real number (not -∞ or ∞)
 
 # Limits of Exponential Function
 
-$$ y = \color{yellow}a \color{aqua}b \color{white}^ {x ± h} ± k$$ 
-- if a is negative, reflect over x-axis
-- if $\color{aqua}b$ > 1. growth function
-- if 0<b<1 , decay func
+$$ y = \color{#FF6666}a \color{#84C1FF}b \color{white}^ {x ± h} ± k$$ 
+- if $\color{#ff6666} a$ is negative ⇒ reflect over x-axis
+- if $\color{#84C1FF}b$ > 1 ⇒ growth function
+- if 0< $\color{#84C1FF}b$ <1 ⇒ decay func
 - k is the HA
 
