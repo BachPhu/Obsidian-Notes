@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Game Wish List.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "a6ae8299e91d5c39",
   "lastOpenFiles": [
+    "Hobbies/Game Wish List.md",
     "Calculus/Limits and Continuity.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Algebra-base Fomular.md",
@@ -190,7 +191,6 @@
     "Calculus/Quadratic Formula.md",
     "Keyboard Shortcuts.md",
     "Blender/Blender Shortcuts.md",
-    "Hobbies/Game Wish List.md",
     "Hobbies/Games.md",
     "Obsidian Shortcuts.md",
     "Images/Screen Shot 2023-08-11 at 12.02.56 AM.png",

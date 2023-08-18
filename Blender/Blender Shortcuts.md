@@ -34,6 +34,10 @@
  Alt + A - deselect
  Ctrl + R - loop cut // Scroll down to add more
  Ctrl + P - set parent // select the object and shift select last object as parent
+ Set origin - click on where you want your origin using the cursor, Object  -> Set origin, Local, Individual Origin (where the magnet is)
+ G + Double Y - change to local axis
+ Shift + S - Cursor tool selection
+ Ctrl (switch to vertex) - Snap
 
 ## Sculpting Mode
 F - change brush size
