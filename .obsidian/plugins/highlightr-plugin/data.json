@@ -2,21 +2,23 @@
   "highlighterStyle": "rounded",
   "highlighterMethods": "css-classes",
   "highlighters": {
-    "Light-Purple": "#9BBCFFFA",
     "Pink": "#FF6AD7FA",
     "Red": "#FE5A5AFA",
     "Yellow": "#F8CD69FA",
     "Green": "#66E983FA",
-    "Blue": "#66ADE9FA",
-    "Purple": "#9C79E7FA"
+    "Purple": "#9C79E7FA",
+    "Blue": "#3399FF",
+    "Light-Purple": "#A6A6ED",
+    "L-Green": "#B8C8B8"
   },
   "highlighterOrder": [
-    "Light-Purple",
     "Pink",
     "Red",
     "Yellow",
     "Green",
+    "Purple",
     "Blue",
-    "Purple"
+    "Light-Purple",
+    "L-Green"
   ]
 }

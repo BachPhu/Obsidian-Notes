@@ -6,9 +6,10 @@ rating: 4.5
 ---
 ![Goodbye, Don Glees! (2021) - IMDb | 350](https://m.media-amazon.com/images/M/MV5BMTJmYWI3MjgtY2QzNi00MGE3LWFmN2UtNTg2Yzk0OWFhZWUxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg)
 
-	Director: Atsuko Ishizuka
-	Release Date: 02/18/2023
-	Genre: Adventure, Drama, Comedy, Coming of Age
+> [!Info]
+> Director: Atsuko Ishizuka
+> Release Date: 02/18/2023
+> Genre: Adventure, Drama, Comedy, Coming of Age
 
 
 # Summary
@@ -35,7 +36,7 @@ The relationship three character (Drop, Toto, Soma) was really nice throughout t
 ## <mark class="hltr-blue">Music/ Track </mark>    ✦✦✦✦✦
 The track was really good and fitting throughout scenes. Quite like the ending track. Twinkle Little Star was fun to hear too. Maybe because I haven't watch much of the the new anime but the producer of this one seem to be creative with different music genre throughout the movie. Overall, can't complain.
 
-## Favorite Scence
+## <mark class="hltr-red">Favorite Scence</mark>
 
 ### The firework from their drone
 ### Drop finding the telephone booth

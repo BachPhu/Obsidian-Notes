@@ -1,6 +1,6 @@
 
 tag: movie
 length: 
-date: {{date}} {{time}}
+date: 
 rating: 
 

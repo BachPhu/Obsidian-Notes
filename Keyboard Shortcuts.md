@@ -1,5 +1,5 @@
 
-#shortcuts
+#shortcuts #list
 
 Link to Unicode symbol --> https://en.wikipedia.org/wiki/List_of_Unicode_characters
 Alt 5 -> ∞

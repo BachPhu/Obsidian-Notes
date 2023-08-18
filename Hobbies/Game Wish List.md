@@ -1,3 +1,7 @@
+---
+tag: list/hobby
+---
+
 [[Rain World]]
 [[A Short Hike]]
 [[Hades]]

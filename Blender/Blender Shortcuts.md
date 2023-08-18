@@ -1,4 +1,4 @@
- #shortcuts 
+ #shortcuts #list
  
  F12 - render image 
 ## Moving Around

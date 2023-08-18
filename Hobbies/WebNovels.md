@@ -1,10 +1,10 @@
 ---
-tag: list/hobby, webnovel
+tag: list/hobby
 ---
 
 ```dataview
 TABlE chapters as "Chapter", complete_date as "Date", status as "Status", rating as "Rating" 
-FROM #webnovel 
+FROM #webnovel
 
 sort rating desc
 

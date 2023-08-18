@@ -2,12 +2,12 @@
   "calendar",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-minimal-settings",
   "obsidian-git",
   "obsidian-outliner",
   "highlightr-plugin",
   "quick-latex",
   "templater-obsidian",
   "obsidian-style-settings",
-  "obsidian-latex"
+  "obsidian-latex",
+  "nldates-obsidian"
 ]
