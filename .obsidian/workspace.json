@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "fcfc33370f6ecdee",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits and Continuity.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -233,9 +233,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec2531789767209e",
+  "active": "a6ae8299e91d5c39",
   "lastOpenFiles": [
     "Calculus/Calculus Table of Content.md",
+    "Calculus/Limits and Continuity.md",
     "Obsidian Shortcuts.md",
     "Calculus/Circle.md",
     "Calculus/Contextual Applications of Differentiation.md",
@@ -245,7 +246,6 @@
     "Calculus/Geometry.md",
     "Keyboard Shortcuts.md",
     "Calculus/Integration and Accumulation of Change.md",
-    "Calculus/Limits and Continuity.md",
     "Templates/Latex color/lred.md",
     "Templates/Latex color/lgreen.md",
     "Templates/Latex color/lblue.md",

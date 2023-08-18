@@ -38,6 +38,7 @@
  G + Double Y - change to local axis
  Shift + S - Cursor tool selection
  Ctrl (switch to vertex) - Snap
+ GG - Edge/Vertex slide
 
 ## Sculpting Mode
 F - change brush size
