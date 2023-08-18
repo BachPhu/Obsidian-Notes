@@ -18,9 +18,14 @@ $$\lim_{x → a} f(x)$$
 This is read as: “the limit of f x( ) as x approaches a.”
 a ∈ ℝ = a is a real number 
  
-WARNING 1: → means “approaches.” Avoid using this symbol outside the context of limits.
-WARNING 2: Sometimes, the limit value $\lim_{x → a} f(x)$ does not equal the function value f(a)
-WARNING 3: Do not omit the limit operator $\lim_{x → 1}$  until this substitution phase.
+
+> [!warning]
+> WARNING 1: → means “approaches.” Avoid using this symbol outside the context of limits.
+> 
+> WARNING 2: Sometimes, the limit value $\lim_{x → a} f(x)$ does not equal the function value f(a)
+> 
+> WARNING 3: Do not omit the limit operator $\lim_{x → 1}$  until this substitution phase.
+
 ___
 
 # Limit Existence Theorem
@@ -35,3 +40,4 @@ $$ y = \color{yellow}a \color{aqua}b \color{white}^ {x ± h} ± k$$
 - if $\color{aqua}b$ > 1. growth function
 - if 0<b<1 , decay func
 - k is the HA
+

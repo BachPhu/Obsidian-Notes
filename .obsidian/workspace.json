@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Obsidian Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Obsidian Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits and Continuity.md"
+                "file": "Obsidian Shortcuts.md"
               }
             }
           },
@@ -212,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "802beb38e3b7e375",
+  "active": "3a5f84a24731a75f",
   "lastOpenFiles": [
+    "Calculus/Limits and Continuity.md",
+    "Obsidian Shortcuts.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Applications of Integration.md",
     "Calculus/Algebra-base Fomular.md",
@@ -222,8 +224,6 @@
     "Hobbies/Game Wish List.md",
     "Hobbies/Far Away Home.md",
     "Hobbies/Anime Movie.md",
-    "Calculus/Limits and Continuity.md",
-    "Obsidian Shortcuts.md",
     "Calculus/Analytical Applications of Differentiation.md",
     "Blender/Blender Shortcuts.md",
     "Calculus/Quadratic Formula.md",
