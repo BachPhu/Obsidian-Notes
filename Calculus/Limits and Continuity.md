@@ -30,8 +30,8 @@ where L is any real number (not -∞ or ∞)
 
 # Limits of Exponential Function
 
-$$y = ab^ {x ± h} ± k$$ 
+$$ y = \color{yellow}a \color{aqua}b \color{white}^ {x ± h} ± k$$ 
 - if a is negative, reflect over x-axis
-- if b > 1. growth function
+- if $\color{aqua}b$ > 1. growth function
 - if 0<b<1 , decay func
 - k is the HA
