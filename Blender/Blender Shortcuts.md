@@ -39,6 +39,7 @@
  Shift + S - Cursor tool selection
  Ctrl (switch to vertex) - Snap
  GG - Edge/Vertex slide
+ S - color picker
 
 ## Sculpting Mode
 F - change brush size
@@ -56,3 +57,8 @@ Ctrl + Shift + Click on Node - see a review that node
 Ctrl + Middle Mouse - to move around graph editor
 X - and mouse on the oject to delete
 Ctrl + Right Mouse - add another keyframe
+
+# Trouble w UV Unwrapping
+- Alt + N, set from face, Alt + N, merge, try again
+- In UV window, got to select, select overlap to check
+- or A, merge by distance
