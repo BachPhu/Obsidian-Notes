@@ -63,8 +63,8 @@ $$ y = \color{#FF6666}a \color{#84C1FF}b \color{white}^ {x ± h} ± k$$
 
 
 ## Types of Func that are <font color= #B8C8B8 >Continuous</font> at very Point on their Domain
-1. Polynomial Func
-2. Rational Func
+1. Polynomial Func    $$f(x) = ax^{h}+ ax^{h-1} + ax + a$$
+2. Rational Func  $$f(x)$$
 3. Radical Func
 4. Trig Func
 5. Exponential Func

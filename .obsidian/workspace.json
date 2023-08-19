@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "fcfc33370f6ecdee",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/Blender Shortcuts.md",
+                "file": "Calculus/Limits and Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/Blender Shortcuts.md",
+                "file": "Calculus/Limits and Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/Blender Shortcuts.md"
+                "file": "Calculus/Limits and Continuity.md"
               }
             }
           },
@@ -233,8 +233,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6ae8299e91d5c39",
+  "active": "ec2531789767209e",
   "lastOpenFiles": [
+    "Blender/Blender Shortcuts.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Limits and Continuity.md",
     "Obsidian Shortcuts.md",
@@ -260,7 +261,6 @@
     "Templates/game info.md",
     "Templates/LN tag.md",
     "Templates/game tag.md",
-    "Templates/movie info.md",
     "Untitled",
     "Templates/Text",
     "Templates/Math",
