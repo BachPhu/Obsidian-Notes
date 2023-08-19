@@ -28,7 +28,7 @@ a ∈ ℝ = a is a real number
 
 ___
 
-# Limit Existence Theorem
+# [[Limit Existence Theorem]]
 
 > [!Important]
 > $\lim_{x → a} f(x)$ = L exists if:
@@ -43,7 +43,7 @@ $$ y = \color{#FF6666}a \color{#84C1FF}b \color{white}^ {x ± h} ± k$$
 - if $0 < \color{#84C1FF}b < 1$ ⇒ decay func
 - k is the HA
 
-## Two Special Trig Function
+## [[Two Special Trig Function]]
 
 > [!NOTE]
 > 
@@ -51,7 +51,7 @@ $$ y = \color{#FF6666}a \color{#84C1FF}b \color{white}^ {x ± h} ± k$$
 > $$\lim_{\theta → 0} \frac{sin \color{#84C1FF}c \color{white} \theta}{\theta} $$
 
 
-# Limit-Based Continuity
+# [[Limit-Based Continuity]]
 
 > [!Important]
 > 
@@ -63,9 +63,23 @@ $$ y = \color{#FF6666}a \color{#84C1FF}b \color{white}^ {x ± h} ± k$$
 
 
 ## Types of Func that are <font color= #B8C8B8 >Continuous</font> at very Point on their Domain
+
+
 1. Polynomial Func    $$f(x) = ax^{h}+ ax^{h-1} + ax + a$$
-2. Rational Func  $$f(x)$$
-3. Radical Func
-4. Trig Func
-5. Exponential Func
-6. Log Func
+2. Rational Func  $$f(x) = \frac{p(x)}{q(x)}; q(x)≠ 0$$
+3. Radical Func $$f(x) = \sqrt[n]{x} $$
+4. Trig Func $$sin, tan, cos, sec, csc, cot$$
+5. Exponential Func $$f(x) = b^{x}, b > 0, b ≠ 1$$
+6. Log Func $$f(x) = \log_{b}x$$
+
+# [[Intermediate Value Theorem]]
+
+if $f(x)$ is *continuous* on $\color{#84C1FF}[a, b]$ AND $\color{#FF6666}f(a) < y < f(b)$ then there <mark class="hltr-light-purple">exists at least ONE</mark> value $x = c$ on $[a ,b]$ such that $f(c) = y$
+
+
+# Infinite Limits and Limits at Infinity
+
+| Limits at Infinity                                                         | Infinite Limits                        |
+| -------------------------------------------------------------------------- | -------------------------------------- |
+| are limit that = $∞$ or $-∞$, and where $x → a$ and $a$ is a *real* number | are limit in which $x → ∞$ or $x → -∞$ |
+| Vertical Asymptotes| Horizontal Asymptotes / Slant Asymp / **End Behavior**   |

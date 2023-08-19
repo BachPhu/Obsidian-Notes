@@ -88,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +215,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -235,32 +237,32 @@
   },
   "active": "ec2531789767209e",
   "lastOpenFiles": [
-    "Blender/Blender Shortcuts.md",
-    "Calculus/Calculus Table of Content.md",
+    "Keyboard Shortcuts.md",
     "Calculus/Limits and Continuity.md",
     "Obsidian Shortcuts.md",
+    "Calculus/Limit Existence Theorem.md",
+    "Calculus/Limit-Based Continuity.md",
+    "Calculus/Two Special Trig Function.md",
+    "Calculus/Intermediate Value Theorem.md",
+    "Calculus/Algebra-base Fomular.md",
+    "Calculus/Logarithms.md",
+    "Calculus/Applications of Integration.md",
+    "Calculus/Analytical Applications of Differentiation.md",
+    "Templates/Latex color/lred.md",
+    "Templates/Latex color/lgreen.md",
+    "Templates/Latex color/lblue.md",
+    "Blender/Blender Shortcuts.md",
+    "Calculus/Calculus Table of Content.md",
     "Calculus/Circle.md",
     "Calculus/Contextual Applications of Differentiation.md",
     "Calculus/Differential Equations.md",
     "Calculus/Differentiation - Composite, Implicit, and Inverse Functions.md",
     "Calculus/Differentiation - Definition and Fundamental Properties.md",
     "Calculus/Geometry.md",
-    "Keyboard Shortcuts.md",
     "Calculus/Integration and Accumulation of Change.md",
-    "Templates/Latex color/lred.md",
-    "Templates/Latex color/lgreen.md",
-    "Templates/Latex color/lblue.md",
     "Hobbies/your wings my wings.md",
     "Hobbies/White Online.md",
-    "Calculus/Logarithms.md",
     "Calculus/Quadratic Formula.md",
-    "Calculus/Triangle.md",
-    "Calculus/Unit Circle.md",
-    "Templates/Math/limit.md",
-    "Templates/date.md",
-    "Templates/game info.md",
-    "Templates/LN tag.md",
-    "Templates/game tag.md",
     "Untitled",
     "Templates/Text",
     "Templates/Math",
