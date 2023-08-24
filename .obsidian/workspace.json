@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md",
+                "file": "Hobbies/Game Wish List.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md",
+                "file": "Hobbies/Game Wish List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md",
+                "file": "Hobbies/Game Wish List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md"
+                "file": "Hobbies/Game Wish List.md"
               }
             }
           },
@@ -218,8 +218,8 @@
   },
   "active": "4f51ad3aca65f130",
   "lastOpenFiles": [
-    "School/MAC 2311.md",
     "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md",
+    "School/MAC 2311.md",
     "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Algebra-base Fomular.md",
