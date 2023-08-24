@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Limits and Continuity.md",
+                "file": "Hobbies/Game Wish List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Limits and Continuity.md"
+                "file": "Hobbies/Game Wish List.md"
               }
             }
           },
@@ -237,8 +237,8 @@
   },
   "active": "ec2531789767209e",
   "lastOpenFiles": [
-    "Keyboard Shortcuts.md",
     "Calculus/Limits and Continuity.md",
+    "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
     "Calculus/Limit Existence Theorem.md",
     "Calculus/Limit-Based Continuity.md",
