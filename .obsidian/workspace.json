@@ -6,6 +6,7 @@
       {
         "id": "1855eddd5ed4ead0",
         "type": "tabs",
+        "dimension": 61.55339805825243,
         "children": [
           {
             "id": "9318c9b0e6f80121",
@@ -51,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/CHM 2045.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,6 +64,7 @@
       {
         "id": "fcfc33370f6ecdee",
         "type": "tabs",
+        "dimension": 38.44660194174757,
         "children": [
           {
             "id": "5c566fcabab02bb2",
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Game Wish List.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -220,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,21 +238,20 @@
   },
   "active": "ec2531789767209e",
   "lastOpenFiles": [
-    "Calculus/Limits and Continuity.md",
-    "Keyboard Shortcuts.md",
+    "School/COURSES Dates.md",
+    "School/CHM 2045L.md",
+    "School/CHM 2045.md",
+    "Hobbies/Anime Movie.md",
+    "Hobbies/Far Away Home.md",
+    "Hobbies/Regressor Instruction Manual.md",
     "Obsidian Shortcuts.md",
-    "Calculus/Limit Existence Theorem.md",
-    "Calculus/Limit-Based Continuity.md",
-    "Calculus/Two Special Trig Function.md",
-    "Calculus/Intermediate Value Theorem.md",
+    "Keyboard Shortcuts.md",
+    "CompSci Orientation Leader Meeting.md",
+    "Color.md",
+    "Personal/Finance Notes.md",
     "Calculus/Algebra-base Fomular.md",
-    "Calculus/Logarithms.md",
-    "Calculus/Applications of Integration.md",
     "Calculus/Analytical Applications of Differentiation.md",
-    "Templates/Latex color/lred.md",
-    "Templates/Latex color/lgreen.md",
-    "Templates/Latex color/lblue.md",
-    "Blender/Blender Shortcuts.md",
+    "Calculus/Applications of Integration.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Circle.md",
     "Calculus/Contextual Applications of Differentiation.md",
@@ -260,10 +260,11 @@
     "Calculus/Differentiation - Definition and Fundamental Properties.md",
     "Calculus/Geometry.md",
     "Calculus/Integration and Accumulation of Change.md",
-    "Hobbies/your wings my wings.md",
-    "Hobbies/White Online.md",
-    "Calculus/Quadratic Formula.md",
-    "Untitled",
+    "Calculus/Intermediate Value Theorem.md",
+    "Calculus/Limit Existence Theorem.md",
+    "Calculus/Limit-Based Continuity.md",
+    "Calculus/Limits and Continuity.md",
+    "School",
     "Templates/Text",
     "Templates/Math",
     "Templates/Latex/preamble.sty",
