@@ -36,24 +36,24 @@
             }
           },
           {
-            "id": "a6ae8299e91d5c39",
+            "id": "ae7dda73b39f960b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/Blender Shortcuts.md",
+                "file": "Calculus/Quadratic Formula.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f51ad3aca65f130",
+            "id": "856fa0e1478cf799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Ch 1.1-1.3, 1.5-1.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Game Wish List.md"
+                "file": "Calculus/Calculus Table of Content.md"
               }
             }
           },
@@ -198,11 +198,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,54 +218,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f51ad3aca65f130",
+  "active": "3a675e87dc8c9fbb",
   "lastOpenFiles": [
-    "School/Lecture Notes/MAC Lecture 8-21 _ 8-27.md",
-    "School/MAC 2311.md",
-    "Calculus/Analytical Applications of Differentiation.md",
-    "Calculus/Calculus Table of Content.md",
-    "Calculus/Algebra-base Fomular.md",
-    "School/Lecture Notes",
-    "School/COURSES Dates.md",
-    "School/CHM 2045.md",
-    "Obsidian Shortcuts.md",
-    "Blender/Blender Shortcuts.md",
-    "School/CHM 2045L.md",
-    "CHEML DATES.png",
-    "Hobbies/Anime Movie.md",
+    "Images/Pasted image 20230825000806.png",
+    "Images/Pasted image 20230824235939.png",
+    "Templates/movie tag.md",
+    "Hobbies/Goodbye, Don Glees!.md",
     "Hobbies/Far Away Home.md",
-    "Hobbies/Regressor Instruction Manual.md",
+    "Hobbies/Anime Movie.md",
+    "Ch 1.1-1.3, 1.5-1.6.md",
+    "School/Lecture Notes/08-23-2023 Lectures.md",
+    "Templates/color.md",
+    "Calculus/Limits and Continuity.md",
+    "Templates/Latex color/lblue.md",
+    "Calculus/Calculus Table of Content.md",
+    "Calculus/Quadratic Formula.md",
+    "Calculus/Triangle.md",
+    "Calculus/Unit Circle.md",
+    "Calculus/Two Special Trig Function.md",
+    "Hobbies/your wings my wings.md",
+    "Images/Pasted image 20230824234526.png",
     "Keyboard Shortcuts.md",
     "CompSci Orientation Leader Meeting.md",
-    "Color.md",
-    "Personal/Finance Notes.md",
-    "Calculus/Applications of Integration.md",
-    "Calculus/Circle.md",
-    "Calculus/Contextual Applications of Differentiation.md",
-    "Calculus/Differential Equations.md",
-    "Calculus/Differentiation - Composite, Implicit, and Inverse Functions.md",
-    "Calculus/Differentiation - Definition and Fundamental Properties.md",
-    "Calculus/Geometry.md",
-    "Calculus/Integration and Accumulation of Change.md",
-    "Calculus/Intermediate Value Theorem.md",
+    "Obsidian Shortcuts.md",
+    "Images/Pasted image 20230824234101.png",
+    "School/COURSES Dates.md",
+    "School/CHM 2045.md",
+    "School/CHM 2045L.md",
+    "School/MAC 2311.md",
+    "9/11 – 9/15.md",
+    "9/11 – 9",
+    "9",
+    "Blender/Blender Shortcuts.md",
+    "CHEM Note.md",
+    "8/21 – 8",
+    "8/28 – 9",
+    "8",
+    "8/22 – 8",
+    "Images/CHEML DATES.png",
+    "School/Lecture Notes",
     "School",
     "Templates/Text",
     "Templates/Math",
-    "Templates/Latex/preamble.sty",
-    "Templates/Latex color",
-    "Templates/preamble.sty",
-    "Templates",
     "Images/Screen Shot 2023-08-11 at 12.02.56 AM.png",
     "Images/Screen Shot 2023-08-04 at 1.14.19 AM.png",
     "Images/a home far away.jpg",
-    "Images",
     "Images/Screen Shot 2023-08-01 at 8.10.53 PM.png",
     "Images/Screen Shot 2023-08-01 at 7.03.56 PM.png",
     "Images/Screen Shot 2023-08-01 at 7.03.01 PM.png",
-    "Images/Screen Shot 2023-08-01 at 7.02.43 PM.png",
-    "Images/Screen Shot 2023-08-01 at 7.01.32 PM.png",
-    "Images/Screen Shot 2023-08-01 at 7.00.05 PM.png",
-    "Images/Screen Recording 2023-08-01 at 7.06.32 PM.mov",
     "Calculus/Geo.canvas",
     "Keyboard Shortcut.canvas"
   ]

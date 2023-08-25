@@ -1,5 +1,5 @@
 ```dataview
-TABLE Syllabus as "SYLLABUS"
+TABLE Term, Syllabus as "SYLLABUS"
 FROM #important_dates and #course_overview 
 
 
