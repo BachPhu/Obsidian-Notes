@@ -136,11 +136,12 @@ the sample
 ## SI Base Units
 ![[Screen Shot 2023-08-25 at 10.25.33 AM.png]]
 
+---
 ## Prefixes Used in the Metric System and with SI Units
 ![[Screen Shot 2023-08-25 at 10.26.30 AM.png]]
 
 
-
+---
 
 ## Temperature
 
@@ -152,7 +153,7 @@ the sample
 > $$ K = C + 273.15$$
 
 - The freezing point of water, 0 °C, is 273.15 K
-
+---
 ## Derived SI Units
 
 The SI base units are used to formulate _derived units_. A **derived unit** is obtained by multiplication or division of one or more of the base units.
@@ -161,6 +162,8 @@ The SI base units are used to formulate _derived units_. A **derived unit** is o
 **Density** is defined as the amount of mass in a unit volume of a substance:
 
 $$density = \frac{mass}{volume}$$
+
+---
 
 ## Units of Energy
 
@@ -172,3 +175,75 @@ A **calorie** (cal) was originally defined as the amount of energy required to r
 
 $$1 cal = 4.184 J (exactly)$$
 1 Cal = 1000 cal = 1 kcal.
+
+---
+
+# 1.6 
+
+## Exact and Inexact Numbers
+
+Two kinds of numbers are encountered in scientific work: _exact numbers_ (those whose values are known exactly) and _inexact numbers_ (those whose values have some uncertainty)
+
+*Certain digits*
+	▪ Numbers that remain the same regardless of who measures  
+them  
+*Uncertain digits*  
+	▪ Digits that must be estimated and therefore vary  
+	
+▪ While reporting a measurement, record all certain digits  
+plus the first uncertain digit  
+
+### Measurement of Volume Using a Burette  
+▪ Volume is read at the bottom of the liquid  
+curve, which is called the meniscus  
+▪ Meniscus of the liquid occurs at about 20.15 mL  
+	- Certain digits - 20.1  
+	- Uncertain digit - 20.1*5*
+
+---
+
+# Precision and Accuracy
+
+- **Precision** is a measure of how closely individual measurements agree with one another. 
+
+- **Accuracy** refers to how closely individual measurements agree with the correct, or “true,” value.
+![[Pasted image 20230826222400.png | 100]]
+
+The precision of the measurements is often expressed in terms of the _standard deviation_ (Appendix A.5), which reflects how much the individual measurements differ from the average.
+
+---
+## Types of Errors
+
+- Random error (intermediate error)  
+	▪ Measurement has an equal probability of being low or high  
+	▪ Occurs in estimating the value of the last digit of a  
+	measurement  
+	▪ More trials and standard deviation  
+- Systematic error (determinate error)  
+	▪ Occurs in the same direction each time  
+	▪ Either always high or always low  
+
+---
+# Significant Figures
+
+
+
+
+- Uncertainty in the last number is always assumed to be ±1 unless  
+otherwise indicated
+You could report the mass as 2.2405 ± 0.0001 g. The ± notation (read “plus or minus”) expresses the magnitude of the uncertainty of your measurement. In much scientific work, we drop the ± notation with the understanding that _there is always some uncertainty in the last digit reported for any measured quantity._
+
+### Rules for Counting Significant Figures (1 of 3)
+
+1. Nonzero integers: All nonzero digits are significant.  
+2. Zeros - There are three classes of zeros  
+▪ Leading zeros  
+▪ Captive zeros  
+	- Zeros _between_ nonzero digits are always significant—1005 kg (four significant figures); 7.03 cm (three significant figures).
+▪ Trailing zeros
+	- Zeros _at the end_ of a number are significant if the number contains a decimal point 0.0200 g (three significant figures); 3.0 cm (two significant figures);  1200.
+3. Exact numbers  
+▪ Determined by counting and not by using a measuring  
+device  
+▪ Assumed to have an infinite number of significant figures
+
