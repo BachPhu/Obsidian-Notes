@@ -6,9 +6,28 @@
 
 ---
 # 1.1
-- **Matter** is physical material
+- **Matter** is physical material (occupies space and has mass)
 - A **property** is characteristic of a particular type of matter and distinguish it from other types
-- In a **molecule**, two or more atoms are joined in specific shapes
+---
+### Atom
+- An atom is the smallest particle of an element that cannot be  
+chemically or mechanically divided into smaller particles
+- Properties of a substance can be determined by the kinds of atoms  
+(**composition**) and the way in which atoms are organized (**structure**) in  
+that substance
+
+---
+### Molecule
+- In a **molecule**, two or more atoms are joined in specific geometrical arrangement 
+	- attachments are called bonds  
+	- attachments come in different strengths  
+	- come in different shapes and patterns  
+
+---
+### Fundamental Concepts of Chemistry  
+▪ Matter is composed of various types of atoms  
+▪ By reorganizing the way, the atoms are attached to each other,  
+one substance changes to another
 
 # 1.2
 
@@ -19,11 +38,13 @@
 >     
 > - 1.2.3 Identify the atomic symbols of common elements.
 
+
+---
 ## States of Matter
 
 - State of Matter - state of matter that can be assume: gas, liquid, solid
 	- A **gas** (also known as vapor) has no fixed volume or shape. Can be compressed to occupy a smaller volume, or it can expand to occupy a larger one.
-	- A **liquid** has a distinct volume independent of its container, shape of it container, not easy to compress
+	- A **liquid** has a distinct volume, shape of its container, shape of it container, not easy to compress
 	- A **solid** has both a definite shape and a definite volume and is not easily compressed.
 
 - Compress a gas is decreases the amount of space and increase the frequency of collisions between molecules, not alter size or shape.
@@ -32,7 +53,8 @@
 ---
 ## Pure Substances
 
-- A **pure substance** (usually referred to simply as a _substance_) is matter that has distinct properties and a composition that does not vary from sample to sample.
+- A **pure substance** (usually referred to simply as a _substance_) is made up of only one  
+component, and its composition is invariant
 	-  Water and table salt (sodium chloride) are examples of pure substances.
 
 > [!NOTE]
@@ -55,17 +77,46 @@
 The elements hydrogen and oxygen themselves exist naturally as _diatomic_ (two-atom) molecules:
 ![[Pasted image 20230824235939.png ]]
 
+---
 ## Mixture
 
 Most of the matter we encounter consists of mixtures of different substances. Each substance in a mixture retains its chemical identity and properties. In contrast to a pure substance, which by definition has a fixed composition, the composition of a mixture can vary. A cup of sweetened coffee, for example, can contain either a little sugar or a lot. The substances making up a mixture are called _components_ of the mixture.
 
 - **Solution** mixture of substance that has uniform composition; a homogeneous mixture.
 
+## Classification of Matter
 
-- [n] Classification of matter.
+> [!Important]
+> The two fundamental ways in which matter is classified  
+> - Physical state  
+> - Composition
+
 ![[Pasted image 20230825000806.png]]
 
+- **heterogeneous** - Mixtures do not have the same composition, properties, and appearance throughout. (EX: rocks, woods)
+- _homogeneous_ - Mixtures that are uniform throughout. Also called solution (EX: soda, air) 
 
+---
+## The Organization of Matter based on Composition  
+![[Screen Shot 2023-08-26 at 8.35.22 PM.png]]
+
+## Types of Properties of Substances  
+
+▪ Physical properties can be observed without changing the  
+identity and composition of the substance.  
+	• These properties include color, odor, density, melting point, boiling  
+point, and hardness.  
+
+▪ Chemical properties describe the way a substance may change,  
+or react, to form other substances.  
+	• Flammability  
+	
+▪ Intensive properties do not depend on the quantity (amount) of  
+the sample  
+	• boiling point, color, etc.  
+	
+▪ Extensive properties depend on the amount of the sample.  
+	• mass, volume, etc.
 # 1.5
 
 
@@ -82,10 +133,10 @@ Most of the matter we encounter consists of mixtures of different substances. Ea
 
 ## The Metric System and SI Units
 
-SI Base Units
+## SI Base Units
 ![[Screen Shot 2023-08-25 at 10.25.33 AM.png]]
 
-Prefixes Used in the Metric System and with SI Units
+## Prefixes Used in the Metric System and with SI Units
 ![[Screen Shot 2023-08-25 at 10.26.30 AM.png]]
 
 
@@ -120,4 +171,4 @@ $$density = \frac{mass}{volume}$$
 A **calorie** (cal) was originally defined as the amount of energy required to raise the temperature of 1 g of water from 14.5 to 15.5 °C. It has since been defined in terms of a joule:
 
 $$1 cal = 4.184 J (exactly)$$
-1 Cal=1000 cal=1 kcal.
+1 Cal = 1000 cal = 1 kcal.
