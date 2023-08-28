@@ -1,0 +1,3 @@
+- While most of the experts on topic X see overfishing as the primary cause of species depletion, only Source D acknowledges that there may be other, environmental causes.
+- When I began writing about topic X, I expected to learn reason Y. To my surprise, none of the sources address this reason, which leads me to believe that . . .
+- Because Source A is the expert in the field of topic X, most others writing about X accede to A’s authority, but a closer examination of A reveals an important omission about X.

@@ -1,7 +1,8 @@
 #annotate #enc1101
 A GUIDE TO RHETORIC, GENRE, AND SUCCESS IN FIRST-YEAR WRITING
 
-# 5.1 Writing Summaries
+# <font color = #8E7CC3> 5.1 Writing Summaries </font>
+
 A **summary** is a comprehensive and objective restatement of the main ideas of a text
 
 Some good qualities to a good summary:
@@ -71,7 +72,7 @@ When your writing has a primary goal other than summary, your conclusion should:
 - discuss the summary you’ve just presented. How does it support, illustrate, or give new information about the point you are making in your writing? Connect it to your own main point for that paragraph so readers understand clearly why it deserves the space it takes up in your work. (Note that this is still not giving your opinion on the material you’ve summarized, just making connections between it and your own main points.)
 
 
-# 5.2 Synthesizing in Your Writing
+#  <font color = #8E7CC3> 5.2 Synthesizing in Your Writing</font>
 
 ## **How do you synthesize?**
 
@@ -93,3 +94,20 @@ Below are some steps you can use to help you synthesize research:
 ## **What synthesis IS**
 
 When you synthesize, you “cook” the ideas and opinions of others by thinking, talking, and writing about them, and what comes out is a dish full of many blended flavors but uniquely your recipe : [[Example of What Synthesis Could Be]]
+
+# <font color = #8E7CC3 >5.3 Make Connections When Synthesizing in Your Writing  </font>
+
+ - When you synthesize, you are responding to the voices and ideas of others, so you should be as flexible in your written response to them as you would be in a verbal response to those you were having a discussion with about a complex topic. 
+ 
+ - Primarily, your synthesis will indicate agreement or disagreement with your sources, but it may also recognize patterns of thinking, errors in logic, or the omission of important points—whatever it is you are adding to the conversation.
+ ---
+
+### [[Synthesis that adds to the conversation in other ways]]
+
+---
+### [[ Other Examples of Sentence Structures that Demonstrate Synthesis ]]
+
+What the above examples indicate is that synthesis is the careful weaving in of outside opinions in order to show your reader the many ideas and arguments on your topic and further assert your own. Notice, too, that the above examples are also _signal phrases_: language that introduces outside source material to be either quoted or paraphrased
+
+
+# <font color = #8E7CC3> 5.4 Informative vs. Argumentative Synthesis </font>
