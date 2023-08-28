@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Ch 1.7, 2.1-2.3.md"
+                "file": "Calculus/Calculus Table of Content.md"
               }
             }
           },
@@ -206,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae7dda73b39f960b",
+  "active": "3a675e87dc8c9fbb",
   "lastOpenFiles": [
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
@@ -214,9 +214,9 @@
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/EGN 1006.md",
     "School/ENC 1101.md",
-    "Finally, conclude the discussion and finalize your position.md",
-    "Then, you are moderating the debate among the experts.md",
-    "First, you start the debate with the assertion that sets the goal for the debate, its controversy.md",
+    "Example/Finally, conclude the discussion and finalize your position.md",
+    "Example/Then, you are moderating the debate among the experts.md",
+    "Example/First, you start the debate with the assertion that sets the goal for the debate, its controversy.md",
     "Hobbies/Anime Movie.md",
     "Example/Example for Caution w Opposing View.md",
     "Example/Example of A Summarize Essay Introduction.md",
