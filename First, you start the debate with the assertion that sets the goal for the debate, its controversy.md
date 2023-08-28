@@ -1,0 +1,1 @@
+- _Example: Societal changes are a large part in the debate of free speech and its limitations_. _The debate is about whether offensive speech should be punished when it is said with the intent to psychologically harm a group or person, or if immoral or scandalous speech should be off-limits._

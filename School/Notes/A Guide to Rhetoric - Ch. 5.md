@@ -121,3 +121,13 @@ In informative writing, you are explaining the discussion points and topics to y
 > - Stay neutral both in your comments on the found information and in your conclusions reached at the end of the discussion.
 
 [[Examples for Explanatory Synthesis]]
+
+##  **What is an Argumentative Synthesis?**
+
+You are to support your ideas with evidence found in multiple sources, show and explain how the authors’ opinions relate, who of your authors agree and who disagree on the controversial issue, while your comments on the information retrieved from these sources and your conclusions will clarify _your own position_in the debate.
+
+![[First, you start the debate with the assertion that sets the goal for the debate, its controversy]]
+
+![[Then, you are moderating the debate among the experts]]
+
+![[Finally, conclude the discussion and finalize your position]]

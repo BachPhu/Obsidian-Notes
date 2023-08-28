@@ -1,0 +1,1 @@
+-  _Thus,_ _hateful and immoral speech – which typically associates itself with low-value because of harmful words – will continue to find its limitations in the world even if it is not through government operations…_
