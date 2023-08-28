@@ -104,12 +104,13 @@ Most of the matter we encounter consists of mixtures of different substances. Ea
 
 ▪ Physical properties can be observed without changing the  
 identity and composition of the substance.  
-	• These properties include color, odor, density, melting point, boiling  
-point, and hardness.  
+	• These properties include color, odor, density, melting point, boiling point, and hardness.  
+	- no change in composition
 
 ▪ Chemical properties describe the way a substance may change,  
 or react, to form other substances.  
 	• Flammability  
+	- chang in composition
 	
 ▪ Intensive properties do not depend on the quantity (amount) of  
 the sample  
