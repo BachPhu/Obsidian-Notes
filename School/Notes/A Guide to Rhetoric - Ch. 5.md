@@ -120,3 +120,4 @@ In informative writing, you are explaining the discussion points and topics to y
 > - You have to objectively introduce the ideas of others, explain and show how their information is related to each other’s, how the information may connect and diverge. 
 > - Stay neutral both in your comments on the found information and in your conclusions reached at the end of the discussion.
 
+[[Examples for Explanatory Synthesis]]
