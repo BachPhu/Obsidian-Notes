@@ -131,3 +131,16 @@ You are to support your ideas with evidence found in multiple sources, show and 
 ![[Then, you are moderating the debate among the experts]]
 
 ![[Finally, conclude the discussion and finalize your position]]
+
+When you synthesize, you are a part of the discussion and a leader of the discussion that you have initiated. You are introducing the voices and ideas of others, so you should be flexible and fair to all participating authors. You should avoid personal attack, as well as other logical fallacies in your comments on the information borrowed from your source materials
+
+# 5.5 Synthesis and Literature Reviews
+
+Literature reviews (sometimes shortened to “lit reviews”) synthesize previous research that has been done on a particular topic, summarizing important works in the history of research on that topic. The literature review provides context for the author’s own new research. It is the basis and background out of which the author’s research grows. Context = credibility in academic writing. When writers are able to produce a literature review, they demonstrate the breadth of their knowledge about how others have already studied and discussed their topic.
+
+> [!NOTE]
+> - Literature reviews are most often **arranged by topic or theme**, much like a traditional explanatory synthesis paper.
+> - If one is looking at a topic that has a long history of research and scholarship, one may conduct a **chronological** literature review, one that looks at how the research topic has been studied and discussed in various time periods (i.e., what was published ten years ago, five years ago, and within the last year, for example).
+> - Finally, in some instances, one might seek to craft a literature review that is organized **by discipline or field.** This type of literature review could offer information about how different academic fields have examined a particular topic (i.e., what is the current research being done by _biologists_ on this topic? What is the current research being done by _psychologists_ on this topic? What is the current research being done by [_insert academic discipline]_ on this topic?).
+
+A Literature Review offers _only_ a report on what others have already written about. The Literature Review does not reflect the author’s own argument or contributions to the field of research
