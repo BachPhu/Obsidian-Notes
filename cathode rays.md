@@ -1,0 +1,1 @@
+steams of electrons that are produced when a high voltage is applied to electrodes in an evacuated tube

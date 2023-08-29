@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-                "mode": "preview",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md"
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md"
               }
             }
           },
@@ -208,14 +208,20 @@
   },
   "active": "ad54f0677bbaa608",
   "lastOpenFiles": [
-    "Summary & synthesis.md",
-    "School/ENC 1101.md",
+    "cathode rays.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
+    "subatomic particles.md",
+    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+    "Keyboard Shortcuts.md",
+    "Obsidian Shortcuts.md",
+    "Summary & synthesis.md",
+    "Images/Pasted image 20230829142255.png",
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+    "School/ENC 1101.md",
     "Calculus 3.1 Defining the Derivative, Example 3.8;.md",
     "School/MAC 2311.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/COP 2271.md",
     "School/CHM 2045L.md",
     "School/CHM 2045.md",
@@ -223,7 +229,6 @@
     "Calculus/Power Rule.md",
     "Calculus/Unit Circle.md",
     "School/Notes/3.6 Finding Velocity and Displacement from Acceleration.md",
-    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "TESTTEST",
     "Example/Then, you are moderating the debate among the experts.md",
@@ -231,10 +236,6 @@
     "Example/Finally, conclude the discussion and finalize your position.md",
     "Finally, conclude the discussion and finalize your position.md",
     "Then, you are moderating the debate among the experts.md",
-    "First, you start the debate with the assertion that sets the goal for the debate, its controversy.md",
-    "Hobbies/Anime Movie.md",
-    "Example/Example for Caution w Opposing View.md",
-    "Example/Example of A Summarize Essay Introduction.md",
     "Example",
     "Images/Pasted image 20230826222400.png",
     "Images/Screen Shot 2023-08-26 at 8.35.22 PM.png",
@@ -253,7 +254,6 @@
     "8/22 – 8",
     "Images/CHEML DATES.png",
     "School/Lecture Notes",
-    "Images/Screen Shot 2023-08-11 at 12.02.56 AM.png",
     "Calculus/Geo.canvas",
     "Keyboard Shortcut.canvas"
   ]
