@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary & synthesis.md",
-                "mode": "source",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary & synthesis.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary & synthesis.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary & synthesis.md"
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md"
               }
             }
           },
@@ -208,8 +208,8 @@
   },
   "active": "ad54f0677bbaa608",
   "lastOpenFiles": [
-    "School/ENC 1101.md",
     "Summary & synthesis.md",
+    "School/ENC 1101.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "Calculus 3.1 Defining the Derivative, Example 3.8;.md",
     "School/MAC 2311.md",
