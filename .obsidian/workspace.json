@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Antiderivative.md",
+                "file": "Calculus/Power Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Antiderivative.md",
+                "file": "Calculus/Power Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Antiderivative.md",
+                "file": "Calculus/Power Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Antiderivative.md"
+                "file": "Calculus/Power Rule.md"
               }
             }
           },
@@ -208,19 +208,21 @@
   },
   "active": "ae7dda73b39f960b",
   "lastOpenFiles": [
-    "Calculus/Algebra-base Fomular.md",
-    "Obsidian Shortcuts.md",
-    "Calculus/Antiderivative.md",
-    "Calculus/Power Rule.md",
-    "Calculus/Quadratic Formula.md",
-    "School/MAC 2311.md",
-    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
-    "Calculus/Calculus Table of Content.md",
-    "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "School/CHM 2045.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/EGN 1006.md",
     "School/ENC 1101.md",
+    "School/MAC 2311.md",
+    "School/Notes/3.6 Finding Velocity and Displacement from Acceleration.md",
+    "School/Notes/Ch 1.7, 2.1-2.3.md",
+    "School/COP 2271.md",
+    "Calculus/Antiderivative.md",
+    "Calculus/Algebra-base Fomular.md",
+    "Obsidian Shortcuts.md",
+    "Calculus/Power Rule.md",
+    "Calculus/Quadratic Formula.md",
+    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+    "Calculus/Calculus Table of Content.md",
+    "School/CHM 2045.md",
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Finally, conclude the discussion and finalize your position.md",
     "Example/Then, you are moderating the debate among the experts.md",
     "Example/First, you start the debate with the assertion that sets the goal for the debate, its controversy.md",
@@ -232,8 +234,6 @@
     "Example/Synthesis that adds to the conversation in other ways.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "**Other Examples of Sentence Structures that Demonstrate Synthesis**.md",
-    "School/COURSES Dates.md",
-    "Templates/Latex color/ppurple.md",
     "Example",
     "Images/Pasted image 20230826222400.png",
     "Images/Screen Shot 2023-08-26 at 8.35.22 PM.png",
