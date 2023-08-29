@@ -1,0 +1,5 @@
+![[Power Rule]]
+
+
+![[Antiderivative]]
+
