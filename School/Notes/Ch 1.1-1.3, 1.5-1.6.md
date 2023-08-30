@@ -164,6 +164,9 @@ The SI base units are used to formulate _derived units_. A **derived unit** is o
 
 $$density = \frac{mass}{volume}$$
 
+
+- [n] change in temperature changes volume
+
 ---
 
 ## Units of Energy
@@ -200,6 +203,10 @@ curve, which is called the meniscus
 ▪ Meniscus of the liquid occurs at about 20.15 mL  
 	- Certain digits - 20.1  
 	- Uncertain digit - 20.1*5*
+
+EX: Ruler A has no mark, Ruler B has cm marks
+A can only have 2 sig. fig.
+B can have 3 sig. fig.
 
 ---
 
