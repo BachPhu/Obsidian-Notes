@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
+                "file": "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
+                "file": "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
+                "file": "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md"
+                "file": "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md"
               }
             }
           },
@@ -208,20 +208,21 @@
   },
   "active": "6039fc5abb1d6874",
   "lastOpenFiles": [
+    "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
+    "School/Notes/3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
+    "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
+    "School/MAC 2311.md",
     "Obsidian Shortcuts.md",
-    "3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
-    "School/MAC 2311.md",
     "School/CHM 2045.md",
     "School/CHM 2045L.md",
     "School/COP 2271.md",
     "School/vocab/subatomic particles.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "2.2 The Limit of a Function - Calculus 2.2;.md",
+    "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
     "School/Notes/3.6 Finding Velocity and Displacement from Acceleration.md",
     "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
-    "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "Calculus/Calculus Table of Content.md",
     "School/COURSES Dates.md",
@@ -233,7 +234,6 @@
     "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Contextual Applications of Differentiation.md",
     "Calculus/Differentiation - Composite, Implicit, and Inverse Functions.md",
-    "Calculus/Differentiation - Definition and Fundamental Properties.md",
     "School/vocab",
     "Images/Pasted image 20230829142255.png",
     "TESTTEST",
