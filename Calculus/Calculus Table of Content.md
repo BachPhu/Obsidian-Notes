@@ -1,9 +1,9 @@
-# Calculus 1 (MAC 2311)
+# Calculus 
 
 ```dataview
 TABLE unit as "Unit"
-FROM #calculus 
+FROM #calculus/unit  
 sort unit asc
 ```
 
-#  Calculus 2
+

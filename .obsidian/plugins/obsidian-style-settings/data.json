@@ -41,5 +41,7 @@
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
-  "anuppuccin-theme-settings@@anp-td-highlight": "anp-table-col-alt"
+  "anuppuccin-theme-settings@@anp-td-highlight": "anp-table-col-alt",
+  "anuppuccin-theme-settings@@anp-table-align-td": "center",
+  "anuppuccin-theme-settings@@anp-table-align-th": "left"
 }
