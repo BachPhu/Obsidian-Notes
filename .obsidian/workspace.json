@@ -34,8 +34,6 @@
               },
               "pinned": true
             }
-<<<<<<< HEAD
-=======
           },
           {
             "id": "ad54f0677bbaa608",
@@ -43,15 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
+                "file": "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
                 "mode": "source",
                 "source": false
               }
             }
->>>>>>> parent of 1862044 (Update workspace.json)
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,15 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "School/COURSES Dates.md",
-=======
-                "file": "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
->>>>>>> parent of 1862044 (Update workspace.json)
-=======
-                "file": "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
->>>>>>> parent of 158722c (vault backup: 2023-08-29 19:04:06)
+                "file": "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "School/COURSES Dates.md",
-=======
-                "file": "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
->>>>>>> parent of 1862044 (Update workspace.json)
-=======
-                "file": "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
->>>>>>> parent of 158722c (vault backup: 2023-08-29 19:04:06)
+                "file": "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,15 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "School/COURSES Dates.md"
-=======
-                "file": "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md"
->>>>>>> parent of 1862044 (Update workspace.json)
-=======
-                "file": "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md"
->>>>>>> parent of 158722c (vault backup: 2023-08-29 19:04:06)
+                "file": "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md"
               }
             }
           },
@@ -233,24 +206,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81743d8f19343154",
+  "active": "ad54f0677bbaa608",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
-=======
-    "School/MAC 2311.md",
-<<<<<<< HEAD
->>>>>>> parent of 1862044 (Update workspace.json)
-    "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
-    "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
-    "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
-    "School/MAC 2311.md",
-=======
-    "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
->>>>>>> parent of 158722c (vault backup: 2023-08-29 19:04:06)
-    "Calculus 3.1 Defining the Derivative, Example 3.8;.md",
-    "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
     "School/Notes/3.6 Finding Velocity and Displacement from Acceleration.md",
+    "Calculus 3.1 Defining the Derivative, Example 3.8;.md",
+    "3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
+    "3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
+    "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
+    "School/MAC 2311.md",
+    "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "Calculus/Triangle.md",
     "Calculus/Unit Circle.md",
