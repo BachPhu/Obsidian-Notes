@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
+                "file": "School/COP 2271.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
+                "file": "School/COP 2271.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
+                "file": "School/COP 2271.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md"
+                "file": "School/COP 2271.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "988d1b13c07d8f86",
   "lastOpenFiles": [
+    "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "School/MAC 2311.md",
     "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
     "Hobbies/Goodbye, Don Glees!.md",
@@ -235,7 +236,6 @@
     "Images/Pasted image 20230830124541.png",
     "School/CHM 2045.md",
     "School/Notes/3.6 Finding Velocity and Displacement from Acceleration.md",
-    "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
     "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
     "School/Notes/Calculus 3.1 Defining the Derivative, Example 3.8;.md",
