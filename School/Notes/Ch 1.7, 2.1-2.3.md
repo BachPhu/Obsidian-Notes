@@ -61,3 +61,4 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 - Gamma radiation is high-energy electromagnetic radiation similar to X rays; it does not consist of particles and it carries no charge.
 
 ![[Pasted image 20230830124541.png]]
+
