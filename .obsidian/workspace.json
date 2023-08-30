@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/ENC 1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/ENC 1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/ENC 1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/COP 2271.md"
+                "file": "School/ENC 1101.md"
               }
             }
           },
@@ -220,13 +220,13 @@
   },
   "active": "988d1b13c07d8f86",
   "lastOpenFiles": [
+    "School/COP 2271.md",
     "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "School/MAC 2311.md",
     "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
     "Hobbies/Goodbye, Don Glees!.md",
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "School/Notes/1.6-1.10.md",
-    "School/COP 2271.md",
     "School/COURSES Dates.md",
     "School/EGN 1006.md",
     "School/ENC 1101.md",
