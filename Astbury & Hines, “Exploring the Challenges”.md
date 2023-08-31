@@ -1,0 +1,5 @@
+- Lags behind Europe and Asia in scientific and mathematic field 
+- The need to inspire/motivate the public to seek for more knowledge
+- Report from National Academies of Sciences, Engineering, and Medicine (2016) underline that there're challenged scientists face while communicate with the public
+- The report was lack of information on how to improve or fix the problem. Also outdated info
+- 
