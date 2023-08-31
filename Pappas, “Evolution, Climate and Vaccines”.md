@@ -1,4 +1,5 @@
-- public reject evolutions, science conclusion
+- Context: Research pull of Pew and Gallup suggest that the public reject evolutions, science conclusion
+- Claim: but there're evidence showed otherwise, for ex: 75% are in favor of taxpayer funded science research. and the debate of public rejecting science was oversimplified
 - deny because of reason like: to protect their social identity
 - "Kahan's research has also shown that the more science-literate people are, the more strongly they hold to their beliefs — even if those [beliefs are totally wrong](https://www.livescience.com/44792-what-science-communicators-can-learn-from-listening-to-people.html)."
 - not because misunderstand but more about protecting personal opinion
