@@ -12,4 +12,4 @@
 ### Media
 - the report did good in naming the challenges that scientists face with modern media
 - report say the social media is something science community have to cope with while the article author believe the otherwise.
-- 
+- report doubt journalist while article say they should trust journalist since they are the communicator for the scientists

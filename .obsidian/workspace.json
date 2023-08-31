@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astbury & Hines, “Exploring the Challenges”.md",
+                "file": "Mervis, “Americans May Know”.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Astbury & Hines, “Exploring the Challenges”.md",
+                "file": "Mervis, “Americans May Know”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Astbury & Hines, “Exploring the Challenges”.md",
+                "file": "Mervis, “Americans May Know”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Astbury & Hines, “Exploring the Challenges”.md"
+                "file": "Mervis, “Americans May Know”.md"
               }
             }
           },
@@ -220,11 +220,12 @@
   },
   "active": "988d1b13c07d8f86",
   "lastOpenFiles": [
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "Astbury & Hines, “Exploring the Challenges”.md",
     "School/ENC 1101.md",
+    "Mervis, “Americans May Know”.md",
     "School/EGN 1006.md",
     "School/MAC 2311.md",
+    "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/COP 2271.md",
     "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
@@ -246,7 +247,6 @@
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
     "School/vocab/subatomic particles.md",
-    "Calculus/Calculus Table of Content.md",
     "School/vocab",
     "Images/Pasted image 20230829142255.png",
     "TESTTEST",

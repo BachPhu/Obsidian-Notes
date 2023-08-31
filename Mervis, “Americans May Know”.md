@@ -1,0 +1,2 @@
+- tradi survey underestimate the "community literacy" - —the phenomenon by which individuals learn about and take collective action on issues they care deeply about, from AIDS to environmental justice.
+- 
