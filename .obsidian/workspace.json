@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Mervis, “Americans May Know”.md",
+                "file": "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Mervis, “Americans May Know”.md",
+                "file": "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Mervis, “Americans May Know”.md"
+                "file": "School/Notes/Astbury & Hines, “Exploring the Challenges”.md"
               }
             }
           },
@@ -242,13 +242,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b81853ca4ebe77da",
+  "active": "c408ed859470b539",
   "lastOpenFiles": [
+    "Pappas, “Evolution, Climate and Vaccines”.md",
+    "School/Notes/Mervis, “Americans May Know”.md",
     "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
     "School/Lecture Notes/Summary & synthesis.md",
-    "School/Notes/Mervis, “Americans May Know”.md",
     "School/ENC 1101.md",
-    "Pappas, “Evolution, Climate and Vaccines”.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/vocab/upstream engagement.md",
     "School/MAC 2311.md",
