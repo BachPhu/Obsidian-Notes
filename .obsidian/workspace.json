@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55f60335df528e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobbies/Game Wish List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/CHM 2045L.md",
+                "file": "Hobbies/Game Wish List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/CHM 2045L.md",
+                "file": "Hobbies/Game Wish List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/CHM 2045L.md"
+                "file": "Hobbies/Game Wish List.md"
               }
             }
           },
@@ -206,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6039fc5abb1d6874",
+  "active": "55f60335df528e9b",
   "lastOpenFiles": [
     "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "School/MAC 2311.md",
