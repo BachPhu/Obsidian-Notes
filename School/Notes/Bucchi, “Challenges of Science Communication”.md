@@ -12,3 +12,4 @@ tags:
 > 3) _Identify_ and _explain_ a particularly significant passage from the reading. Does the passage serve as a key to understanding the reading's larger point? Does it provide a particularly compelling example? Does it prompt further avenues for investigation?
 > 4) _Write_ at least two discussion questions about any aspect of the reading.
 
+new tech -> allow more chances to publish papers, communicate w public -> more dilute content
