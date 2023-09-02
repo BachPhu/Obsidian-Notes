@@ -1,4 +1,9 @@
-#annotate #chm2045
+---
+tags:
+  - chm2045
+  - annotate
+---
+
 
 - [*] **1.1** **The Study of Chemistry** Learn what chemistry is, what atoms and molecules are, and why it is useful to study chemistry.
     

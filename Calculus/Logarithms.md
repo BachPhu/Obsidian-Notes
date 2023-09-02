@@ -1,5 +1,6 @@
 ---
-tag: fomular
+tags:
+  - formula
 ---
 
 ## Algebra Logarithms

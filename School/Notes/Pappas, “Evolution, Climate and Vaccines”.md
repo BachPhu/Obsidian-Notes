@@ -1,3 +1,11 @@
+---
+tags:
+  - enc1101
+  - annotate
+---
+
+
+
 - Context: Research pull of Pew and Gallup suggest that the public reject evolutions, science conclusion
 - Claim: but there're evidence showed otherwise, for ex: 75% are in favor of taxpayer funded science research. and the debate of public rejecting science was oversimplified
 - deny because of reason like: to protect their social identity
