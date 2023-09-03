@@ -17,4 +17,12 @@ tags:
 - reader need to be responsible for selecting credibility source to consume
 - the opportunity in the internet landscape r broad, for both citizen and scientist discussion
 
- bc of the promote definition of science, it built up expectation and eventually ppl discard it when the outcome doesnt fit their bias
+ - bc of the promote definition of science, it built up expectation and eventually ppl discard it when the outcome doesnt fit their bias
+
+### Support
+- author used stasistic to demonstrate the rise in published paper without being filter and result in them being retracted - show that it's diluted
+- Science paper.
+- 
+
+### Significant passage
+Science paper. Question that should amateur scientist be restrict to publicly criticism science matter? Since the internet cooperate into own life, we used forum for discussion. It offer both risks and open room for new/different views. therefore, we need to redefine accuracy and quality while staying open, which can be a struggle for scientist. (an example would be the the facebook discussion where the an immunologist state: only the one studied can comment)
