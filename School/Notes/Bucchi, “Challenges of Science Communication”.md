@@ -15,6 +15,6 @@ tags:
 - new tech -> allow more chances to publish papers, communicate w public -> more availiable content , ppl become cheap-> more dilute content -> harder for both side to find each other
 - scientist need greater responsibility and accuracy content but also open for fair opinion
 - reader need to be responsible for selecting credibility source to consume
+- the opportunity in the internet landscape r broad, for both citizen and scientist discussion
 
  bc of the promote definition of science, it built up expectation and eventually ppl discard it when the outcome doesnt fit their bias
- 
