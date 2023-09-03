@@ -1,3 +1,9 @@
+---
+tags:
+  - calculus/mac2311
+---
+
+
 ![[Power Rule]]
 
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - enc1101
+  - annotate
+---
+
+
 - Context: Lags behind Europe and Asia in scientific and mathematic field 
 - The need to inspire/motivate the public to seek for more knowledge
 ---

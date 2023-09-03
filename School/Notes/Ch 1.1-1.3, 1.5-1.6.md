@@ -1,4 +1,9 @@
-#annotate #chm2045
+---
+tags:
+  - chm2045
+  - annotate
+---
+
 
 - [*] **1.1** **The Study of Chemistry** Learn what chemistry is, what atoms and molecules are, and why it is useful to study chemistry.
     
@@ -154,6 +159,9 @@ the sample
 > $$ K = C + 273.15$$
 
 - The freezing point of water, 0 °C, is 273.15 K
+$$ C = \frac{5}{9}(F - 32)$$
+or
+$$F = \frac{9}{5}(C) + 32$$
 ---
 ## Derived SI Units
 

@@ -45,11 +45,12 @@ gunbrella
 Zealot
 Sons of Valhalla
 Stars Fetcher
+Kanata Zero
 
 ---
 # Maybe
 Dying Light 2
-
+What Remains of 
 
 
 ---

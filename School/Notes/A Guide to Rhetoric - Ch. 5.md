@@ -1,4 +1,9 @@
-#annotate #enc1101
+---
+tags:
+  - enc1101
+  - annotate
+---
+
 A GUIDE TO RHETORIC, GENRE, AND SUCCESS IN FIRST-YEAR WRITING
 
 # <font color = #8E7CC3> 5.1 Writing Summaries </font>
