@@ -26,6 +26,7 @@ Fortune's Run
 Spookware
 Yuppie Psycho
 Before Your Eyes
+sword of the sea
 ## Good Art SO Maybe
 Chinatown Detective Agency
 Narita Boy
@@ -59,12 +60,15 @@ spirittea
 lil gator game
 Casset beast
 The case of golden idol
+under the wave
+What Remains of 
+Earth of oryn
 
 ---
 # Maybe
 Dying Light 2
-What Remains of 
-
+Metal: Hellisinger
+finding moosey
 
 ---
 # Free
