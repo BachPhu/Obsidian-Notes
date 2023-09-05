@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -214,16 +213,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false
     }
   },
   "active": "6b6f42e1c95ac98c",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Example/Example of A Summarize Essay Introduction.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Example/Example for Caution w Opposing View.md",
     "School/ENC 1101.md",
     "conflict-files-obsidian-git.md",
@@ -246,7 +246,6 @@
     "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
     "School/Notes/Mervis, “Americans May Know”.md",
     "School/vocab/upstream engagement.md",
-    "School/Notes/3.3 Average and Instantaneous Acceleration - Physics 3.3;.md",
     "Images/Pasted image 20230830124541.png",
     "School/vocab",
     "Images/Pasted image 20230829142255.png",
