@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
+                "file": "Hobbies/Game Wish List.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5007095336914,
-    "collapsed": true
+    "width": 319.5007095336914
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
+                "file": "Hobbies/Game Wish List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
+                "file": "Hobbies/Game Wish List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md"
+                "file": "Hobbies/Game Wish List.md"
               }
             }
           },
@@ -221,8 +220,8 @@
   },
   "active": "96b692c44549c3f1",
   "lastOpenFiles": [
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/Notes/Bucchi, “Challenges of Science Communication”.md",
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/ENC 1101.md",
     "Calculus/Quadratic Formula.md",
     "Calculus/Logarithms.md",
