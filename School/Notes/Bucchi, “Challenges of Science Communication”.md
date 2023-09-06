@@ -22,7 +22,7 @@ tags:
 ### Support
 - author used stasistic to demonstrate the rise in published paper without being filter and result in them being retracted - show that it's diluted
 - Science paper.
-- 
+- publish in context to 
 
 ### Significant passage
 Science paper. Question that should amateur scientist be restrict to publicly criticism science matter? Since the internet cooperate into own life, we used forum for discussion. It offer both risks and open room for new/different views. therefore, we need to redefine accuracy and quality while staying open, which can be a struggle for scientist. (an example would be the the facebook discussion where the an immunologist state: only the one studied can comment)

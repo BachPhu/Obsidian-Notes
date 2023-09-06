@@ -21,8 +21,12 @@ Hunt the Night
 a space for the unbound
 Lord of the Fallen
 Pacific Drive
-Abzu
+Journey
 Fortune's Run
+Spookware
+Yuppie Psycho
+Before Your Eyes
+sword of the sea
 ## Good Art SO Maybe
 Chinatown Detective Agency
 Narita Boy
@@ -46,12 +50,25 @@ Zealot
 Sons of Valhalla
 Stars Fetcher
 Kanata Zero
+Abzu
+Gloomwood
+There is no light
+Toem
+Repose
+Ground Zero
+spirittea
+lil gator game
+Casset beast
+The case of golden idol
+under the wave
+What Remains of 
+Earth of oryn
 
 ---
 # Maybe
 Dying Light 2
-What Remains of 
-
+Metal: Hellisinger
+finding moosey
 
 ---
 # Free
@@ -59,3 +76,8 @@ Yonder the Cloud Catcher
 Shatterline
 Kartrider Drift
 Bloody Hell
+
+---
+# Watch
+Firewatch
+Coffee Talk
