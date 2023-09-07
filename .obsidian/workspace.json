@@ -77,22 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
+                "file": "Mooney, “Blinded by Science”.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "64358e43b7b59808",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -170,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mooney, “Blinded by Science”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mooney, “Blinded by Science”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mooney, “Blinded by Science”.md"
+              }
             }
           },
           {
@@ -246,20 +242,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "64358e43b7b59808",
+  "active": "07c6989444c580da",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
+    "Mooney, “Blinded by Science”.md",
+    "School/EGN 1006.md",
+    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+    "School/CHM 2045.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "conflict-files-obsidian-git.md",
-    "School/CHM 2045.md",
     "Calculus/Limits and Continuity.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Limit-Based Continuity.md",
     "School/Lecture Notes/Summary & synthesis.md",
-    "School/ENC 1101.md",
     "School/vocab/Pappas, “Evolution, Climate and Vaccines”.md",
     "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
     "School/Notes/Mervis, “Americans May Know”.md",
-    "School/EGN 1006.md",
     "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Untitled.canvas",
     "Example/Example of A Summarize Essay Introduction.md",
@@ -272,9 +270,7 @@
     "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
     "School/Notes/3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
     "School/COURSES Dates.md",
-    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/Notes/3.1 Defining the Derivative - Calculus 3.1; 3.2 The Derivative as a Function.md",
-    "School/CHM 2045L.md",
     "Images/Pasted image 20230830124541.png",
     "School/vocab",
     "Images/Pasted image 20230829142255.png",
