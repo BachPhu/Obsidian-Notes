@@ -77,8 +77,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mooney, “Blinded by Science”.md",
-                "mode": "source",
+                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mooney, “Blinded by Science”.md",
+                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mooney, “Blinded by Science”.md",
+                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mooney, “Blinded by Science”.md"
+                "file": "School/Notes/Bucchi, “Challenges of Science Communication”.md"
               }
             }
           },
