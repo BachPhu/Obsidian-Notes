@@ -68,3 +68,12 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 
 ![[Pasted image 20230830124541.png]]
 
+# 2.3 Atomic Structure
+### Rutherford's Exp. Conclusion
+
+
+### Atomic Structure
+
+### Atomic Number
+
+### Isotopes

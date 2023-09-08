@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/2.4-2.8.md",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/2.4-2.8.md",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/2.4-2.8.md",
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/2.4-2.8.md"
+                "file": "School/Notes/Ch 1.7, 2.1-2.3.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   "active": "bd8486050502f0f9",
   "lastOpenFiles": [
     "School/CHM 2045.md",
-    "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/Notes/2.4-2.8.md",
+    "School/Notes/Ch 1.7, 2.1-2.3.md",
     "Calculus/Calculus Table of Content.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
