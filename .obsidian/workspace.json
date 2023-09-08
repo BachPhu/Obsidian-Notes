@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "School/EGN 1006.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/ENC 1101.md"
+                "file": "Calculus/Calculus Table of Content.md"
               }
             }
           },
@@ -218,12 +219,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd8486050502f0f9",
+  "active": "3a675e87dc8c9fbb",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
     "School/Lecture Notes/Summary & synthesis.md",
-    "School/ENC 1101.md",
     "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Mooney, “Blinded by Science”.md",
     "Calculus/Limit-Based Continuity.md",
