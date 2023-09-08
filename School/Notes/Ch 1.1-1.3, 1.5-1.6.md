@@ -263,3 +263,4 @@ You could report the mass as 2.2405 ± 0.0001 g. The ± notation (read “plu
 device  
 ▪ Assumed to have an infinite number of significant figures
 
+![[sig fig rule]] 
