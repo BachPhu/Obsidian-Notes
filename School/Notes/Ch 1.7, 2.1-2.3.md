@@ -97,13 +97,3 @@ Example 2.4
 | ------------- | ------ | ------- | -------- | ------------- | ----------- | --- |
 | U             | 92     | 144     | 92       | _92_          | 236          |
 
-### Atomic Mass Unit (amu)
-
-mass number = p + n (whole number)
-atomic mass = $\sum\limits_{n}$ (fraction of isotopes n) * (mass of isotopes )
-
-$28Si$ (92.23%), atomic mass 27.97693 amu;  
-29Si (4.68%), atomic mass 28.97649 amu; and 30Si (3.09 %), atomic mass 29.97377  
-amu. Calculate the atomic weight of silicon.%)
-
-Si - 28 = .9223 *  27.97693 = ...
