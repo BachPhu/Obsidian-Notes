@@ -68,6 +68,7 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 
 ![[Pasted image 20230830124541.png]]
 
+# Rutherford's Gold Foil Experiment
 # 2.3 Atomic Structure
 ## Atomic Numbers, Mass Numbers, and Isotopes
 
