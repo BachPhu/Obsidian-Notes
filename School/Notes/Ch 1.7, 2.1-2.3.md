@@ -68,3 +68,32 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 
 ![[Pasted image 20230830124541.png]]
 
+# Rutherford's Gold Foil Experiment
+# 2.3 Atomic Structure
+## Atomic Numbers, Mass Numbers, and Isotopes
+
+### Rutherford's Exp. Conclusion
+Nucleus contain **proton** and _neutron_. Electron moving around the nucleus at a distance
+
+![[Pasted image 20230908125313.png]]
+#### Atomic Structure
+Nucleus contain:
+- **protons**: positive charge that is equal in magnitude to _electron_'s negative charge
+- <font color = #84C1FF> neutrons</font>: have virtually the same mass as proton but no charge
+### Atomic Number
+![[Pasted image 20230908130134.png]]
+
+Atomic number: The number of protons ($p^{+}$). Identity of an element
+If there's no charge, # of proton = # of electrons
+### Isotopes
+
+![[Isotopes]]
+
+![[Pasted image 20230908130738.png]]
+
+Example 2.4
+
+| Atomic Symbol | proton | neutron | electron | atomic number | mass number |     |
+| ------------- | ------ | ------- | -------- | ------------- | ----------- | --- |
+| U             | 92     | 144     | 92       | _92_          | 236          |
+
