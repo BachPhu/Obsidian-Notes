@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+                "file": "School/COP 2271.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+                "file": "School/COP 2271.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+                "file": "School/COP 2271.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md"
+                "file": "School/COP 2271.md"
               }
             }
           },
@@ -220,9 +220,17 @@
   },
   "active": "bd8486050502f0f9",
   "lastOpenFiles": [
-    "sig fig rule.md",
-    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/CHM 2045.md",
+    "School/Notes/sig fig rule.md",
+    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
+    "School/vocab/Isotopes.md",
+    "School/Notes/Mooney, “Blinded by Science”.md",
+    "School/Notes/2.4-2.8.md",
+    "Images/Pasted image 20230908130738.png",
+    "Images/Pasted image 20230908130733.png",
+    "Images/Pasted image 20230908125313.png",
+    "Hobbies/Pasted image 20230908130134.png",
+    "2.1 A Preview of Calculus - Calculus 2.1;.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
@@ -243,10 +251,6 @@
     "Example/Example for Caution w Opposing View.md",
     "School/MAC 2311.md",
     "School/Notes/Pappas, “Evolution, Climate and Vaccines”.md",
-    "School/Notes/Calculus 3.1 Defining the Derivative, Example 3.8;.md",
-    "Calculus/Power Rule.md",
-    "School/Notes/3.2 Instantaneous Velocity and Speed - Physics 3.2;.md",
-    "School/Notes/3.1 Position, Displacement, and Average Velocity - Physics 3.1;.md",
     "Images/Pasted image 20230830124541.png",
     "School/vocab",
     "Images/Pasted image 20230829142255.png",
@@ -257,10 +261,6 @@
     "Images/Screen Shot 2023-08-25 at 10.26.30 AM.png",
     "Images/Screen Shot 2023-08-25 at 10.25.33 AM.png",
     "School/Notes",
-    "Images/Pasted image 20230825000806.png",
-    "Images/Pasted image 20230824235939.png",
-    "Images/Pasted image 20230824234526.png",
-    "Images/Pasted image 20230824234101.png",
     "9/11 – 9",
     "9",
     "8/21 – 8",
