@@ -1,0 +1,1 @@
+Show how atoms as spheres and bonds as sticks. This type of model has the advantage of accurately representing the angles at which the atoms are attached to one another in a molecule and the relative lengths of the bonds that hold the atoms together

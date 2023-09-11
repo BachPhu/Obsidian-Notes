@@ -1,0 +1,1 @@
+depict what a molecule would look like if the atoms were scaled up in size
