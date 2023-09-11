@@ -23,7 +23,7 @@ They did a great job with the visual aspect, I think that's one of the reason wh
 ![[Screen Shot 2023-08-01 at 8.10.53 PM.png| 700]]![[Screen Recording 2023-08-01 at 7.06.32 PM.mov | 700]]
 
 ## <mark class="hltr-purple">Story</mark>     ✦✦✦✧✧
-The overall plot was not bad, nothing too special but the movie did able to get their theme across. The main theme seem to be Friendship, Courage Chasing Your Dream, Human Connection with Nature. The movie started nice. Personal preference, for most of the time I don't like when they put a foreshadow in the beginning but it doesn't bother me much anyway. For most of time, the story is pretty calm and I kinda don't mind that. Maybe just me (saw some reviews and people didn't seem to like the plot lol.) Mid movie, nothing happen much. My favorite part was a bit toward the end, probably after the trio found the drone til the end of the movie. Probably tear up or cry like 3 times ;)
+The overall plot was not bad, nothing too special but the movie did able to get their theme across. The main theme seem to be Friendship, Courage to Chase Your Dream, Human Connection with Nature. The movie started nice. Personal preference, for most of the time I don't like when they put a foreshadow in the beginning but it doesn't bother me much this time. For most of time, the story is pretty calm and I kinda don't mind that. Maybe just me (saw some reviews and people didn't seem to like the plot lol.) Mid movie, nothing happen much. My favorite part was a bit toward the end, probably after the trio found the drone til the end of the movie. Probably tear up or cry like 3 times ;)
 
 ## <mark class="hltr-orange">Characters</mark>
 
