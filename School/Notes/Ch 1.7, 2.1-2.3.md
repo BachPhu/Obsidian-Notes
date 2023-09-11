@@ -26,6 +26,15 @@ tags:
 - The **law of multiple proportions**
      If two elements A and B combine to form more than one compound, the masses of B that can combine with a given mass of A are in the ratio of small whole numbers
 
+---
+## J. J. Thomson’s Plum Pudding Model
+- Atom are made of charges particles
+- Claim and doubts
+	- Electrons are embedded in sphere of positive charge
+	- Positive charge in the atom hold the negatively charges electron
+
+![[Pasted image 20230911113718.png]]
+
 # 2.2 The Discovery of Atomic Structure
 
 > [!Objective]
@@ -68,15 +77,20 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 
 ![[Pasted image 20230830124541.png]]
 
-# Rutherford's Gold Foil Experiment
+
 # 2.3 Atomic Structure
 ## Atomic Numbers, Mass Numbers, and Isotopes
+# Rutherford's Gold Foil Experiment
 
+- Test the accuracy of Thomson's plum pudding model (proved false)
+- Expectation: $\alpha$ particles will pass thru the foil with minor deflections in their path
+- Result: scattered at large angles
+- ![[Pasted image 20230911114121.png]]
 ### Rutherford's Exp. Conclusion
 Nucleus contain **proton** and _neutron_. Electron moving around the nucleus at a distance
 
 ![[Pasted image 20230908125313.png]]
-#### Atomic Structure
+# Atomic Structure
 Nucleus contain:
 - **protons**: positive charge that is equal in magnitude to _electron_'s negative charge
 - <font color = #84C1FF> neutrons</font>: have virtually the same mass as proton but no charge
