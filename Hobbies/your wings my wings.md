@@ -27,7 +27,7 @@ This game was one of the first games that immediately caught my attention during
 It was definitely a unique, pleasant experience, a little bittersweet to say. As I said earlier, it seems to be an abstract piece of work but it does feel personal too, like every details in this game was made with care and love from the creators.
 
 ## <mark class="hltr-yellow">Art</mark>
-I want devour it, inject it into my system, put it on an altar, idk man it's that good. Every piece was just too gorgeous, is it even real. Just looking at the arts stir up a ling of sadness or gloomy while it's obviously not and idk why. I want to cry.
+I want devour it, inject it into my blood, put it on an altar, idk man it's that good. Every piece was just too gorgeous, is it even real. Just looking at the arts stir up a ling of sadness or gloomy while it's not and idk why. I want to cry.
 
 ![](https://img.itch.zone/aW1hZ2UvMjE3NDk1MC8xMjg0NDY4Ni5wbmc=/original/RdsajF.png)
 ![](https://img.itch.zone/aW1hZ2UvMjE3NDk1MC8xMjg0NDczMS5wbmc=/original/F59mAE.png)
