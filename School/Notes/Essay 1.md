@@ -4,7 +4,7 @@ tags:
 link: https://floridapolytechnic.instructure.com/courses/7376/assignments/149705
 ---
 ```dataview
-TABLE  
+TABLE unit
 FROM #essay/summarize
 
 ```
@@ -20,3 +20,14 @@ Issues you might consider to shape your synthesis:
 - The challenges of communicating science to a general audience
 - The spread of misinformation about science
 ---
+# Subtopic
+- Politic Involvement (1,4 )
+- Public level
+	- More education background, stronger personal belief (2, 3)
+	- Lack or bias knowledge should be introduce with none advocate method (1, 4)
+	- environment background also a factor (3)
+- Flood resources (pros and cons)
+	- more discussion
+	- less quality
+- Public misunderstanding
+	- bc of the long reputation 
