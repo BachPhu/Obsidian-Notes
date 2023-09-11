@@ -4,8 +4,9 @@ tags:
 link: https://floridapolytechnic.instructure.com/courses/7376/assignments/149705
 ---
 ```dataview
-TABLE 
-FROM #essay/summarize 
+TABLE  
+FROM #essay/summarize
+
 ```
 
  Summarize, paraphrase, and quote from all of them in an essay that addresses the following prompt:
