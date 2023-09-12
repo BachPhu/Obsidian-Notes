@@ -31,3 +31,7 @@ Issues you might consider to shape your synthesis:
 	- less quality
 - Public misunderstanding
 	- bc of the long reputation 
+
+# Interaction
+- more info not = quality and more educate for the audience
+- public and politic 
