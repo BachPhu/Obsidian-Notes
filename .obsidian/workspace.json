@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Lecture Notes/Summary & synthesis.md",
+                "file": "Example/Examples for Explanatory Synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Examples for Explanatory Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Examples for Explanatory Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "Example/Examples for Explanatory Synthesis.md"
               }
             }
           },
@@ -196,6 +196,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "2e46194c2ee40cb7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -218,18 +228,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd8486050502f0f9",
+  "active": "4ec2f55ea4428bfd",
   "lastOpenFiles": [
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+    "Example/Synthesis that adds to the conversation in other ways.md",
+    "Example/Example of A Summarize Essay Introduction.md",
+    "School/ENC 1101.md",
+    "School/Lecture Notes/Summary & synthesis.md",
+    "School/Notes/Essay 1.md",
+    "School/CHM 2045L.md",
+    "School/CHM 2045.md",
     "School/Notes/Communicating_science_to_policy_makers.md",
     "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/Notes/What American Know About Science.md",
     "School/Notes/Pappas, “Evolution, Climate and Vaccines”.md",
-    "School/Notes/Essay 1.md",
-    "School/ENC 1101.md",
     "School/Notes/Drummond, Caitlin, and Baruch Fischhoff “Individuals with Greater Science Literacy ....md",
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
-    "School/CHM 2045.md",
     "School/COP 2271.md",
     "School/Notes/sig fig rule.md",
     "School/vocab/Isotopes.md",
@@ -243,13 +257,9 @@
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
-    "School/Lecture Notes/Summary & synthesis.md",
     "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Mooney, “Blinded by Science”.md",
     "Calculus/Limit-Based Continuity.md",
-    "Example/Example of A Summarize Essay Introduction.md",
-    "Calculus/Limits and Continuity.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Images/Pasted image 20230830124541.png",
     "School/vocab",
