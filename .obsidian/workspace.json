@@ -48,6 +48,16 @@
             }
           },
           {
+            "id": "0bfce8317c156d90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
             "id": "bd8486050502f0f9",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4ec2f55ea4428bfd",
+  "active": "0bfce8317c156d90",
   "lastOpenFiles": [
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Synthesis that adds to the conversation in other ways.md",
