@@ -41,19 +41,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example/Examples for Explanatory Synthesis.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0bfce8317c156d90",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
               }
             }
           },
@@ -67,6 +57,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "59b391a83b271711",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example/Examples for Explanatory Synthesis.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example/Examples for Explanatory Synthesis.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example/Examples for Explanatory Synthesis.md"
+                "file": "School/Notes/Essay 1.md"
               }
             }
           },
@@ -238,12 +236,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0bfce8317c156d90",
+  "active": "bd8486050502f0f9",
   "lastOpenFiles": [
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "Example/Synthesis that adds to the conversation in other ways.md",
+    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
+    "Example/Example of What Synthesis Could Be.md",
     "Example/Example of A Summarize Essay Introduction.md",
     "School/ENC 1101.md",
+    "Example/Examples for Explanatory Synthesis.md",
+    "Example/Synthesis that adds to the conversation in other ways.md",
     "School/Lecture Notes/Summary & synthesis.md",
     "School/Notes/Essay 1.md",
     "School/CHM 2045L.md",
@@ -267,9 +268,6 @@
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
-    "School/Notes/Bucchi, “Challenges of Science Communication”.md",
-    "Mooney, “Blinded by Science”.md",
-    "Calculus/Limit-Based Continuity.md",
     "Untitled.canvas",
     "Images/Pasted image 20230830124541.png",
     "School/vocab",
