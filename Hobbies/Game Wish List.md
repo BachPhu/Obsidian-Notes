@@ -7,7 +7,7 @@ tag: list/hobby
 [[Hades]]
 [[Chef RPG]]
 Death Trash
-Blasphemous
+- [x] Blasphemous
 The Last Faith
 What Lives Below
 Radio The Universe
@@ -16,7 +16,7 @@ The Last Night
 Replace
 Mariachi legend
 Fowl Scourge
-Len's Island
+- [x] Len's Island
 Hunt the Night
 a space for the unbound
 Lord of the Fallen
@@ -27,6 +27,8 @@ Spookware
 Yuppie Psycho
 Before Your Eyes
 sword of the sea
+Nivalis
+Shadow of doubt
 ## Good Art SO Maybe
 Chinatown Detective Agency
 Narita Boy
@@ -63,6 +65,7 @@ The case of golden idol
 under the wave
 What Remains of 
 Earth of oryn
+VA-11 Hall-A: Cyberpunk Bartender Action
 
 ---
 # Maybe
