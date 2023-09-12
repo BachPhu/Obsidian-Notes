@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md"
               }
             }
           },
@@ -236,12 +236,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd8486050502f0f9",
+  "active": "4ec2f55ea4428bfd",
   "lastOpenFiles": [
+    "School/Notes/Essay 1.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Synthesis that adds to the conversation in other ways.md",
-    "School/Notes/Essay 1.md",
     "Example/Example of What Synthesis Could Be.md",
     "Example/Example of A Summarize Essay Introduction.md",
     "School/ENC 1101.md",

@@ -31,3 +31,7 @@ Issues you might consider to shape your synthesis:
 	- less quality
 - Public misunderstanding
 	- bc of the long reputation 
+- state of science community
+	- need to be more open 
+	- use journalist to communicate for more effective result
+---
