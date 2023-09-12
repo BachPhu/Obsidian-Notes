@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md"
+                "file": "School/Notes/Essay 1.md"
               }
             }
           },
@@ -228,10 +228,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4ec2f55ea4428bfd",
+  "active": "bd8486050502f0f9",
   "lastOpenFiles": [
-    "Example/Examples for Explanatory Synthesis.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+    "Example/Examples for Explanatory Synthesis.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/ENC 1101.md",
     "School/Notes/Essay 1.md",
