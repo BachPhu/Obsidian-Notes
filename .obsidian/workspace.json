@@ -1,54 +1,14 @@
 {
   "main": {
-    "id": "5f4dee95a883a1e3",
+    "id": "b79e199aaf866f27",
     "type": "split",
     "children": [
       {
-        "id": "1855eddd5ed4ead0",
+        "id": "d1749638a9472fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "9318c9b0e6f80121",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Calculus Table of Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "81743d8f19343154",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/COURSES Dates.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4ec2f55ea4428bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/Game Wish List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd8486050502f0f9",
+            "id": "c074318df093d5ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7a829b15b497764",
+    "id": "ad24fb59fa8934e5",
     "type": "split",
     "children": [
       {
-        "id": "5b09276d14defe78",
+        "id": "403b342f66718149",
         "type": "tabs",
         "children": [
           {
-            "id": "3a675e87dc8c9fbb",
+            "id": "386b0e5b3d5087a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +43,7 @@
             }
           },
           {
-            "id": "0e2e4707183ca8ca",
+            "id": "7c0eba19bb880e87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +58,7 @@
             }
           },
           {
-            "id": "1854021d87fd4750",
+            "id": "04023f6c0461c4ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,35 +69,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a249b810334dfa20",
+    "id": "ccee1739b350afca",
     "type": "split",
     "children": [
       {
-        "id": "dc2a0271689b2f11",
+        "id": "2793545a9c8cbb6b",
         "type": "tabs",
         "children": [
           {
-            "id": "79b77b7dde3e69ac",
+            "id": "85cd663c37d920d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/COURSES Dates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "894c41ad4b0cc954",
+            "id": "64e5004dd651aacf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,19 +105,19 @@
             }
           },
           {
-            "id": "008bb3ffdcacd39e",
+            "id": "d605a6e58fb48e28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b41b78f0398579cc",
+            "id": "613da09a335196b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,33 +128,7 @@
             }
           },
           {
-            "id": "d83ac7c79b2baa24",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Hobbies/Game Wish List.md"
-              }
-            }
-          },
-          {
-            "id": "3a8002c3a1c23de3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a298e3aca34811ed",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e46194c2ee40cb7",
+            "id": "1ee89df13e072cc8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -207,9 +136,18 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "bdb8241357411ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Notes/Essay 1.md"
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,66 +156,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "graph:Open graph view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4ec2f55ea4428bfd",
+  "active": "c074318df093d5ac",
   "lastOpenFiles": [
-    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "Example/Synthesis that adds to the conversation in other ways.md",
-    "Example/Examples for Explanatory Synthesis.md",
-    "School/Notes/Essay 1.md",
-    "Example/Example of What Synthesis Could Be.md",
-    "Example/Example of A Summarize Essay Introduction.md",
     "School/ENC 1101.md",
-    "School/Lecture Notes/Summary & synthesis.md",
-    "School/CHM 2045L.md",
-    "School/CHM 2045.md",
-    "School/Notes/Communicating_science_to_policy_makers.md",
-    "School/Notes/Astbury & Hines, “Exploring the Challenges”.md",
-    "School/Notes/What American Know About Science.md",
-    "School/Notes/Pappas, “Evolution, Climate and Vaccines”.md",
-    "School/Notes/Drummond, Caitlin, and Baruch Fischhoff “Individuals with Greater Science Literacy ....md",
-    "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
-    "School/COP 2271.md",
-    "School/Notes/sig fig rule.md",
-    "School/vocab/Isotopes.md",
-    "School/Notes/Mooney, “Blinded by Science”.md",
-    "School/Notes/2.4-2.8.md",
-    "Images/Pasted image 20230908130738.png",
-    "Images/Pasted image 20230908130733.png",
-    "Images/Pasted image 20230908125313.png",
-    "Hobbies/Pasted image 20230908130134.png",
-    "2.1 A Preview of Calculus - Calculus 2.1;.md",
-    "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "School/EGN 1006.md",
-    "School/COURSES Dates.md",
-    "Untitled.canvas",
-    "Images/Pasted image 20230830124541.png",
-    "School/vocab",
-    "Images/Pasted image 20230829142255.png",
-    "TESTTEST",
-    "Example",
-    "Images/Pasted image 20230826222400.png",
-    "Images/Screen Shot 2023-08-26 at 8.35.22 PM.png",
-    "Images/Screen Shot 2023-08-25 at 10.26.30 AM.png",
-    "Images/Screen Shot 2023-08-25 at 10.25.33 AM.png",
-    "School/Notes",
-    "9/11 – 9",
-    "9",
-    "8/21 – 8",
-    "8/28 – 9",
-    "8",
-    "8/22 – 8",
-    "Calculus/Geo.canvas",
-    "Keyboard Shortcut.canvas"
+    "School/EGN 1006.md"
   ]
 }

@@ -117,7 +117,7 @@ What the above examples indicate is that synthesis is the careful weaving in of 
 
 # <font color = #8E7CC3> 5.4 Informative vs. Argumentative Synthesis </font>
 
-## **What is an Informative/Explanatory Synthesisis?**
+## **What is an Informative/Explanatory Synthesis?**
 
 In informative writing, you are explaining the discussion points and topics to your readers without taking a position of one side or another, without showing your opinion. 
 
