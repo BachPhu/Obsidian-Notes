@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d7663b8797aa506",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd8486050502f0f9",
+  "active": "4d7663b8797aa506",
   "lastOpenFiles": [
     "School/Notes/Essay 1.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
