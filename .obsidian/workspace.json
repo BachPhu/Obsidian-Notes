@@ -53,14 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "School/Notes/Essay 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/ENC 1101.md"
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md"
               }
             }
           }
@@ -207,15 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf2b3ce4eae4de30",
+  "active": "ad0f339defa9a0fa",
   "lastOpenFiles": [
+    "Example/Examples for Explanatory Synthesis.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "Example/Example of What Synthesis Could Be.md",
+    "Example/Synthesis that adds to the conversation in other ways.md",
+    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
+    "School/Notes/Essay 1.md",
     "School/ENC 1101.md",
+    "Example/Example of What Synthesis Could Be.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
     "Calculus/Calculus Table of Content.md",
-    "School/Notes/Essay 1.md",
     "School/COP 2271.md",
     "School/CHM 2045L.md",
     "School/CHM 2045.md",

@@ -44,3 +44,15 @@ Both article "Individuals with Greater Science Literacy … Have More Polarized 
 In "Credibility, Expertise and the Challenges of Science Communication 2.0." Massimiano Bucchi, focuses on the topic of overflowing resources and what the science community can work with to adapt to this issue.
 
 Bucchi would also be likely to agree with the concept of getting science involve with politic Safford, Hannah, and Austin Brown. "Communicating Science to Policy Makers”.
+
+---
+
+(personal believe and bg)
+
+(misunderstand the stand of science community in social status)
+
+. Previous misunderstand of policy marker, more info approach
+
+(Bucchi argument. Higher quality. the state of science community.
+
+ involve with politic
