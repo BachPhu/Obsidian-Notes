@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f15375cd19bf925",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccee1739b350afca",
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md"
+                "file": "School/Notes/Essay 1.md"
               }
             }
           }
@@ -207,12 +218,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad0f339defa9a0fa",
+  "active": "9f15375cd19bf925",
   "lastOpenFiles": [
-    "Example/Examples for Explanatory Synthesis.md",
+    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Synthesis that adds to the conversation in other ways.md",
-    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
+    "Example/Examples for Explanatory Synthesis.md",
     "School/Notes/Essay 1.md",
     "School/ENC 1101.md",
     "Example/Example of What Synthesis Could Be.md",

@@ -47,9 +47,9 @@ Bucchi would also be likely to agree with the concept of getting science involve
 
 ---
 
-(personal believe and bg)
+(personal believe and bg) mention 3 and its data and then connect to 2, where it disagree that public knowledeg level might not necessary invovle into that process but more of personal bias
 
-(misunderstand the stand of science community in social status)
+(misunderstand the stand of science community in social status) if result is not as expected, can lead to attitude. as 2 suggest it can nuissance. 
 
 . Previous misunderstand of policy marker, more info approach
 
