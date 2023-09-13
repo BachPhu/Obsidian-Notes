@@ -38,3 +38,9 @@ Issues you might consider to shape your synthesis:
 # Interaction
 - more info not = quality and more educate for the audience
 - public and politic 
+
+Both article "Individuals with Greater Science Literacy … Have More Polarized Beliefs on Controversial Science Topics." Drummond, Caitlin, and Baruch Fischhof and “What Americans Know about Science." Kennedy, Brian, and Meg Hefferon highlight the public’s knowledge level and personal belief involvement.
+
+In "Credibility, Expertise and the Challenges of Science Communication 2.0." Massimiano Bucchi, focuses on the topic of overflowing resources and what the science community can work with to adapt to this issue.
+
+Bucchi would also be likely to agree with the concept of getting science involve with politic Safford, Hannah, and Austin Brown. "Communicating Science to Policy Makers”.

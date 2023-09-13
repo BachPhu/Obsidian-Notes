@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/Notes/Essay 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/COP 2271.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/COP 2271.md"
+                "file": "School/Notes/Essay 1.md"
               }
             }
           }
@@ -166,14 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386b0e5b3d5087a2",
+  "active": "a7f0f7933dd7e2b0",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
+    "School/EGN 1006.md",
+    "School/COP 2271.md",
+    "School/COURSES Dates.md",
     "School/CHM 2045L.md",
     "School/CHM 2045.md",
     "School/Notes/2.4-2.8.md",
-    "School/ENC 1101.md",
     "conflict-files-obsidian-git.md",
-    "School/EGN 1006.md",
     "School/Notes/Essay 1.md"
   ]
 }
