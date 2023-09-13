@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f0c863f4142db40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EGN 1006.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EGN 1006.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EGN 1006.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -166,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c074318df093d5ac",
+  "active": "2f0c863f4142db40",
   "lastOpenFiles": [
+    "School/EGN 1006.md",
+    "conflict-files-obsidian-git.md",
     "School/Notes/Essay 1.md",
-    "School/ENC 1101.md",
-    "School/EGN 1006.md"
+    "School/ENC 1101.md"
   ]
 }
