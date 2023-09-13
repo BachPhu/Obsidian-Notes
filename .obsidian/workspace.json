@@ -53,24 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f15375cd19bf925",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ccee1739b350afca",
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "School/Notes/2.4-2.8.md"
               }
             }
           }
@@ -218,13 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f15375cd19bf925",
+  "active": "bf2b3ce4eae4de30",
   "lastOpenFiles": [
+    "Pasted image 20230913123943.png",
+    "Pasted image 20230913123913.png",
+    "Pasted image 20230913122836.png",
+    "Pasted image 20230913121146.png",
+    "Pasted image 20230913120816.png",
+    "Pasted image 20230913120640.png",
+    "School/CHM 2045.md",
+    "School/Notes/Essay 1.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Synthesis that adds to the conversation in other ways.md",
     "Example/Examples for Explanatory Synthesis.md",
-    "School/Notes/Essay 1.md",
     "School/ENC 1101.md",
     "Example/Example of What Synthesis Could Be.md",
     "School/EGN 1006.md",
@@ -232,7 +228,6 @@
     "Calculus/Calculus Table of Content.md",
     "School/COP 2271.md",
     "School/CHM 2045L.md",
-    "School/CHM 2045.md",
     "School/Notes/2.4-2.8.md",
     "conflict-files-obsidian-git.md"
   ]
