@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/EGN 1006.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/EGN 1006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/EGN 1006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "School/EGN 1006.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "c074318df093d5ac",
   "lastOpenFiles": [
+    "School/Notes/Essay 1.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md"
   ]
