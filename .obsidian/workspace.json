@@ -8,18 +8,59 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f43cade6c03e7fc2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Calculus Table of Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "a7f0f7933dd7e2b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/COURSES Dates.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ad0f339defa9a0fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf2b3ce4eae4de30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/ENC 1101.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/ENC 1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "School/ENC 1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "School/ENC 1101.md"
               }
             }
           }
@@ -166,16 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7f0f7933dd7e2b0",
+  "active": "bf2b3ce4eae4de30",
   "lastOpenFiles": [
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+    "Example/Example of What Synthesis Could Be.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
-    "School/COP 2271.md",
     "School/COURSES Dates.md",
+    "Calculus/Calculus Table of Content.md",
+    "School/Notes/Essay 1.md",
+    "School/COP 2271.md",
     "School/CHM 2045L.md",
     "School/CHM 2045.md",
     "School/Notes/2.4-2.8.md",
-    "conflict-files-obsidian-git.md",
-    "School/Notes/Essay 1.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
