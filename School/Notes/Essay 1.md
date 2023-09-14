@@ -56,3 +56,6 @@ Bucchi would also be likely to agree with the concept of getting science involve
 (Bucchi argument. Higher quality. the state of science community.
 
  involve with politic
+
+
+source 3 also suggest that the survey might not be accurate bc of the date and unnotice bia
