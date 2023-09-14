@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
+                "file": "Example/Synthesis that adds to the conversation in other ways.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Synthesis that adds to the conversation in other ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Example/Synthesis that adds to the conversation in other ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 1.md"
+                "file": "Example/Synthesis that adds to the conversation in other ways.md"
               }
             }
           },
@@ -229,11 +229,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd8486050502f0f9",
+  "active": "4ec2f55ea4428bfd",
   "lastOpenFiles": [
-    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "School/Notes/Essay 1.md",
+    "Example/Synthesis that adds to the conversation in other ways.md",
+    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
+    "Example/Example of What Synthesis Could Be.md",
+    "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
     "Hobbies/Game Wish List.md",
@@ -248,7 +250,6 @@
     "Images/Pasted image 20230911114447.png",
     "Images/Pasted image 20230911114336.png",
     "Images/Pasted image 20230911114321.png",
-    "Example/Synthesis that adds to the conversation in other ways.md",
     "Example/Example of A Summarize Essay Introduction.md",
     "School/Lecture Notes/Summary & synthesis.md",
     "School/CHM 2045L.md",
@@ -266,7 +267,6 @@
     "School/Notes/2.4-2.8.md",
     "2.1 A Preview of Calculus - Calculus 2.1;.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "School/COURSES Dates.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
