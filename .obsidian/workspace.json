@@ -53,24 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
-                "mode": "source",
+                "file": "School/Notes/Essay 1.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7663b8797aa506",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -148,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/Notes/Essay 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Game Wish List.md",
+                "file": "School/Notes/Essay 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Game Wish List.md"
+                "file": "School/Notes/Essay 1.md"
               }
             }
           },
@@ -238,13 +229,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4d7663b8797aa506",
+  "active": "bd8486050502f0f9",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
+    "School/EGN 1006.md",
+    "Hobbies/Game Wish List.md",
     "School/Notes/Essay 1.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
     "Example/Examples for Explanatory Synthesis.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
-    "School/ENC 1101.md",
     "Images/Pasted image 20230911133542.png",
     "Images/Pasted image 20230911133230.png",
     "Images/Pasted image 20230911133128.png",
@@ -273,9 +266,7 @@
     "School/Notes/2.4-2.8.md",
     "2.1 A Preview of Calculus - Calculus 2.1;.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "School/EGN 1006.md",
     "School/COURSES Dates.md",
-    "School/Notes/Bucchi, “Challenges of Science Communication”.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
