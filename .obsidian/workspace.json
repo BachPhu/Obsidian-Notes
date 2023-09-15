@@ -41,19 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example/Synthesis that adds to the conversation in other ways.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64cffad36d941fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School/Notes/A Guide to Rhetoric - Ch. 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Essay 1.md",
+                "file": "Hobbies/Game ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hobbies/Game ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hobbies/Game ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Hobbies/Game ideas.md"
               }
             }
           },
@@ -241,18 +228,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "64cffad36d941fdc",
+  "active": "bd8486050502f0f9",
   "lastOpenFiles": [
-    "Example/Synthesis that adds to the conversation in other ways.md",
-    "conflict-files-obsidian-git.md",
+    "Hobbies/Game Wish List.md",
+    "Hobbies/Game ideas.md",
     "School/Notes/Essay 1.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "Example/Example of What Synthesis Could Be.md",
+    "Example/Examples for Explanatory Synthesis.md",
     "Example/Other Examples of Sentence Structures that Demonstrate Synthesis.md",
     "School/ENC 1101.md",
-    "School/EGN 1006.md",
-    "Hobbies/Game Wish List.md",
-    "Example/Examples for Explanatory Synthesis.md",
     "Images/Pasted image 20230911133542.png",
     "Images/Pasted image 20230911133230.png",
     "Images/Pasted image 20230911133128.png",
@@ -263,6 +247,7 @@
     "Images/Pasted image 20230911114447.png",
     "Images/Pasted image 20230911114336.png",
     "Images/Pasted image 20230911114321.png",
+    "Example/Synthesis that adds to the conversation in other ways.md",
     "Example/Example of A Summarize Essay Introduction.md",
     "School/Lecture Notes/Summary & synthesis.md",
     "School/CHM 2045L.md",
@@ -279,6 +264,8 @@
     "School/Notes/Mooney, “Blinded by Science”.md",
     "School/Notes/2.4-2.8.md",
     "2.1 A Preview of Calculus - Calculus 2.1;.md",
+    "School/Notes/Ch 1.7, 2.1-2.3.md",
+    "School/EGN 1006.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
