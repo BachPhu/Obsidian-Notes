@@ -58,19 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7b86ae106294782f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +229,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7b86ae106294782f",
+  "active": "5f8e031fec5590c6",
   "lastOpenFiles": [
     "Periodic Table.md",
     "School/Notes/2.4-2.8.md",
