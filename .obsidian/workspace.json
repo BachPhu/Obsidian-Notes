@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md"
+                "file": "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md"
               }
             }
           },
@@ -266,11 +267,12 @@
   },
   "active": "e796d21285a8663b",
   "lastOpenFiles": [
+    "School/MAC 2311.md",
+    "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Contextual Applications of Differentiation.md",
     "Calculus/Limits and Continuity.md",
     "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
-    "School/MAC 2311.md",
     "School/COURSES Dates.md",
     "School/Notes/Periodic Table.md",
     "School/Notes/3.1 Defining the Derivative - Calculus 3.1;.md",
@@ -301,7 +303,6 @@
     "Keyboard Shortcuts.md",
     "Hobbies/scholar(magic fantasy tower) game.md",
     "Hobbies/Game Ideas.md",
-    "School/vocab/Ball-and-stick model.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
