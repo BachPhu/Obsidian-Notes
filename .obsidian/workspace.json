@@ -147,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculus/Calculus Table of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculus/Calculus Table of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calculus/Calculus Table of Content.md"
+              }
             }
           },
           {
