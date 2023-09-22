@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Periodic Table.md",
+                "file": "School/Notes/3.1-3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Periodic Table.md",
+                "file": "School/Notes/3.1-3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Periodic Table.md"
+                "file": "School/Notes/3.1-3.4.md"
               }
             }
           },
@@ -228,8 +228,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4ec2f55ea4428bfd",
+  "active": "7f580100d4630018",
   "lastOpenFiles": [
+    "School/Notes/Periodic Table.md",
     "School/Notes/3.1-3.4.md",
     "Screen Shot 2023-09-22 at 12.22.32 AM.png",
     "Screen Shot 2023-09-22 at 12.21.29 AM.png",
@@ -239,7 +240,6 @@
     "School/CHM 2045.md",
     "School/Notes/2.4-2.8.md",
     "conflict-files-obsidian-git.md",
-    "School/Notes/Periodic Table.md",
     "Pasted image 20230920122143.png",
     "School/MAC 2311.md",
     "Calculus/Calculus Table of Content.md",
