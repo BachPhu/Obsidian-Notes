@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "Calculus/Unit Circle.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "Calculus/Unit Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "Calculus/Unit Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.5-3.7.md"
+                "file": "Calculus/Unit Circle.md"
               }
             }
           },
@@ -242,8 +243,8 @@
   },
   "active": "244e84ca5426bb0d",
   "lastOpenFiles": [
-    "School/Notes/3.1-3.4.md",
     "School/Notes/3.5-3.7.md",
+    "School/Notes/3.1-3.4.md",
     "School/CHM 2045.md",
     "School/Notes/2.4-2.8.md",
     "School/Notes/Periodic Table.md",
