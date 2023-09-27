@@ -60,6 +60,16 @@
             }
           },
           {
+            "id": "1b0bd4b7f48fa71f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "244e84ca5426bb0d",
             "type": "leaf",
             "state": {
@@ -150,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "School/Notes/3.1-3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "School/Notes/3.1-3.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.5-3.7.md"
+                "file": "School/Notes/3.1-3.4.md"
               }
             }
           },
@@ -240,13 +250,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "244e84ca5426bb0d",
+  "active": "1b0bd4b7f48fa71f",
   "lastOpenFiles": [
+    "School/Notes/3.5-3.7.md",
     "Pasted image 20230927113804.png",
     "Pasted image 20230927113608.png",
     "School/CHM 2045.md",
     "Calculus/Unit Circle.md",
-    "School/Notes/3.5-3.7.md",
     "School/Notes/3.1-3.4.md",
     "School/Notes/2.4-2.8.md",
     "School/Notes/Periodic Table.md",
@@ -274,7 +284,6 @@
     "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
     "School/Notes/2.1 A Preview of Calculus - Calculus 2.1;.md",
     "School/Notes/3.2 The Derivative as a Function.md",
-    "Images/Pasted image 20230915005115.png",
     "School/Notes/Chapter 2 Summary.md",
     "School/ENC 1101.md",
     "School/Notes/A Guide to Rhetoric - Ch. 5.md",
