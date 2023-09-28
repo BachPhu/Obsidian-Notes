@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "2-minute elevator pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "2-minute elevator pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "2-minute elevator pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.5-3.7.md"
+                "file": "2-minute elevator pitch.md"
               }
             }
           },
@@ -242,9 +242,11 @@
   },
   "active": "244e84ca5426bb0d",
   "lastOpenFiles": [
+    "School/EGN 1006.md",
+    "2-minute elevator pitch.md",
+    "School/Notes/3.5-3.7.md",
     "School/CHM 2045.md",
     "Calculus/Unit Circle.md",
-    "School/Notes/3.5-3.7.md",
     "School/Notes/3.1-3.4.md",
     "School/Notes/2.4-2.8.md",
     "School/Notes/Periodic Table.md",
@@ -276,8 +278,6 @@
     "Images/Pasted image 20230918120742.png",
     "School/Notes/Chapter 2 Summary.md",
     "School/ENC 1101.md",
-    "School/Notes/A Guide to Rhetoric - Ch. 5.md",
-    "School/CHM 2045L.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
