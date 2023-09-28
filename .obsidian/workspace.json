@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-minute elevator pitch.md",
+                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-minute elevator pitch.md",
+                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-minute elevator pitch.md",
+                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-minute elevator pitch.md"
+                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md"
               }
             }
           },
@@ -242,8 +243,10 @@
   },
   "active": "244e84ca5426bb0d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "School/ENC 1101.md",
+    "Trust in meteorology has saved lives. The same is possible for climate science.md",
     "2-minute elevator pitch.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230927113804.png",
     "Pasted image 20230927113608.png",
     "3.3 Differentiation Rules- Calculus 3.3;.md",
@@ -276,7 +279,6 @@
     "Templates/space.md",
     "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
     "School/Notes/2.1 A Preview of Calculus - Calculus 2.1;.md",
-    "School/Notes/3.2 The Derivative as a Function.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
