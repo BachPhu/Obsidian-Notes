@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "244e84ca5426bb0d",
+            "id": "a2746583eda7ed6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
+                "file": "School/MAC 2311.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
+                "file": "School/MAC 2311.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md",
+                "file": "School/MAC 2311.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trust in meteorology has saved lives. The same is possible for climate science.md"
+                "file": "School/MAC 2311.md"
               }
             }
           },
@@ -241,24 +240,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "244e84ca5426bb0d",
+  "active": "a2746583eda7ed6a",
   "lastOpenFiles": [
+    "School/Notes/3.2 The Derivative as a Function.md",
+    "School/MAC 2311.md",
+    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
+    "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
+    "School/Notes/Trust in meteorology has saved lives. The same is possible for climate science.md",
+    "Images/Pasted image 20230927113608.png",
+    "School/Notes/3.1-3.4.md",
     "School/ENC 1101.md",
-    "Trust in meteorology has saved lives. The same is possible for climate science.md",
-    "2-minute elevator pitch.md",
+    "School/Notes/2-minute elevator pitch.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20230927113804.png",
-    "Pasted image 20230927113608.png",
-    "3.3 Differentiation Rules- Calculus 3.3;.md",
+    "Images/Pasted image 20230927113804.png",
     "School/EGN 1006.md",
     "School/Notes/3.5-3.7.md",
     "School/CHM 2045.md",
     "Calculus/Unit Circle.md",
-    "School/Notes/3.1-3.4.md",
     "School/Notes/2.4-2.8.md",
     "School/Notes/Periodic Table.md",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
-    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
     "Images/Screen Shot 2023-09-22 at 12.22.32 AM.png",
     "Images/Screen Shot 2023-09-22 at 12.21.29 AM.png",
     "Images/Screen Shot 2023-09-22 at 12.20.32 AM.png",
@@ -269,7 +270,6 @@
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
     "Pasted image 20230920122143.png",
-    "School/MAC 2311.md",
     "Calculus/Calculus Table of Content.md",
     "School/COURSES Dates.md",
     "Calculus/Limits and Continuity.md",
@@ -278,7 +278,6 @@
     "School/Notes/3.1 Defining the Derivative - Calculus 3.1;.md",
     "Templates/space.md",
     "School/Notes/2.2 The Limit of a Function - Calculus 2.2;.md",
-    "School/Notes/2.1 A Preview of Calculus - Calculus 2.1;.md",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
