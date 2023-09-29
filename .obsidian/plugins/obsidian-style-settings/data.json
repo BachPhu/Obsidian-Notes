@@ -49,7 +49,6 @@
   "anuppuccin-theme-settings@@ctp-custom-teal@@light": "#148C6E",
   "anuppuccin-theme-settings@@ctp-custom-sky@@light": "#0079FF",
   "anuppuccin-theme-settings@@ctp-custom-flamingo@@light": "#666666",
-  "anuppuccin-theme-settings@@ctp-custom-flamingo@@dark": "#666666",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
@@ -57,5 +56,6 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.4
+  "anuppuccin-theme-settings@@anp-rainbow-folder-bg-opacity": 0.4,
+  "anuppuccin-theme-settings@@ctp-custom-flamingo@@dark": "#666666"
 }
