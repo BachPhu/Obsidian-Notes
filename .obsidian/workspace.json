@@ -72,21 +72,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c38e485edfd8886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 3 Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3 Summary.md",
+                "file": "4.1, 4.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3 Summary.md",
+                "file": "4.1, 4.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 Summary.md"
+                "file": "4.1, 4.5.md"
               }
             }
           },
@@ -254,13 +242,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6c38e485edfd8886",
+  "active": "865306522aba03cc",
   "lastOpenFiles": [
+    "LaTex.md",
+    "4.1, 4.5.md",
+    "Calculus/Calculus Table of Content.md",
+    "School/COURSES Dates.md",
+    "School/Notes/Periodic Table.md",
+    "Chapter 3 Summary.md",
     "School/CHM 2045.md",
     "School/Notes/3.5-3.7.md",
-    "4.1, 4.5.md",
-    "LaTex.md",
-    "Chapter 3 Summary.md",
     "School/Notes/Chapter 2 Summary.md",
     "4.2.md",
     "School/MAC 2311.md",
@@ -280,9 +271,6 @@
     "Templates/game info.md",
     "Templates/derivative.md",
     "Templates/date.md",
-    "Templates/course tag.md",
-    "Templates/color.md",
-    "Templates/appoarch.md",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
