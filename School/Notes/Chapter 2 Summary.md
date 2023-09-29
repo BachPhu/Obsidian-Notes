@@ -2,6 +2,16 @@
 tags:
   - chm2045
 ---
+# Table of Content
+2.1 Atomic Theory of Matter  
+2.2 Discovery of Subatomic Particles  
+2.3 Structure of Atom  
+2.4 Atomic Mass Unit  
+2.5 Periodic Table (Introduction)  
+2.6 Molecules and Molecular Compounds  
+2.7 Ions and Ionic Compounds  
+2.8 Naming Inorganic Compounds
+
 # Molecules and Molecular Compounds
 
 Atoms can combine to form **molecules**. Compounds composed of molecules (**molecular compounds**) usually contain only nonmetallic elements. A molecule that contains two atoms is called a **diatomic molecule**. The composition of a substance is given by its **chemical formula**. A molecular substance can be represented by its **empirical formula**, which gives the relative numbers of atoms of each kind, but is usually represented by its **molecular formula**, which gives the actual numbers of each type of atom in a molecule. **Structural formulas** show the order in which the atoms in a molecule are connected. **Ball-and-stick models** and **space-filling models** convey additional information about the shapes of molecules.
