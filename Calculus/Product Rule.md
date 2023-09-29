@@ -1,0 +1,1 @@
+$$\frac{d}{dx}\text {[ f(x)  g(x) ] = f(x) g'(x) + g(x) f'(x) } $$

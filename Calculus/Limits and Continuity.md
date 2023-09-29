@@ -83,3 +83,14 @@ if $f(x)$ is *continuous* on $\color{#84C1FF}[a, b]$ AND $\color{#FF6666}f(a) < 
 | -------------------------------------------------------------------------- | -------------------------------------- |
 | are limit that = $∞$ or $-∞$, and where $x → a$ and $a$ is a *real* number | are limit in which $x → ∞$ or $x → -∞$ |
 | Vertical Asymptotes| Horizontal Asymptotes / Slant Asymp / **End Behavior**   |
+
+# Derivative and Antiderivative of sin(x) and cos(x)
+
+## Derivative of sinx and cosx
+
+$$\frac{d}{dx} \text{ sin(x) = cos(x)}$$
+
+$$\frac{d}{dx} \text{ cos(x) = - sin(x)}$$
+## Antiderivative of sinx and cosx
+$$\int \text{cos(x) dx = sin(x) + c}$$
+$$\int \text{sin(x) dx = -cos(x) + c}$$
