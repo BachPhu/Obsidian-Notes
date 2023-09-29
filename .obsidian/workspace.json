@@ -41,26 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/MAC 2311.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9394282611e4cc40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.5-3.7.md",
+                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.5-3.7.md"
+                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
               }
             }
           },
@@ -228,12 +216,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9394282611e4cc40",
+  "active": "824a91cd9151e5f3",
   "lastOpenFiles": [
+    "School/MAC 2311.md",
+    "School/Notes/3.5-3.7.md",
     "School/CHM 2045.md",
     "Calculus/Differential Equations.md",
     "conflict-files-obsidian-git.md",
-    "School/MAC 2311.md",
     "Templates/text.md",
     "Pasted image 20230928223720.png",
     "LaTex.md",
@@ -256,7 +245,6 @@
     "Templates/derivative.md",
     "Calculus/Calculus Table of Content.md",
     "Calculus/Applications of Integration.md",
-    "Calculus/Antiderivative.md",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
