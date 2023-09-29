@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5cdba2b8a127065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.6 Chain Rule - Calculus 3.6.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.6 Chain Rule - Calculus 3.6.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.6 Chain Rule - Calculus 3.6.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -216,10 +228,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "824a91cd9151e5f3",
+  "active": "a5cdba2b8a127065",
   "lastOpenFiles": [
-    "School/MAC 2311.md",
     "3.6 Chain Rule - Calculus 3.6.md",
+    "conflict-files-obsidian-git.md",
+    "Trust in meteorology has saved lives. The same is possible for climate science.md",
+    "2-minute elevator pitch.md",
+    "School/MAC 2311.md",
     "School/CHM 2045.md",
     "School/COURSES Dates.md",
     "Calculus/Circle.md",
@@ -242,9 +257,6 @@
     "Calculus/Product Rule.md",
     "Calculus/Quotient Rule.md",
     "Images/Pasted image 20230927113608.png",
-    "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
-    "School/Notes/3.5-3.7.md",
-    "School/Notes/Periodic Table.md",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
     "Images/Screen Shot 2023-09-22 at 12.22.32 AM.png",
