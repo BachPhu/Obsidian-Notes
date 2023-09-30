@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
+                "file": "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md"
               }
             }
           },
@@ -218,6 +218,11 @@
   },
   "active": "824a91cd9151e5f3",
   "lastOpenFiles": [
+    "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+    "Calculus/Algebra-base Fomular.md",
+    "Derivative of General Logarithmic Function.md",
+    "Calculus/Logarithms.md",
+    "3.6 Chain Rule - Calculus 3.6.md",
     "School/MAC 2311.md",
     "School/Notes/3.5-3.7.md",
     "School/CHM 2045.md",
@@ -230,21 +235,16 @@
     "Chapter 3 Summary.md",
     "4.2.md",
     "4.1, 4.5.md",
-    "3.6 Chain Rule - Calculus 3.6.md",
     "School/Notes/Trust in meteorology has saved lives. The same is possible for climate science.md",
     "School/Notes/2-minute elevator pitch.md",
     "Trust in meteorology has saved lives. The same is possible for climate science.md",
     "2-minute elevator pitch.md",
     "School/COURSES Dates.md",
     "Calculus/Circle.md",
-    "3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
-    "Derivative of General Logarithmic Function.md",
     "Derivative of $e^x$.md",
     "Derivative of Exponential.md",
     "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Templates/derivative.md",
-    "Calculus/Calculus Table of Content.md",
-    "Calculus/Applications of Integration.md",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
