@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "Irvin, What Is ‘Academic’ Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "Irvin, What Is ‘Academic’ Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/ENC 1101.md",
+                "file": "Irvin, What Is ‘Academic’ Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/ENC 1101.md"
+                "file": "Irvin, What Is ‘Academic’ Writing.md"
               }
             }
           },
@@ -218,6 +218,9 @@
   },
   "active": "824a91cd9151e5f3",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
+    "conflict-files-obsidian-git.md",
+    "Irvin, What Is ‘Academic’ Writing.md",
     "Derivative of Exponential.md",
     "Derivative of $e^x$.md",
     "Keyboard Shortcuts.md",
@@ -239,12 +242,9 @@
     "Derivative of General Logarithmic Function.md",
     "School/MAC 2311.md",
     "Calculus/Differential Equations.md",
-    "conflict-files-obsidian-git.md",
     "Templates/text.md",
     "4.2.md",
     "School/Notes/Trust in meteorology has saved lives. The same is possible for climate science.md",
-    "School/Notes/2-minute elevator pitch.md",
-    "Trust in meteorology has saved lives. The same is possible for climate science.md",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
