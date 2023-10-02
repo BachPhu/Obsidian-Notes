@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "745eeb99c8082182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Irvin, What Is ‘Academic’ Writing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Irvin, What Is ‘Academic’ Writing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Irvin, What Is ‘Academic’ Writing.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -216,10 +228,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "824a91cd9151e5f3",
+  "active": "745eeb99c8082182",
   "lastOpenFiles": [
-    "School/ENC 1101.md",
     "Irvin, What Is ‘Academic’ Writing.md",
+    "conflict-files-obsidian-git.md",
+    "School/ENC 1101.md",
     "School/MAC 2311.md",
     "School/EGN 1006.md",
     "Calculus/Unit Circle.md",
@@ -233,7 +246,6 @@
     "School/Notes/3.5-3.7.md",
     "School/CHM 2045.md",
     "Calculus/Differential Equations.md",
-    "conflict-files-obsidian-git.md",
     "Templates/text.md",
     "Pasted image 20230928223720.png",
     "LaTex.md",
