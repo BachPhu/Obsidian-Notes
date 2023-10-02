@@ -1,3 +1,7 @@
+---
+tags:
+  - calculus
+---
 
 ## Derivative of $f(x) = log_{b}x$
 

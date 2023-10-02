@@ -1,3 +1,8 @@
+---
+tags:
+  - chm2045
+---
+
 # Table of Content
 #### (3.1) Chemical Reactions and Chemical Equations  
 • Balancing Chemical Equations  

@@ -1,3 +1,7 @@
+---
+tags:
+  - chm2045
+---
 
 - **4.1** **General Properties of Aqueous Solutions** Recognize that substances dissolved in water exist as ions, molecules, or a mixture of the two.
     

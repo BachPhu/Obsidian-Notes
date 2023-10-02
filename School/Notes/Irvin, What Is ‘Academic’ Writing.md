@@ -1,3 +1,8 @@
+---
+tags:
+  - enc1101
+---
+
 # pathos- green
 emotion, trying to be related to college student feeling
 use personal experience for advice
