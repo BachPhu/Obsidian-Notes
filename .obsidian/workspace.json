@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/ENC 1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/ENC 1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/ENC 1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/MAC 2311.md"
+                "file": "School/ENC 1101.md"
               }
             }
           },
@@ -230,8 +231,8 @@
   },
   "active": "c6de45f86fc6e90e",
   "lastOpenFiles": [
-    "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
     "School/MAC 2311.md",
+    "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "Images/Pasted image 20231002122759.png",
     "School/Notes/Derivative of $e^x$.md",
