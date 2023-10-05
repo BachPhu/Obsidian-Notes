@@ -9,3 +9,11 @@ human contribution connection on internet is the thing the create impact to buil
 # EX
 https://crlt.umich.edu/sites/default/files/resource_files/GSITO_ESW_3FeedbackExample.pdf
 https://stlcc.edu/student-support/academic-success-and-tutoring/writing-center/writing-resources/rhetorical-analysis-sample-essay.aspx
+
+# Question
+If author include more evidence of ai capability would the arguement change
+
+# Summary
+ (the remarkable achievements by the joined effort of online platform community to show how people can corporately research and utilize internet resource to do good deeds.  
+
+and impact on the real world)
