@@ -17,3 +17,6 @@ If author include more evidence of ai capability would the arguement change
  (the remarkable achievements by the joined effort of online platform community to show how people can corporately research and utilize internet resource to do good deeds.  
 
 and impact on the real world)
+
+
+He follows up by including his talk with Eli Beer, who experienced a tragic incident and could not do anything while an ambulance was stuck in traffic during Beer’s volunteer days. This led Beer to created United Hatzalah
