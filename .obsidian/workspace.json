@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 2.md",
+                "file": "4.2-4.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 2.md",
+                "file": "4.2-4.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 2.md",
+                "file": "4.2-4.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 2.md"
+                "file": "4.2-4.4.md"
               }
             }
           },
@@ -218,8 +218,16 @@
   },
   "active": "824a91cd9151e5f3",
   "lastOpenFiles": [
-    "Calculus/Triangle.md",
+    "School/CHM 2045.md",
+    "4.2-4.4.md",
+    "School/MAC 2311.md",
+    "School/ENC 1101.md",
+    "School/EGN 1006.md",
+    "School/COURSES Dates.md",
+    "School/COP 2271.md",
+    "School/CHM 2045L.md",
     "Essay 2.md",
+    "Calculus/Triangle.md",
     "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
     "School/Notes/Derivative of General Logarithmic Function.md",
     "School/Notes/Derivative of Exponential.md",
@@ -232,21 +240,13 @@
     "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/Pasted image 20231002122759.png",
-    "School/ENC 1101.md",
     "Peer Review 2.md",
-    "School/EGN 1006.md",
     "Irvin, What Is ‘Academic’ Writing.md",
     "Pasted image 20231002122759.png",
     "conflict-files-obsidian-git.md",
     "Derivative of Exponential.md",
     "Derivative of $e^x$.md",
-    "Keyboard Shortcuts.md",
-    "LaTex.md",
-    "Obsidian Shortcuts.md",
     "Images/Pasted image 20230928223720.png",
-    "Chapter 4 Summary.md",
-    "Chapter 3 Summary.md",
-    "3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
     "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
