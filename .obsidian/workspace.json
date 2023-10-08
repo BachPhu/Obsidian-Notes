@@ -53,14 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "School/Notes/Periodic Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2-4.4.md",
+                "file": "School/Notes/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.2-4.4.md",
+                "file": "School/Notes/Periodic Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.2-4.4.md"
+                "file": "School/Notes/Periodic Table.md"
               }
             }
           },
@@ -228,16 +228,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "824a91cd9151e5f3",
+  "active": "afb85a35fb10c298",
   "lastOpenFiles": [
     "School/CHM 2045.md",
+    "School/CHM 2045L.md",
+    "Keyboard Shortcuts.md",
+    "Obsidian Shortcuts.md",
+    "LaTex.md",
+    "School/Notes/3.5-3.7.md",
     "4.2-4.4.md",
     "School/MAC 2311.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
     "School/COP 2271.md",
-    "School/CHM 2045L.md",
     "Essay 2.md",
     "Calculus/Triangle.md",
     "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
@@ -253,11 +257,7 @@
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/Pasted image 20231002122759.png",
     "Peer Review 2.md",
-    "Irvin, What Is ‘Academic’ Writing.md",
     "Pasted image 20231002122759.png",
-    "conflict-files-obsidian-git.md",
-    "Derivative of Exponential.md",
-    "Derivative of $e^x$.md",
     "Images/Pasted image 20230928223720.png",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
