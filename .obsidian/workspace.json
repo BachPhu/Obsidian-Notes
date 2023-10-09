@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "4.2 Linear Approximations and Differentials - Calculus 4.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.1, 4.5.md",
+                "file": "4.2 Linear Approximations and Differentials - Calculus 4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.1, 4.5.md",
+                "file": "4.2 Linear Approximations and Differentials - Calculus 4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.1, 4.5.md"
+                "file": "4.2 Linear Approximations and Differentials - Calculus 4.2.md"
               }
             }
           },
@@ -228,10 +228,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "afb85a35fb10c298",
+  "active": "824a91cd9151e5f3",
   "lastOpenFiles": [
-    "School/CHM 2045.md",
+    "School/MAC 2311.md",
+    "4.2 Linear Approximations and Differentials - Calculus 4.2.md",
     "School/Notes/4.2-4.4.md",
+    "School/Notes/4.1, 4.5.md",
+    "School/CHM 2045.md",
     "Calculus/Triangle.md",
     "School/Notes/Periodic Table.md",
     "School/CHM 2045L.md",
@@ -239,7 +242,6 @@
     "Obsidian Shortcuts.md",
     "LaTex.md",
     "School/Notes/3.5-3.7.md",
-    "School/MAC 2311.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
@@ -252,10 +254,8 @@
     "School/Notes/Chapter 4 Summary.md",
     "School/Notes/Chapter 3 Summary.md",
     "School/Notes/4.2.md",
-    "School/Notes/4.1, 4.5.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
-    "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
