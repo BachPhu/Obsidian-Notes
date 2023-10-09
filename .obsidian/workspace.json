@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Periodic Table.md",
+                "file": "Calculus/Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unit cir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Periodic Table.md",
+                "file": "Calculus/Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Periodic Table.md",
+                "file": "Calculus/Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Periodic Table.md"
+                "file": "Calculus/Triangle.md"
               }
             }
           },
@@ -230,6 +231,7 @@
   },
   "active": "afb85a35fb10c298",
   "lastOpenFiles": [
+    "School/Notes/Periodic Table.md",
     "School/CHM 2045.md",
     "School/CHM 2045L.md",
     "Keyboard Shortcuts.md",
@@ -256,7 +258,6 @@
     "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/Pasted image 20231002122759.png",
-    "Peer Review 2.md",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
     "Images/Pasted image 20230927113608.png",
