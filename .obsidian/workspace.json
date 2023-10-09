@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.2-4.4.md",
+                "file": "School/Notes/4.2-4.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/Notes/4.1, 4.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/Notes/4.1, 4.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/Notes/4.1, 4.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Triangle.md"
+                "file": "School/Notes/4.1, 4.5.md"
               }
             }
           },
@@ -231,21 +230,21 @@
   },
   "active": "afb85a35fb10c298",
   "lastOpenFiles": [
-    "School/Notes/Periodic Table.md",
     "School/CHM 2045.md",
+    "School/Notes/4.2-4.4.md",
+    "Calculus/Triangle.md",
+    "School/Notes/Periodic Table.md",
     "School/CHM 2045L.md",
     "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
     "LaTex.md",
     "School/Notes/3.5-3.7.md",
-    "4.2-4.4.md",
     "School/MAC 2311.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
     "School/COURSES Dates.md",
     "School/COP 2271.md",
     "Essay 2.md",
-    "Calculus/Triangle.md",
     "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
     "School/Notes/Derivative of General Logarithmic Function.md",
     "School/Notes/Derivative of Exponential.md",
