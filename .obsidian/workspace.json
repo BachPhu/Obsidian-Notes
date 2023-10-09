@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "b8ed38b7b1bf862d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "afb85a35fb10c298",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.2-4.4.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -228,14 +240,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "824a91cd9151e5f3",
+  "active": "b8ed38b7b1bf862d",
   "lastOpenFiles": [
+    "School/Notes/4.2-4.4.md",
+    "conflict-files-obsidian-git.md",
     "Screen Shot 2023-10-09 at 12.23.00 AM.png",
     "Screen Shot 2023-10-09 at 12.18.03 AM.png",
     "School/CHM 2045.md",
     "Templates/Latex color/og color.md",
     "Templates/Latex color/lred.md",
-    "School/Notes/4.2-4.4.md",
     "Solubility Rules.md",
     "Screen Shot 2023-10-09 at 12.04.03 AM.png",
     "Pasted image 20231009000339.png",
@@ -265,7 +278,6 @@
     "Images/Pasted image 20230928223720.png",
     "Images/Pasted image 20230927113608.png",
     "Images/Pasted image 20230927113804.png",
-    "Images/Screen Shot 2023-09-25 at 1.00.35 AM.png",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
