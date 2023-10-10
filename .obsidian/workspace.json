@@ -36,30 +36,6 @@
             }
           },
           {
-            "id": "824a91cd9151e5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/scholar(magic fantasy tower) game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5d9a819af539b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afb85a35fb10c298",
             "type": "leaf",
             "state": {
@@ -72,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -240,20 +216,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f5d9a819af539b61",
+  "active": "afb85a35fb10c298",
   "lastOpenFiles": [
-    "Hobbies/scholar(magic fantasy tower) game.md",
-    "conflict-files-obsidian-git.md",
+    "School/Notes/4.1, 4.5.md",
+    "School/CHM 2045.md",
     "School/Notes/4.2-4.4.md",
     "4.3 Maxima and Minima - Calculus 4.3.md",
     "4.2 Linear Approximations and Differentials - Calculus 4.2.md",
     "Hobbies/Game ideas.md",
+    "Hobbies/scholar(magic fantasy tower) game.md",
+    "School/COURSES Dates.md",
+    "conflict-files-obsidian-git.md",
     "4.2-4.4.md",
-    "School/CHM 2045.md",
     "School/MAC 2311.md",
     "School/ENC 1101.md",
     "School/EGN 1006.md",
-    "School/COURSES Dates.md",
     "School/COP 2271.md",
     "School/CHM 2045L.md",
     "Essay 2.md",
@@ -265,7 +242,6 @@
     "School/Notes/Chapter 4 Summary.md",
     "School/Notes/Chapter 3 Summary.md",
     "School/Notes/4.2.md",
-    "School/Notes/4.1, 4.5.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
     "Images/Pasted image 20231002122759.png",
