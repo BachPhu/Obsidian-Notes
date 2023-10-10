@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.3 Maxima and Minima - Calculus 4.3.md",
+                "file": "School/ENC 1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md",
+                "file": "School/ENC 1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md",
+                "file": "School/ENC 1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md"
+                "file": "School/ENC 1101.md"
               }
             }
           },
@@ -216,8 +216,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3a675e87dc8c9fbb",
+  "active": "afb85a35fb10c298",
   "lastOpenFiles": [
+    "Calculus/Calculus Table of Content.md",
     "School/Notes/4.2 Linear Approximations and Differentials - Calculus 4.2.md",
     "Hobbies/frog game.md",
     "LaTex.md",
@@ -248,7 +249,6 @@
     "Calculus/Triangle.md",
     "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
     "School/Notes/Derivative of General Logarithmic Function.md",
-    "School/Notes/Derivative of Exponential.md",
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
