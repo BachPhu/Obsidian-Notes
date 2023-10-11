@@ -63,8 +63,12 @@
             "id": "274c328843735ea3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5.6-5.8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -158,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.6-5.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.6-5.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5.6-5.8.md"
+              }
             }
           },
           {
@@ -246,10 +254,11 @@
   },
   "active": "274c328843735ea3",
   "lastOpenFiles": [
+    "School/CHM 2045.md",
+    "5.6-5.8.md",
+    "School/Notes/4.2-4.4.md",
     "School/Notes/Periodic Table.md",
     "conflict-files-obsidian-git.md",
-    "School/CHM 2045.md",
-    "School/Notes/4.2-4.4.md",
     "School/Notes/3.1-3.4.md",
     "School/Notes/2.4-2.8.md",
     "School/Notes/4.1, 4.5.md",
@@ -276,7 +285,6 @@
     "School/COP 2271.md",
     "School/CHM 2045L.md",
     "Essay 2.md",
-    "Calculus/Triangle.md",
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
