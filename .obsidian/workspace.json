@@ -41,7 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.1-5.5.md",
+                "file": "4.5 Derivatives and the Shape of a Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fece36e1cfac4642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Analytical Applications of Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.1-5.5.md",
+                "file": "4.5 Derivatives and the Shape of a Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.1-5.5.md",
+                "file": "4.5 Derivatives and the Shape of a Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.1-5.5.md"
+                "file": "4.5 Derivatives and the Shape of a Graph.md"
               }
             }
           },
@@ -218,6 +230,13 @@
   },
   "active": "afb85a35fb10c298",
   "lastOpenFiles": [
+    "Calculus/Analytical Applications of Differentiation.md",
+    "4.5 Derivatives and the Shape of a Graph.md",
+    "School/MAC 2311.md",
+    "School/Notes/4.3 Maxima and Minima - Calculus 4.3.md",
+    "Calculus/Calculus Table of Content.md",
+    "Calculus/Contextual Applications of Differentiation.md",
+    "5.1-5.5.md",
     "School/CHM 2045.md",
     "School/Notes/4.2-4.4.md",
     "Screen Shot 2023-10-12 at 4.31.54 PM.png",
@@ -229,9 +248,7 @@
     "School/Notes/Periodic Table.md",
     "conflict-files-obsidian-git.md",
     "5.6-5.8.md",
-    "5.1-5.5.md",
     "School/Notes/2.4-2.8.md",
-    "Calculus/Calculus Table of Content.md",
     "School/Notes/4.2 Linear Approximations and Differentials - Calculus 4.2.md",
     "Hobbies/frog game.md",
     "LaTex.md",
@@ -245,11 +262,7 @@
     "Images/Screen Shot 2023-10-09 at 12.23.00 AM.png",
     "Images/Screen Shot 2023-10-09 at 12.18.03 AM.png",
     "Images/Pasted image 20231009000339.png",
-    "School/Notes/4.3 Maxima and Minima - Calculus 4.3.md",
     "School/COURSES Dates.md",
-    "4.2-4.4.md",
-    "School/MAC 2311.md",
-    "School/EGN 1006.md",
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
