@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "5.1-5.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "5.1-5.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "5.1-5.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.2-4.4.md"
+                "file": "5.1-5.5.md"
               }
             }
           },
@@ -218,8 +218,10 @@
   },
   "active": "afb85a35fb10c298",
   "lastOpenFiles": [
-    "Screen Shot 2023-10-12 at 3.56.51 PM.png",
     "School/CHM 2045.md",
+    "School/Notes/4.2-4.4.md",
+    "Screen Shot 2023-10-12 at 4.31.54 PM.png",
+    "Screen Shot 2023-10-12 at 3.56.51 PM.png",
     "School/Notes/4.1, 4.5.md",
     "School/ENC 1101.md",
     "F.D.A. Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken.md",
@@ -228,7 +230,6 @@
     "conflict-files-obsidian-git.md",
     "5.6-5.8.md",
     "5.1-5.5.md",
-    "School/Notes/4.2-4.4.md",
     "School/Notes/2.4-2.8.md",
     "Calculus/Calculus Table of Content.md",
     "School/Notes/4.2 Linear Approximations and Differentials - Calculus 4.2.md",
@@ -252,8 +253,6 @@
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
     "Images/Pasted image 20230928223720.png",
-    "Images/Pasted image 20230927113608.png",
-    "Images/Pasted image 20230927113804.png",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
