@@ -15,6 +15,7 @@ unit: 5
 | changes from neg to pos      | has a rel min                       |
 
 
+
 | If f''(x)                    | Then f(x)                           |
 | ---------------------------- | ----------------------------------- |
 | is = 0 or undefined is x = a | has a potential point of inflection |

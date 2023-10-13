@@ -18,7 +18,7 @@ rating: 4.5
 # Personal Review
 
 ## <mark class="hltr-light-purple">Visual</mark>     ✦✦✦✦✦
-They did a great job with the visual aspect, I think that's one of the reason why I like the movie. Started out with a country side setting was a nice move as it indeed grabbed my attention to the movie. Some of the scene that absolute mesmerize were: the blue flower field, the shooting stars, the firework from drone, the golden fall, telephone booth (in both Drop and Roma/Toto), the flooded forest, Drop finding the drone , ect...
+They did a great job with the visual aspect, I think that's one of the reason why I like the movie. Started out with a country side setting was a nice move as it indeed grabbed my attention to the movie. Some of the scene that was absolute mesmerize were: the blue flower field, the shooting stars, the firework from drone, the golden fall, telephone booth (in both Drop and Roma/Toto), the flooded forest, Drop finding the drone , ect...
 ![[Screen Shot 2023-08-01 at 7.00.05 PM.png | 700]]![[Screen Shot 2023-08-01 at 7.01.32 PM.png| 700]]![[Screen Shot 2023-08-01 at 7.02.43 PM.png| 700]]![[Screen Shot 2023-08-01 at 7.03.01 PM.png | 700]]
 ![[Screen Shot 2023-08-01 at 8.10.53 PM.png| 700]]![[Screen Recording 2023-08-01 at 7.06.32 PM.mov | 700]]
 
