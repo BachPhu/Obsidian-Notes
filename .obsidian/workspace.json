@@ -41,24 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b4e0a8de247be86",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Analytical Applications of Differentiation.md"
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
               }
             }
           },
@@ -226,10 +216,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0b4e0a8de247be86",
+  "active": "fece36e1cfac4642",
   "lastOpenFiles": [
-    "School/COURSES Dates.md",
+    "School/MAC 2311.md",
+    "School/CHM 2045.md",
+    "Calculus/Analytical Applications of Differentiation.md",
+    "Calculus/Geometry.md",
+    "Calculus/Limit Existence Theorem.md",
+    "Calculus/Limit-Based Continuity.md",
+    "Calculus/Logarithms.md",
+    "Calculus/Power Rule.md",
+    "Calculus/Product Rule.md",
+    "Calculus/Quadratic Formula.md",
+    "Calculus/Quotient Rule.md",
+    "Calculus/Triangle.md",
+    "Calculus/Two Special Trig Function.md",
+    "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
+    "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "Calculus/Unit Circle.md",
+    "Calculus/Algebra-base Fomular.md",
+    "School/Notes/Derivative of $e^x$.md",
+    "School/COURSES Dates.md",
     "School/CHM 2045L.md",
     "LaTex.md",
     "Hackathon.md",
@@ -237,26 +244,9 @@
     "Hobbies/Omniscient Reader's Viewpoint.md",
     "Hobbies/scholar(magic fantasy tower) game.md",
     "Hobbies/Supreme Magus.md",
-    "Hobbies/The Beginning After The End.md",
-    "Hobbies/Vitreous.md",
-    "Hobbies/WebNovels.md",
-    "Hobbies/White Online.md",
-    "Hobbies/your wings my wings.md",
-    "Hobbies/The Author's POV.md",
     "Images/a home far away.jpg",
     "Images/Screen Shot 2023-10-12 at 3.56.51 PM.png",
-    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
-    "School/Notes/5.6-5.8.md",
-    "School/Notes/5.1-5.5.md",
-    "School/MAC 2311.md",
-    "School/CHM 2045.md",
-    "Calculus/Analytical Applications of Differentiation.md",
-    "School/Notes/4.3 Maxima and Minima - Calculus 4.3.md",
-    "Calculus/Calculus Table of Content.md",
-    "Calculus/Contextual Applications of Differentiation.md",
-    "School/Notes/4.2-4.4.md",
     "Images/Screen Shot 2023-10-12 at 4.31.54 PM.png",
-    "School/Notes/4.1, 4.5.md",
     "Images/Screen Shot 2023-10-09 at 12.04.03 AM.png",
     "Images/Pasted image 20231009000329.png",
     "Images/Screen Shot 2023-10-09 at 12.23.00 AM.png",
