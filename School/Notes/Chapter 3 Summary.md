@@ -4,23 +4,30 @@ tags:
 ---
 
 # Table of Content
-#### (3.1) Chemical Reactions and Chemical Equations  
-• Balancing Chemical Equations  
-#### (3.2) Patterns of Chemical Reactivity  
-• Types of Chemical Reactions  
-#### (3.3) Atomic mass and average atomic mass  
-• Formula Weight  
-• Molecular Weight  
-• Percent Composition from the Chemical Formula  
-#### (3.4) The mole concept  
-• Avogadro’s number  
-• Molar mass  
-• Mole conversions  
-#### (3.6) Chemical Stoichiometry  
-#### (3.7) Limiting reactants  
-• Theoretical yield  
-• % yield  
-#### (3.5) Determining Empirical formula and molecular formula  
+
+3.1) Chemical Reactions and Chemical Equations  
+	• Balancing Chemical Equations  
+
+3.2) Patterns of Chemical Reactivity  
+	• Types of Chemical Reactions  
+
+3.3) Atomic mass and average atomic mass 
+	• Formula Weight  
+	• Molecular Weight  
+	• Percent Composition from the Chemical Formula
+
+3.4) The mole concept  
+	• Avogadro’s number  
+	• Molar mass  
+	• Mole conversions  
+
+3.6) Chemical Stoichiometry  
+
+3.7) Limiting reactants  
+	• Theoretical yield  
+	• % yield  
+
+3.5) Determining Empirical formula and molecular formula  
 
 ---
 # Key Equations
