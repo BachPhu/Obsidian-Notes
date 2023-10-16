@@ -46,9 +46,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b4e0a8de247be86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,7 +226,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fece36e1cfac4642",
+  "active": "0b4e0a8de247be86",
   "lastOpenFiles": [
     "School/COURSES Dates.md",
     "Calculus/Unit Circle.md",
