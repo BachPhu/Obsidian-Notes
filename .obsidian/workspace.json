@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "b0379ed5134b8436",
+            "id": "fece36e1cfac4642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno. Bib. 1.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno. Bib. 1.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno. Bib. 1.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno. Bib. 1.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -216,36 +216,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b0379ed5134b8436",
+  "active": "fece36e1cfac4642",
   "lastOpenFiles": [
-    "School/ENC 1101.md",
-    "Anno. Bib. 1.md",
+    "School/Notes/4.2-4.4.md",
     "Essay 3.md",
+    "Anno. Bib. 1.md",
+    "School/COURSES Dates.md",
+    "School/CHM 2045.md",
+    "School/Notes/5.1-5.5.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "conflict-files-obsidian-git.md",
+    "Chapter 5 Summary.md",
     "School/MAC 2311.md",
-    "Calculus/Unit Circle.md",
+    "Calculus/Analytical Applications of Differentiation.md",
     "Calculus/Geometry.md",
-    "Calculus/Integration and Accumulation of Change.md",
-    "Calculus/Intermediate Value Theorem.md",
     "Calculus/Limit Existence Theorem.md",
     "Calculus/Limit-Based Continuity.md",
-    "Calculus/Limits and Continuity.md",
     "Calculus/Logarithms.md",
     "Calculus/Power Rule.md",
     "Calculus/Product Rule.md",
     "Calculus/Quadratic Formula.md",
     "Calculus/Quotient Rule.md",
-    "Calculus/Two Special Trig Function.md",
     "Calculus/Triangle.md",
-    "School/Notes/5.1-5.5.md",
-    "School/CHM 2045.md",
-    "Chapter 5 Summary.md",
-    "School/COURSES Dates.md",
-    "School/Notes/Chapter 3 Summary.md",
-    "School/Notes/Chapter 4 Summary.md",
-    "Images/Screen Shot 2023-10-12 at 4.31.54 PM.png",
+    "Calculus/Two Special Trig Function.md",
+    "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
+    "Calculus/Unit Circle.md",
+    "Calculus/Algebra-base Fomular.md",
+    "School/Notes/Derivative of $e^x$.md",
+    "School/CHM 2045L.md",
+    "Images/a home far away.jpg",
     "Images/Screen Shot 2023-10-12 at 3.56.51 PM.png",
+    "Images/Screen Shot 2023-10-12 at 4.31.54 PM.png",
     "Images/Screen Shot 2023-10-09 at 12.04.03 AM.png",
     "Images/Pasted image 20231009000329.png",
     "Images/Screen Shot 2023-10-09 at 12.23.00 AM.png",
@@ -253,7 +254,6 @@
     "Images/Pasted image 20231009000339.png",
     "Images/Pasted image 20231002122759.png",
     "Pasted image 20231002122759.png",
-    "Images/Pasted image 20230928223720.png",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
