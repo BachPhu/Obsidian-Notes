@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Unit Circle.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Unit Circle.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Unit Circle.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Unit Circle.md"
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
               }
             }
           },
@@ -218,6 +218,8 @@
   },
   "active": "b0379ed5134b8436",
   "lastOpenFiles": [
+    "School/MAC 2311.md",
+    "Calculus/Unit Circle.md",
     "Calculus/Geometry.md",
     "Calculus/Integration and Accumulation of Change.md",
     "Calculus/Intermediate Value Theorem.md",
@@ -231,7 +233,6 @@
     "Calculus/Quotient Rule.md",
     "Calculus/Two Special Trig Function.md",
     "Calculus/Triangle.md",
-    "Calculus/Unit Circle.md",
     "School/Notes/5.1-5.5.md",
     "School/CHM 2045.md",
     "Chapter 5 Summary.md",
@@ -243,7 +244,6 @@
     "School/Notes/Periodic Table.md",
     "conflict-files-obsidian-git.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
-    "School/MAC 2311.md",
     "Images/Screen Shot 2023-10-12 at 4.31.54 PM.png",
     "Images/Screen Shot 2023-10-12 at 3.56.51 PM.png",
     "Images/Screen Shot 2023-10-09 at 12.04.03 AM.png",
