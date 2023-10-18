@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/Blender Shortcuts.md",
+                "file": "LaTex.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.2-4.4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.2-4.4.md"
+                "file": "School/Notes/5.1-5.5.md"
               }
             }
           },
@@ -230,13 +230,16 @@
   },
   "active": "0c9e43886e8a2de6",
   "lastOpenFiles": [
+    "LaTex.md",
+    "Blender/Blender Shortcuts.md",
+    "School/Notes/5.1-5.5.md",
+    "Screen Shot 2023-10-18 at 12.48.30 AM.png",
     "School/CHM 2045.md",
+    "School/ENC 1101.md",
+    "School/Notes/4.2-4.4.md",
     "School/Notes/4.1, 4.5.md",
     "School/Notes/3.5-3.7.md",
     "School/Notes/3.1-3.4.md",
-    "School/Notes/5.1-5.5.md",
-    "Blender/Blender Shortcuts.md",
-    "School/Notes/4.2-4.4.md",
     "Essay 3.md",
     "Anno. Bib. 1.md",
     "School/COURSES Dates.md",
@@ -254,8 +257,6 @@
     "Calculus/Quadratic Formula.md",
     "Calculus/Quotient Rule.md",
     "Calculus/Triangle.md",
-    "Calculus/Two Special Trig Function.md",
-    "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "Images/a home far away.jpg",
     "Images/Screen Shot 2023-10-12 at 3.56.51 PM.png",
     "Images/Screen Shot 2023-10-12 at 4.31.54 PM.png",
@@ -265,7 +266,6 @@
     "Images/Screen Shot 2023-10-09 at 12.18.03 AM.png",
     "Images/Pasted image 20231009000339.png",
     "Images/Pasted image 20231002122759.png",
-    "Pasted image 20231002122759.png",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",

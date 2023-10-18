@@ -1,6 +1,10 @@
+---
+link: https://physicsanduniverse.com/latex-symbols-and-using-them-to-write-equations/
+---
+
 \cdot - dot for multiplication
 \text
-\times - multi
+
 \div - division
 
 
