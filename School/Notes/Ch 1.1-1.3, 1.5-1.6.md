@@ -146,7 +146,7 @@ the sample
 ## Prefixes Used in the Metric System and with SI Units
 ![[Screen Shot 2023-08-25 at 10.26.30 AM.png]]
 
-
+![[Screen Shot 2023-10-19 at 10.42.53 PM.png]]
 ---
 
 ## Temperature
