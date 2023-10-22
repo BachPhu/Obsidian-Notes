@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/stuff/Games.md",
+                "file": "Calculus/Unit Circle.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/stuff/Games.md",
+                "file": "Calculus/Unit Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/stuff/Games.md",
+                "file": "Calculus/Unit Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/stuff/Games.md"
+                "file": "Calculus/Unit Circle.md"
               }
             }
           },
@@ -230,8 +230,8 @@
   },
   "active": "5003306e6403c24a",
   "lastOpenFiles": [
-    "Hobbies/stuff/Game ideas.md",
     "Hobbies/stuff/Games.md",
+    "Hobbies/stuff/Game ideas.md",
     "Hobbies/stuff/Movies.md",
     "Eternal Sunshine of the Spotless Mind.md",
     "Pasted image 20231020232135.png",
