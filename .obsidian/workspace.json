@@ -36,24 +36,24 @@
             }
           },
           {
-            "id": "5003306e6403c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Notes/4.1, 4.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aca9ac06fffba1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School/Notes/5.1-5.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b79165e2624ad740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/ENC 1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/5.1-5.5.md",
+                "file": "School/ENC 1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/5.1-5.5.md",
+                "file": "School/ENC 1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/5.1-5.5.md"
+                "file": "School/ENC 1101.md"
               }
             }
           },
@@ -228,10 +228,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "aca9ac06fffba1ed",
+  "active": "b79165e2624ad740",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School/Notes/5.1-5.5.md",
+    "conflict-files-obsidian-git.md",
     "School/Notes/Essay 3.md",
     "School/Notes/Essay 2.md",
     "School/Notes/Chapter 5 Summary.md",
