@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/5.1-5.5.md",
+                "file": "School/Notes/5.6-5.8.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/5.1-5.5.md",
+                "file": "School/Notes/5.6-5.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/5.1-5.5.md",
+                "file": "School/Notes/5.6-5.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/5.1-5.5.md"
+                "file": "School/Notes/5.6-5.8.md"
               }
             }
           },
@@ -231,10 +232,10 @@
   "active": "aca9ac06fffba1ed",
   "lastOpenFiles": [
     "School/CHM 2045.md",
+    "School/Notes/5.1-5.5.md",
     "School/Notes/4.2-4.4.md",
     "School/CHM 2045L.md",
     "School/ENC 1101.md",
-    "School/Notes/5.1-5.5.md",
     "conflict-files-obsidian-git.md",
     "School/Notes/Essay 3.md",
     "School/Notes/Essay 2.md",
