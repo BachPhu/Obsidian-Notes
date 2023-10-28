@@ -6,4 +6,8 @@ stem education issue
 ### [School choice and the impact of Covid-19 : parent frustration, accountability, and a time of reckoning for American public schools](https://poly-flvc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99379712176506573&context=L&vid=01FALSC_POLY:POLY&lang=en&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any%2Ccontains%2Conline%20education%20issue%2CAND&query=any%2Ccontains%2Ccovid%2CAND&mode=advanced&pfilter=lang%2Cexact%2Ceng%2CAND&offset=0&pcAvailability=true)
 
 Chapter 6
+
+
+Online Education Forum: Part Two - Teaching Online Versus Teaching Conventionally
+Online Education: Issues and Research Questions
 # summary
