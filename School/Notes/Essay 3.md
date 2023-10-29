@@ -1,5 +1,5 @@
  # idea
-virtual classroom and fail to communication ( and during covid 19 period
+concern of virtual classroom which cause by communication issue ( and during covid 19 period)
 
 stem education issue
 # Source 
