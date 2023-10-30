@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.1-10.3.md",
+                "file": "10.4-10.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.1-10.3.md",
+                "file": "10.4-10.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.1-10.3.md",
+                "file": "10.4-10.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.1-10.3.md"
+                "file": "10.4-10.6.md"
               }
             }
           },
@@ -218,12 +218,14 @@
   },
   "active": "a23aca7acb3c46a2",
   "lastOpenFiles": [
-    "Screen Shot 2023-10-30 at 12.58.22 AM.png",
-    "Obsidian Shortcuts.md",
-    "10.1-10.3.md",
-    "Screen Shot 2023-10-30 at 12.45.39 AM.png",
-    "School/CHM 2045.md",
     "Chapter 10 Summary.md",
+    "Templates/frac.md",
+    "10.4-10.6.md",
+    "School/CHM 2045.md",
+    "School/Notes/10.1-10.3.md",
+    "Images/Screen Shot 2023-10-30 at 12.45.39 AM.png",
+    "Images/Screen Shot 2023-10-30 at 12.58.22 AM.png",
+    "Obsidian Shortcuts.md",
     "School/Notes/Chapter 5 Summary.md",
     "School/Notes/Chapter 4 Summary.md",
     "School/Notes/4.1, 4.5.md",
@@ -250,12 +252,10 @@
     "Hobbies/stuff/Movies.md",
     "Hobbies/stuff/Game ideas.md",
     "Hobbies/stuff/Games.md",
-    "Hobbies/stuff/Anime Movie.md",
     "Hobbies/stuff",
     "Images/Screen Shot 2023-10-19 at 10.42.53 PM.png",
     "Images/Screen Shot 2023-10-18 at 12.48.30 AM.png",
     "Untitled.canvas",
-    "Images/a home far away.jpg",
     "School/vocab",
     "TESTTEST",
     "Example",
