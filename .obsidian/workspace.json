@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e95660dbcd4e9246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/CHM 2045.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/COURSES Dates.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/COURSES Dates.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/COURSES Dates.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -205,9 +217,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "81743d8f19343154",
+  "active": "e95660dbcd4e9246",
   "lastOpenFiles": [
+    "6.1-6.2.md",
     "School/CHM 2045.md",
+    "School/COURSES Dates.md",
     "10.4-10.7.md",
     "School/Notes/10.1-10.3.md",
     "conflict-files-obsidian-git.md",
@@ -216,7 +230,6 @@
     "School/Notes/5.6-5.8.md",
     "School/Notes/5.1-5.5.md",
     "School/Notes/Periodic Table.md",
-    "School/COURSES Dates.md",
     "Chapter 10 Summary.md",
     "Templates/frac.md",
     "Images/Screen Shot 2023-10-30 at 12.45.39 AM.png",
@@ -240,7 +253,6 @@
     "Images/Pasted image 20231020232135.png",
     "Images/Pasted image 20231020231539.png",
     "Hobbies/stuff/WebNovels.md",
-    "Hobbies/stuff/Game Wish List.md",
     "Hobbies/stuff",
     "Images/Screen Shot 2023-10-19 at 10.42.53 PM.png",
     "Images/Screen Shot 2023-10-18 at 12.48.30 AM.png",
