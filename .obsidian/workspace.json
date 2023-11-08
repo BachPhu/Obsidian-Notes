@@ -41,7 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "6.1-6.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b1fb4beba1d59fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "6.1-6.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "6.1-6.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/CHM 2045.md"
+                "file": "6.1-6.2.md"
               }
             }
           },
@@ -219,9 +230,15 @@
   },
   "active": "e95660dbcd4e9246",
   "lastOpenFiles": [
+    "Pasted image 20231108135446.png",
+    "Pasted image 20231108135355.png",
+    "LaTex.md",
     "6.1-6.2.md",
+    "Chapter 6 Summary.md",
     "School/CHM 2045.md",
+    "Chapter 10 Summary.md",
     "School/COURSES Dates.md",
+    "Blender/Blender Shortcuts.md",
     "10.4-10.7.md",
     "School/Notes/10.1-10.3.md",
     "conflict-files-obsidian-git.md",
@@ -230,7 +247,6 @@
     "School/Notes/5.6-5.8.md",
     "School/Notes/5.1-5.5.md",
     "School/Notes/Periodic Table.md",
-    "Chapter 10 Summary.md",
     "Templates/frac.md",
     "Images/Screen Shot 2023-10-30 at 12.45.39 AM.png",
     "Images/Screen Shot 2023-10-30 at 12.58.22 AM.png",
@@ -247,15 +263,10 @@
     "Images/Screen Shot 2023-10-26 at 1.10.55 AM.png",
     "Images/Screen Shot 2023-10-26 at 12.56.22 AM.png",
     "School/Notes/4.2-4.4.md",
-    "School/CHM 2045L.md",
-    "School/Notes/Essay 2.md",
-    "School/Notes/Anno. Bib. 1.md",
     "Images/Pasted image 20231020232135.png",
     "Images/Pasted image 20231020231539.png",
-    "Hobbies/stuff/WebNovels.md",
     "Hobbies/stuff",
     "Images/Screen Shot 2023-10-19 at 10.42.53 PM.png",
-    "Images/Screen Shot 2023-10-18 at 12.48.30 AM.png",
     "Untitled.canvas",
     "School/vocab",
     "TESTTEST",
