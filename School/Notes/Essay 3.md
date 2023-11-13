@@ -13,5 +13,7 @@ Online Education: Issues and Research Questions
 # summary
 [The second body paragraph is about the issue and the effect of communication of institutions and their facility using Source 1. Included examples of issue during Covid time]
 
+[Third body paragraph is about the issue with online education during Covid that covers challenges for both teachers and students using Source 3 (chapter 6: the challenges of overnight online education). Also the reaction to the sudden shift online platform.]
+
 [Admit that these researches were done before and at the time of Covid period so there could be new changes. This final paragraph is meant to call out why the issue of online education (communication) need to be improved so we can prepare for in case a similar scenario happens again in the future and to improve quality of future STEM industry.]
 
