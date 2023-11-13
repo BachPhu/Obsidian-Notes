@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Essay 3.md",
+                "file": "6.3-6.8.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Essay 3.md",
+                "file": "6.3-6.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Essay 3.md",
+                "file": "6.3-6.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Essay 3.md"
+                "file": "6.3-6.8.md"
               }
             }
           },
@@ -218,13 +218,15 @@
   },
   "active": "235969e3411bd32b",
   "lastOpenFiles": [
-    "School/ENC 1101.md",
-    "Chapter 6 Summary.md",
+    "School/CHM 2045.md",
+    "6.3-6.8.md",
+    "School/Notes/6.1-6.2.md",
     "Chapter 10 Summary.md",
+    "Chapter 6 Summary.md",
+    "School/Notes/Essay 3.md",
+    "School/ENC 1101.md",
     "CompSci Orientation Leader Meeting.md",
     "Images/Pasted image 20231108135355.png",
-    "School/Notes/6.1-6.2.md",
-    "School/CHM 2045.md",
     "School/CHM 2045L.md",
     "Images/Pasted image 20231108135446.png",
     "School/Notes/10.4-10.7.md",
@@ -232,7 +234,6 @@
     "School/COURSES Dates.md",
     "Images/Screen Shot 2023-11-06 at 11.49.39 PM.png",
     "Keyboard Shortcuts.md",
-    "School/Notes/Essay 3.md",
     "School/Notes/10.1-10.3.md",
     "10.4-10.6.md",
     "Templates/frac.md",
@@ -252,7 +253,6 @@
     "School/Notes/5.1-5.5.md",
     "School/Notes/4.2-4.4.md",
     "conflict-files-obsidian-git.md",
-    "School/Notes/Essay 2.md",
     "Images/Pasted image 20231020232135.png",
     "Hobbies/stuff",
     "Untitled.canvas",
