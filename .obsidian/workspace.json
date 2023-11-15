@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -218,6 +219,8 @@
   },
   "active": "235969e3411bd32b",
   "lastOpenFiles": [
+    "Pasted image 20231115163246.png",
+    "Pasted image 20231115162759.png",
     "School/CHM 2045.md",
     "School/Notes/Periodic Table.md",
     "6.3-6.8.md",
@@ -252,8 +255,6 @@
     "Images/Screen Shot 2023-10-26 at 1.10.55 AM.png",
     "Images/Screen Shot 2023-10-26 at 12.56.22 AM.png",
     "School/Notes/5.1-5.5.md",
-    "School/Notes/4.2-4.4.md",
-    "Images/Pasted image 20231020232135.png",
     "Hobbies/stuff",
     "Untitled.canvas",
     "School/vocab",
