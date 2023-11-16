@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "235969e3411bd32b",
+            "id": "51ba8bc50e31ed1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "8.1-8.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "8.1-8.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "8.1-8.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.3-6.8.md"
+                "file": "8.1-8.4.md"
               }
             }
           },
@@ -216,15 +216,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "235969e3411bd32b",
+  "active": "51ba8bc50e31ed1c",
   "lastOpenFiles": [
+    "School/CHM 2045.md",
+    "8.1-8.4.md",
+    "School/COURSES Dates.md",
+    "6.3-6.8.md",
+    "Screen Shot 2023-11-15 at 9.03.56 PM.png",
     "Screen Shot 2023-11-15 at 8.47.58 PM.png",
     "Pasted image 20231115204643.png",
     "Chapter 6 Summary.md",
     "Chapter 10 Summary.md",
     "Obsidian Shortcuts.md",
     "Images/Pasted image 20231115162759.png",
-    "6.3-6.8.md",
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
     "LaTex.md",
@@ -245,15 +249,11 @@
     "Templates/Latex color/lblue.md",
     "Templates/Latex color/lgreen.md",
     "Templates/Latex color/lred.md",
-    "Templates/Latex color/og color.md",
-    "Templates/Latex color/ppurple.md",
     "Images/Pasted image 20231115163246.png",
     "Images/Pasted image 20231108135355.png",
     "Images/Pasted image 20231108135446.png",
     "Images/Screen Shot 2023-11-06 at 11.49.39 PM.png",
     "Images/Screen Shot 2023-10-30 at 12.45.39 AM.png",
-    "Images/Screen Shot 2023-10-30 at 12.58.22 AM.png",
-    "Images/Screen Shot 2023-10-26 at 1.09.09 AM.png",
     "Hobbies/stuff",
     "Untitled.canvas",
     "School/vocab",
