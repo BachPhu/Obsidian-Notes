@@ -1,5 +1,5 @@
 ```dataview
-TABLE Office, Office_Hours, Syllabus as "SYLLABUS"
+TABLE Office, Office_Hours as "Office Hour", Syllabus as "SYLLABUS"
 FROM  #course_overview
 
 

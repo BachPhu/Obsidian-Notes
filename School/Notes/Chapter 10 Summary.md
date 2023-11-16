@@ -1,3 +1,8 @@
+---
+tags:
+  - chm2045
+---
+
 # Properties of Gases
 # Table of Contents
 10.1 Physical Characteristics of Gases  

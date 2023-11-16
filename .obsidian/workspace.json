@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "School/CHM 2045.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.3-6.8.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.3-6.8.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -218,14 +218,35 @@
   },
   "active": "235969e3411bd32b",
   "lastOpenFiles": [
+    "6.3-6.8.md",
+    "daily/11/16/2023.md",
+    "daily/11/16",
+    "daily/11",
+    "Templates/Math/text.md",
+    "Templates/Math/infinity.md",
+    "Templates/Math/frac.md",
+    "Templates/Math/derivative.md",
+    "Templates/Math/appoarch.md",
+    "School/Notes/Chapter 6 Summary.md",
+    "School/Notes/Chapter 10 Summary.md",
+    "School/Notes/8.7-8.8.md",
+    "School/Notes/8.5-8.6.md",
+    "School/Notes/8.1-8.4.md",
+    "School/Notes/6.3-6.8.md",
+    "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
+    "Images/Screen Shot 2023-11-16 at 12.18.45 AM.png",
+    "Images/Screen Shot 2023-11-16 at 12.15.58 AM.png",
+    "Images/Screen Shot 2023-11-16 at 12.13.28 AM.png",
+    "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
+    "Images/Screen Shot 2023-11-15 at 8.47.58 PM.png",
+    "Images/Screen Shot 2023-11-15 at 11.19.06 PM.png",
+    "Images/Screen Shot 2023-11-15 at 10.50.38 PM.png",
+    "Images/Pasted image 20231115204643.png",
+    "Images/Pasted image 20231115164812.png",
     "School/CHM 2045.md",
     "School/Notes/10.1-10.3.md",
     "School/Notes/10.4-10.7.md",
     "School/Notes/5.6-5.8.md",
-    "6.3-6.8.md",
-    "Pasted image 20231115164812.png",
-    "Pasted image 20231115163246.png",
-    "Pasted image 20231115162759.png",
     "School/Notes/Periodic Table.md",
     "School/Notes/6.1-6.2.md",
     "School/Notes/Essay 3.md",
@@ -233,25 +254,8 @@
     "Chapter 6 Summary.md",
     "Chapter 10 Summary.md",
     "CompSci Orientation Leader Meeting.md",
-    "Images/Pasted image 20231108135355.png",
     "School/CHM 2045L.md",
-    "Images/Pasted image 20231108135446.png",
     "School/COURSES Dates.md",
-    "Images/Screen Shot 2023-11-06 at 11.49.39 PM.png",
-    "Keyboard Shortcuts.md",
-    "10.4-10.6.md",
-    "Templates/frac.md",
-    "Images/Screen Shot 2023-10-30 at 12.45.39 AM.png",
-    "Images/Screen Shot 2023-10-30 at 12.58.22 AM.png",
-    "Obsidian Shortcuts.md",
-    "School/Notes/Chapter 5 Summary.md",
-    "School/Notes/Chapter 4 Summary.md",
-    "School/Notes/4.1, 4.5.md",
-    "School/EGN 1006.md",
-    "\"A Failure to Communicate\".md",
-    "Images/Screen Shot 2023-10-26 at 1.09.09 AM.png",
-    "Images/Screen Shot 2023-10-26 at 1.12.33 AM.png",
-    "School/Notes/5.1-5.5.md",
     "Hobbies/stuff",
     "Untitled.canvas",
     "School/vocab",
@@ -261,8 +265,6 @@
     "9/11 – 9",
     "9",
     "8/21 – 8",
-    "8/28 – 9",
-    "8",
     "Calculus/Geo.canvas",
     "Keyboard Shortcut.canvas"
   ]
