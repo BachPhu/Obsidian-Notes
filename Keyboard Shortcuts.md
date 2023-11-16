@@ -18,5 +18,5 @@ Command + Shift - to find where the variable first declared
 
 _____
 
-For GitHub
+
 Cmd + Shift + .   - show hidden (ignore) file

@@ -1,3 +1,8 @@
+---
+tags:
+  - chm2045
+---
+
 # Atomic Structure  
 ## The Quantum-Mechanical Model of the Atom
 
