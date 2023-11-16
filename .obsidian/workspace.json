@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "51ba8bc50e31ed1c",
+            "id": "7b794e538777f140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex.md",
+                "file": "School/Notes/8.1-8.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex.md",
+                "file": "School/Notes/8.1-8.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex.md",
+                "file": "School/Notes/8.1-8.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex.md"
+                "file": "School/Notes/8.1-8.4.md"
               }
             }
           },
@@ -216,38 +216,39 @@
       "graph:Open graph view": false
     }
   },
-  "active": "51ba8bc50e31ed1c",
+  "active": "7b794e538777f140",
   "lastOpenFiles": [
-    "Obsidian Shortcuts.md",
+    "School/CHM 2045.md",
+    "daily/2023-06-30.md",
+    "Hobbies/your wings my wings.md",
+    "Hobbies/White Online.md",
+    "Hobbies/Vitreous.md",
+    "Hobbies/The Beginning After The End.md",
+    "Hobbies/The Author's POV.md",
+    "Hobbies/Supreme Magus.md",
+    "Hobbies/scholar(magic fantasy tower) game.md",
+    "Hobbies/Regressor Instruction Manual.md",
+    "Hobbies/On the Count of Three.md",
+    "Hobbies/Omniscient Reader's Viewpoint.md",
+    "Hobbies/Goodbye, Don Glees!.md",
+    "Hobbies/frog game.md",
+    "Hobbies/Far Away Home.md",
+    "Hobbies/Eternal Sunshine of the Spotless Mind.md",
+    "School/ENC 1101.md",
+    "School/MAC 2311.md",
+    "School/COURSES Dates.md",
+    "Personal/Finance Notes.md",
+    "Personal/School Extra Fee.md",
     "LaTex.md",
+    "Obsidian Shortcuts.md",
     "CompSci Orientation Leader Meeting.md",
     "School/Notes/Chapter 6 Summary.md",
     "School/Notes/8.1-8.4.md",
-    "School/Notes/6.3-6.8.md",
     "Images/Pasted image 20231115204643.png",
-    "School/CHM 2045.md",
-    "School/COURSES Dates.md",
     "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
     "Images/Screen Shot 2023-11-15 at 8.47.58 PM.png",
-    "School/Notes/Chapter 10 Summary.md",
     "Images/Pasted image 20231115162759.png",
-    "Keyboard Shortcuts.md",
     "Images/Pasted image 20231115164812.png",
-    "Templates/text.md",
-    "Templates/movie tag.md",
-    "Templates/movie info.md",
-    "Templates/LN tag.md",
-    "Templates/infinity.md",
-    "Templates/game tag.md",
-    "Templates/game info.md",
-    "Templates/derivative.md",
-    "Templates/frac.md",
-    "Templates/date.md",
-    "Templates/course tag.md",
-    "Templates/color.md",
-    "Templates/appoarch.md",
-    "Templates/Latex color/lblue.md",
-    "Templates/Latex color/lgreen.md",
     "Images/Pasted image 20231115163246.png",
     "Images/Pasted image 20231108135355.png",
     "Images/Pasted image 20231108135446.png",
