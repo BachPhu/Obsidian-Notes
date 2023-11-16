@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.1-8.4.md",
+                "file": "LaTex.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.1-8.4.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8.1-8.4.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8.1-8.4.md"
+                "file": "LaTex.md"
               }
             }
           },
@@ -218,20 +218,20 @@
   },
   "active": "51ba8bc50e31ed1c",
   "lastOpenFiles": [
-    "School/CHM 2045.md",
-    "8.1-8.4.md",
-    "School/COURSES Dates.md",
-    "6.3-6.8.md",
-    "Screen Shot 2023-11-15 at 9.03.56 PM.png",
-    "Screen Shot 2023-11-15 at 8.47.58 PM.png",
-    "Pasted image 20231115204643.png",
-    "Chapter 6 Summary.md",
-    "Chapter 10 Summary.md",
     "Obsidian Shortcuts.md",
-    "Images/Pasted image 20231115162759.png",
-    "CompSci Orientation Leader Meeting.md",
-    "Keyboard Shortcuts.md",
     "LaTex.md",
+    "CompSci Orientation Leader Meeting.md",
+    "School/Notes/Chapter 6 Summary.md",
+    "School/Notes/8.1-8.4.md",
+    "School/Notes/6.3-6.8.md",
+    "Images/Pasted image 20231115204643.png",
+    "School/CHM 2045.md",
+    "School/COURSES Dates.md",
+    "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
+    "Images/Screen Shot 2023-11-15 at 8.47.58 PM.png",
+    "School/Notes/Chapter 10 Summary.md",
+    "Images/Pasted image 20231115162759.png",
+    "Keyboard Shortcuts.md",
     "Images/Pasted image 20231115164812.png",
     "Templates/text.md",
     "Templates/movie tag.md",
@@ -248,7 +248,6 @@
     "Templates/appoarch.md",
     "Templates/Latex color/lblue.md",
     "Templates/Latex color/lgreen.md",
-    "Templates/Latex color/lred.md",
     "Images/Pasted image 20231115163246.png",
     "Images/Pasted image 20231108135355.png",
     "Images/Pasted image 20231108135446.png",
