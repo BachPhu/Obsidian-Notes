@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/10.1-10.3.md",
+                "file": "School/Notes/6.3-6.8.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/10.1-10.3.md",
+                "file": "School/Notes/6.3-6.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/10.1-10.3.md",
+                "file": "School/Notes/6.3-6.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/10.1-10.3.md"
+                "file": "School/Notes/6.3-6.8.md"
               }
             }
           },
@@ -219,6 +219,10 @@
   "active": "235969e3411bd32b",
   "lastOpenFiles": [
     "School/CHM 2045.md",
+    "School/Notes/8.1-8.4.md",
+    "School/Notes/8.5-8.6.md",
+    "School/Notes/8.7-8.8.md",
+    "School/Notes/10.1-10.3.md",
     "LaTex.md",
     "Obsidian Shortcuts.md",
     "6.3-6.8.md",
@@ -232,9 +236,6 @@
     "Templates/Math/appoarch.md",
     "School/Notes/Chapter 6 Summary.md",
     "School/Notes/Chapter 10 Summary.md",
-    "School/Notes/8.7-8.8.md",
-    "School/Notes/8.5-8.6.md",
-    "School/Notes/8.1-8.4.md",
     "School/Notes/6.3-6.8.md",
     "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
     "Images/Screen Shot 2023-11-16 at 12.18.45 AM.png",
@@ -246,7 +247,6 @@
     "Images/Screen Shot 2023-11-15 at 10.50.38 PM.png",
     "Images/Pasted image 20231115204643.png",
     "Images/Pasted image 20231115164812.png",
-    "School/Notes/10.1-10.3.md",
     "School/Notes/10.4-10.7.md",
     "School/Notes/5.6-5.8.md",
     "School/Notes/Periodic Table.md",
