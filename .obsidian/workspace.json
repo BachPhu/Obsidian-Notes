@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "School/Notes/10.4-10.7.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "School/Notes/10.4-10.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "School/Notes/10.4-10.7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/CHM 2045.md"
+                "file": "School/Notes/10.4-10.7.md"
               }
             }
           },
@@ -230,9 +230,10 @@
   },
   "active": "de400534c3d23588",
   "lastOpenFiles": [
-    "School/Notes/10.1-10.3.md",
-    "School/Notes/8.1-8.4.md",
     "School/CHM 2045.md",
+    "School/Notes/10.1-10.3.md",
+    "School/Notes/10.4-10.7.md",
+    "School/Notes/8.1-8.4.md",
     "School/Notes/6.1-6.2.md",
     "School/Notes/6.3-6.8.md",
     "School/Notes/8.5-8.6.md",
@@ -264,7 +265,6 @@
     "Untitled",
     "School/ENC 1101.md",
     "School/Notes/Essay 2.md",
-    "School/Notes/Anno. Bib. 1.md",
     "Images/Pasted image 20231115204643.png",
     "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
     "Images/Screen Shot 2023-11-15 at 8.47.58 PM.png",
