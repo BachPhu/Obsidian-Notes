@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/Notes/6.1-6.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/Notes/6.1-6.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/8.1-8.4.md"
+                "file": "School/Notes/6.1-6.2.md"
               }
             }
           },
@@ -228,14 +228,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ef4565f63be8cda8",
+  "active": "de400534c3d23588",
   "lastOpenFiles": [
+    "School/Notes/8.1-8.4.md",
+    "School/Notes/6.1-6.2.md",
     "School/CHM 2045.md",
     "School/Notes/8.5-8.6.md",
     "School/Notes/8.7-8.8.md",
-    "School/Notes/6.1-6.2.md",
     "School/Notes/6.3-6.8.md",
-    "School/Notes/8.1-8.4.md",
     "conflict-files-obsidian-git.md",
     "Templates/Math/frac.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
