@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/10.4-10.7.md",
+                "file": "5.2 The Definite Integral- Calculus 5.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/10.4-10.7.md",
+                "file": "5.2 The Definite Integral- Calculus 5.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/10.4-10.7.md",
+                "file": "5.2 The Definite Integral- Calculus 5.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/10.4-10.7.md"
+                "file": "5.2 The Definite Integral- Calculus 5.2.md"
               }
             }
           },
@@ -230,9 +231,11 @@
   },
   "active": "de400534c3d23588",
   "lastOpenFiles": [
+    "School/MAC 2311.md",
+    "5.2 The Definite Integral- Calculus 5.2.md",
+    "School/Notes/10.4-10.7.md",
     "School/CHM 2045.md",
     "School/Notes/10.1-10.3.md",
-    "School/Notes/10.4-10.7.md",
     "School/Notes/8.1-8.4.md",
     "School/Notes/6.1-6.2.md",
     "School/Notes/6.3-6.8.md",
@@ -241,7 +244,6 @@
     "conflict-files-obsidian-git.md",
     "Templates/Math/frac.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
-    "School/MAC 2311.md",
     "School/Notes/4.3 Maxima and Minima - Calculus 4.3.md",
     "Personal/Finance Notes.md",
     "School/CHM 2045L.md",
@@ -264,7 +266,6 @@
     "Images/Screen Shot 2023-11-15 at 10.50.38 PM.png",
     "Untitled",
     "School/ENC 1101.md",
-    "School/Notes/Essay 2.md",
     "Images/Pasted image 20231115204643.png",
     "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
     "Images/Screen Shot 2023-11-15 at 8.47.58 PM.png",
