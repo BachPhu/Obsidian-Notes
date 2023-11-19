@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.2 The Definite Integral- Calculus 5.2.md",
+                "file": "Calculus/Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "circl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +106,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.2 The Definite Integral- Calculus 5.2.md",
+                "file": "Calculus/Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.2 The Definite Integral- Calculus 5.2.md",
+                "file": "Calculus/Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.2 The Definite Integral- Calculus 5.2.md"
+                "file": "Calculus/Triangle.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "de400534c3d23588",
   "lastOpenFiles": [
-    "School/MAC 2311.md",
     "5.2 The Definite Integral- Calculus 5.2.md",
+    "School/MAC 2311.md",
     "School/Notes/10.4-10.7.md",
     "School/CHM 2045.md",
     "School/Notes/10.1-10.3.md",
