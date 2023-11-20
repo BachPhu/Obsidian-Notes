@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/Notes/8.5-8.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/Notes/8.5-8.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/MAC 2311.md",
+                "file": "School/Notes/8.5-8.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/MAC 2311.md"
+                "file": "School/Notes/8.5-8.6.md"
               }
             }
           },
@@ -219,15 +220,9 @@
   },
   "active": "391934d94d6210f8",
   "lastOpenFiles": [
-    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
+    "School/CHM 2045.md",
     "School/MAC 2311.md",
-    "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
-    "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
-    "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
-    "School/Notes/3.6 Chain Rule - Calculus 3.6.md",
-    "School/Notes/4.2 Linear Approximations and Differentials - Calculus 4.2.md",
     "Calculus/Limits and Continuity.md",
-    "5.2 The Definite Integral- Calculus 5.2.md",
     "Calculus/Logarithms.md",
     "Calculus/Power Rule.md",
     "Calculus/Product Rule.md",
@@ -243,11 +238,17 @@
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19/2023.md",
+    "5.2 The Definite Integral- Calculus 5.2.md",
     "daily/11/19",
     "School/Notes/8.5-8.6.md",
-    "School/CHM 2045.md",
     "School/Notes/8.1-8.4.md",
     "School/Notes/10.4-10.7.md",
+    "School/Notes/10.1-10.3.md",
+    "School/Notes/6.1-6.2.md",
+    "School/Notes/6.3-6.8.md",
+    "School/Notes/8.7-8.8.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Math/frac.md",
     "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
     "Images/Screen Shot 2023-11-15 at 11.19.06 PM.png",
     "daily/11/16",
