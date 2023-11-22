@@ -36,27 +36,19 @@
             }
           },
           {
-            "id": "efdea61e7c790ff5",
+            "id": "391934d94d6210f8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20231121151118.png"
-              }
-            }
-          },
-          {
-            "id": "aaa84362d6f156db",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20231121151802.png"
+                "file": "School/CHM 2045.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Calculus Table of Content.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -225,17 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a675e87dc8c9fbb",
+  "active": "391934d94d6210f8",
   "lastOpenFiles": [
-    "Images/Pasted image 20231121151118.png",
     "Images/Pasted image 20231121151802.png",
-    "School/MAC 2311.md",
-    "LaTex.md",
-    "School/COURSES Dates.md",
-    "School/Notes/8.5-8.6.md",
     "Images/Pasted image 20231121151628.png",
+    "Images/Pasted image 20231121151118.png",
+    "School/Notes/8.5-8.6.md",
     "School/CHM 2045.md",
-    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+    "School/MAC 2311.md",
     "Calculus/Limits and Continuity.md",
     "Calculus/Logarithms.md",
     "Calculus/Power Rule.md",
@@ -246,6 +235,7 @@
     "Calculus/Two Special Trig Function.md",
     "Calculus/Unit Circle.md",
     "Exam 3.md",
+    "School/COURSES Dates.md",
     "Excalidraw/Drawing 2023-11-19 14.47.33.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 14.48.21.excalidraw.md",
     "Untitled.canvas",
@@ -258,6 +248,8 @@
     "School/Notes/10.1-10.3.md",
     "School/Notes/6.1-6.2.md",
     "School/Notes/6.3-6.8.md",
+    "School/Notes/8.7-8.8.md",
+    "conflict-files-obsidian-git.md",
     "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
     "Images/Screen Shot 2023-11-15 at 11.19.06 PM.png",
     "daily/11/16",
@@ -268,6 +260,7 @@
     "Images/Screen Shot 2023-11-15 at 10.50.38 PM.png",
     "Untitled",
     "Images/Pasted image 20231115204643.png",
+    "Images/Screen Shot 2023-11-15 at 9.03.56 PM.png",
     "Hobbies/stuff",
     "School/vocab",
     "TESTTEST",
