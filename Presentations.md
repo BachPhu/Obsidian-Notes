@@ -28,4 +28,19 @@ The main cause for those issues is communication issues within parties involved,
 - There could be technical struggle for instructors if the institution didn't provide enough guideline, same thing for students. It can also be internet connection issues that interrupt the learning process
 
 - Time and location is also another factor. 
-	- It's harder for student to ask questions during an online meeting as some professor explain material really fast. While in-class, they could raise their hand and ask without it feel like interrupting the whole class. The answers during online lessons can be really general or vague when the instructor try to move to 
+	- It's harder for student to ask questions in the right time for an online meeting. and The answers can be really general or vague when the instructor already move past that material. While student have flexible option for where they want to study, it can be a little distracting sometimes compare to an actual classroom. Compare to in-class, student could raise their hand and ask without it feel like interrupting the whole class and get others involve in the discussion too. 
+
+# Why does it matter​
+
+This issue matter because poor online course experience it can affect student's learning outcome quality. Which doesn't bring a good name to STEM online education landscape and can drive people away from pursuing STEM degrees. In long term, bad learning outcome quality can also affect future STEM industry, which is a very big part of our world now and in the future. 
+
+And finally, to prepare for scenario where the the education landscape have to go fully remote again due to pandemic
+
+
+# Proposal Solution
+## Adaptive course design
+My proposal solution for this issue is to have an adaptive design for online STEM courses.
+- Bullet 1: external sources can be videos, articles, educational sites, or alternative methods.
+- Bulelt 3: again, we could use the help of ai for this too. 
+
+The closest model to this proposal idea that I could find is Khan Academy, they're famous for their mathematical teaching method. They are using most of these points, have show effective results and is widely use for e-learning.
