@@ -23,6 +23,9 @@ Hi, my name is Le Vi Pham and my presentation is about the issues with STEM onli
 # The Cause
 The main cause for those issues is communication issues within parties involved, that could be  between the institution and instructors, instructors to student or student and institution. 
 
-- Unclear course planning, or unclear expectation can confuse student. For example, some student might underestimate or overestimate the expected effort of an assignment, which could lead them to having a bad grade or burnout quickly. Some instructors can also underestimated the workload that they assigned to student, this can also make it hard for student to keep their interest to the course material if they're just overwhelm with assignments.  
+- Unclear course planning, or unclear expectation can confuse student. Some student might underestimate or overestimate the expected effort of an assignment, which could lead them to having a bad grade or burnout quickly. Some instructors can also underestimated the workload that they assigned to student, this can also make it hard for student to keep their interest to the course material when they're just overwhelm with assignments.  
 
-- There could be technical struggle for instructors if the institution didn't provide enough guideline
+- There could be technical struggle for instructors if the institution didn't provide enough guideline, same thing for students. It can also be internet connection issues that interrupt the learning process
+
+- Time and location is also another factor. 
+	- It's harder for student to ask questions during an online meeting as some professor explain material really fast. While in-class, they could raise their hand and ask without it feel like interrupting the whole class. The answers during online lessons can be really general or vague when the instructor try to move to 
