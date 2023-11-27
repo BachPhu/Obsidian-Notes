@@ -11,4 +11,4 @@ Support Example: KhanAcademy
 Hi, my name is Le Vi Pham and my presentation is about the issues with STEM online education and my proposal solution to this issue.
 
 # The Problem
-So, the problem with STEM online education is that many student reported to be unsatisfied with their course experience. More specifically 
+So, the problem with STEM online education is that many student reported to be unsatisfied with their course experience. First off, lack of motivation, as you can see on the chart, 57
