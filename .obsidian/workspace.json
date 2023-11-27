@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "Presentations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "Presentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/CHM 2045.md",
+                "file": "Presentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/CHM 2045.md"
+                "file": "Presentations.md"
               }
             }
           },
@@ -219,6 +220,8 @@
   },
   "active": "d261adb73020df4a",
   "lastOpenFiles": [
+    "School/ENC 1101.md",
+    "School/CHM 2045.md",
     "Presentations.md",
     "School/Notes/5.2 The Definite Integral- Calculus 5.2.md",
     "School/COURSES Dates.md",
@@ -233,7 +236,6 @@
     "School/MAC 2311.md",
     "School/Notes/8.5-8.6.md",
     "Images/Pasted image 20231121151628.png",
-    "School/CHM 2045.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "Calculus/Limits and Continuity.md",
     "Calculus/Logarithms.md",
@@ -250,7 +252,6 @@
     "Excalidraw",
     "daily/11/19/2023.md",
     "daily/11/19",
-    "School/Notes/8.1-8.4.md",
     "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
     "Images/Screen Shot 2023-11-15 at 11.19.06 PM.png",
     "daily/11/16",
