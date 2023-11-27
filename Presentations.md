@@ -47,3 +47,8 @@ The closest model to this proposal idea that I could find is Khan Academy, they'
 
 
 # Justification and Feasibility
+The cost for an custom AI software depend on its complexity level. A low-level complexity AI software would cost around ... A medium complexity would be around ... And the maintenance cost is around...
+
+- Some potential resistance would be: the fact that not everyone one agree with using AI, this could ve due to them misunderstanding the purpose/goal of the this idea AI. Some might worry that AI might takeover their job position. It can also be overwhelming for both instructor and student the first few times.
+
+- Here my explanation, having an AI assistant can reduce a lot of frustration for both instructors and students. Student will get the extra resources they needed which can save a lot of time instructor. Of course, student can always reach out to their instructors if they have more specific questions. It's simply more productive and save more time. With the issue that some ppl worry that AI can replace them, I highly doubt that would happens anytime soon. While the AI is smart, it's not perfect   
