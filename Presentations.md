@@ -45,7 +45,10 @@ My proposal solution for this issue is to have an adaptive design for online STE
 
 The closest model to this proposal idea that I could find is Khan Academy, they're famous for their mathematical teaching method. They are using most of these points, have show effective results and is widely use for e-learning.
 
-
+## General Solution
+A more general solution I have is to improve the communication more. Have clear planning and expectation when designing the online course.
+- Bullet 4: Have Live Sessions where students can ask questions they have about the course material
+- Bullet 5: I think it's worth it to invest in a good user interface as it can be easier to navigate and more interesting for students. 
 # Justification and Feasibility
 The cost for an custom AI software depend on its complexity level. A low-level complexity AI software would cost around ... A medium complexity would be around ... And the maintenance cost is around...
 
