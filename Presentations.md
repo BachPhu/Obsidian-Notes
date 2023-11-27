@@ -44,3 +44,6 @@ My proposal solution for this issue is to have an adaptive design for online STE
 - Bulelt 3: again, we could use the help of ai for this too. 
 
 The closest model to this proposal idea that I could find is Khan Academy, they're famous for their mathematical teaching method. They are using most of these points, have show effective results and is widely use for e-learning.
+
+
+# Justification and Feasibility
