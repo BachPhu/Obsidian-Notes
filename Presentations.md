@@ -28,17 +28,27 @@ Hi, my name is Le Vi Pham and my presentation is about the issues with STEM onli
 The main cause for those issues is communication issues within parties involved, that could be  between the institution and instructors, instructors to student or student and institution. 
 
 - Unclear course planning, or unclear expectation can confuse student. Some student might underestimate or overestimate the expected effort of an assignment, which could lead them to having a bad grade or burnout quickly. Some instructors can also underestimated the workload that they assigned to student, this can also make it hard for student to keep their interest to the course material when they're just overwhelm with assignments.  
+​
 
-- There could be technical struggle for instructors if the institution didn't provide enough guideline, same thing for students. It can also be internet connection issues that interrupt the learning process
+- It's difficult for online course to have the same level of interactivity as F2F, things such as online group activity, discussions but with being online, students tends to be more shy or unmotivated to participate.
 
 - Time and location is also another factor. 
-	- It's harder for student to ask questions in the right time for an online meeting. and The answers can be really general or vague when the instructor already move past that material. While student have flexible option for where they want to study, it can be a little distracting sometimes compare to an actual classroom. Compare to in-class, student could raise their hand and ask without it feel like interrupting the whole class and get others involve in the discussion too. 
+	- It's harder for student to ask questions in the right time for an online meeting. and The answers can be really general or vague when the instructor already move past that material. While student have flexible option for where they want to study, it can be a little distracting sometimes compare to an actual classroom. Compare to in-class, student could raise their hand and ask without it feel like interrupting the whole class and get others involve in the discussion too.
+	-  Not able to have many chances for hand-on experience is another limitation for online courses. Students might not have the special equipment, materials or required safety environment to conduct STEM practical skills
 
 # Why does it matter​
 
-This issue matter because poor online course experience it can affect student's learning outcome quality. Which doesn't bring a good name to STEM online education landscape and can drive people away from pursuing STEM degrees. In long term, bad learning outcome quality can also affect future STEM industry, which is a very big part of our world now and in the future. 
+ ​
 
-And finally, to prepare for scenario where the the education landscape have to go fully remote again due to pandemic
+This issue matter because poor online course experience it can affect student's learning outcome quality. Students not able to have a deep understanding of the material due to the the previous mentioned factors.​
+
+Another thing is when student convert their experience with other and have a negative review it doesn't bring a good name to STEM online education landscape and we want more people to pursue STEM degrees through online method. ​
+
+
+In long term, bad learning outcome quality can also affect future STEM fields, which is a very big part of our world now and will keep growing in future. ​
+ 
+
+And finally, to prepare for scenario where the education landscape have to go fully remote again due to pandemic, national shutd
 
 
 # Proposal Solution
@@ -59,5 +69,5 @@ The cost for an custom AI software depend on its complexity level. A low-level c
 - Some potential resistance would be: the fact that not everyone one agree with using AI, this could ve due to them misunderstanding the purpose/goal of the this idea AI. Some might worry that AI might takeover their job position. It can also be overwhelming for both instructor and student the first few times.
 
 - Here my explanation, having an AI assistant can reduce a lot of frustration for both instructors and students. Student will get the extra resources they needed which can save a lot of time instructor. Of course, student can always reach out to their instructors if they have more specific questions. It's simply more productive and save more time. With the issue that some ppl worry that AI can replace them, I highly doubt that would happens anytime soon. While the AI is smart, but it's not perfect and students still need instructors to understand the course's material
-- Another benefit is that the course design quality improvement will become more consistent with the AI collecting feedback and organize them regular
+- Another benefit is that the course design quality improvement will become more consistent with the AI collecting feedback and organize them regularly
 - The price seems high but that is for one software/system, so if we use it widely across many institution then the price is actually not bad at all
