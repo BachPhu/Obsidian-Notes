@@ -20,7 +20,7 @@ Hi, my name is Le Vi Pham and my presentation is about the issues with STEM onli
 
 - Another issue with STEM online courses is the lack of hand-on experience for students. For example: labs, problem-solving activity (like the hackathon), workshops, etc..
 
-- Lack of connection, this could be connection with instructors or peer to peer connection. Normally, when you're in F2F, you can come to your professor's office hours or ask them quick question before/after classes, but you don't have that many chances in online courses as shown on the chart, 65% student find it harder to collaborate with others student on course work. Same thing with peers connection, it's easier to make friends and share knowledge, struggle while in-person. So, you're kinda by yourself throughout the entire learning process.
+- Lack of connection, this could be connection with instructors or peer to peer connection. Normally, when you're in F2F, you can come to your professor's office hours or ask them quick question before/after classes, but you don't have that many chances in online courses as shown on the chart, 65% student find it harder to collaborate with others student on course work. Same thing with peers connection, it's easier to make friends and share knowledge, struggle while in-person. .
 
 - Again, online students don't get to interact with their professors that often, and visa versa, which make it harder for student to get regular personal feedback on their strengths and weaknesses
 
@@ -66,7 +66,7 @@ A more general solution I have is to improve the communication more. Have clear 
 # Justification and Feasibility
 The cost for an custom AI software depend on its complexity level. A low-level complexity AI software would cost around ... A medium complexity would be around ... And the maintenance cost is around...
 
-- Some potential resistance would be: the fact that not everyone one agree with using AI, this could ve due to them misunderstanding the purpose/goal of the this idea AI. Some might worry that AI might takeover their job position. It can also be overwhelming for both instructor and student the first few times.
+- Some potential resistance would be: the fact that not everyone one agree with using AI, this could be due to them misunderstanding the purpose/goal of the this idea AI. Some might worry that AI might takeover their job position. It can also be overwhelming for both instructor and student the first few times.
 
 - Here my explanation, having an AI assistant can reduce a lot of frustration for both instructors and students. Student will get the extra resources they needed which can save a lot of time instructor. Of course, student can always reach out to their instructors if they have more specific questions. It's simply more productive and save more time. With the issue that some ppl worry that AI can replace them, I highly doubt that would happens anytime soon. While the AI is smart, but it's not perfect and students still need instructors to understand the course's material
 - Another benefit is that the course design quality  will improve more consistent with the AI collecting feedback and organize them regularly
