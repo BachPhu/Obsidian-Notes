@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "floating",
+  "highlighterStyle": "rounded",
   "highlighterMethods": "css-classes",
   "highlighters": {
     "Pink": "#FF6AD7FA",
