@@ -173,7 +173,8 @@ The SI base units are used to formulate _derived units_. A **derived unit** is o
 $$density = \frac{mass}{volume}$$
 
 
-- [n] change in temperature changes volume
+- change in temperature changes volume
+- [n] Unit: ($g/cm^3$ or $kg/L$)
 
 ---
 
