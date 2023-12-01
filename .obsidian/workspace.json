@@ -51,8 +51,12 @@
             "id": "f256c66116ec4970",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9.1-9.3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,12 +106,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -135,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9.1-9.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9.1-9.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9.1-9.3.md"
+              }
             }
           },
           {
@@ -224,6 +232,9 @@
   },
   "active": "f256c66116ec4970",
   "lastOpenFiles": [
+    "School/CHM 2045.md",
+    "9.1-9.3.md",
+    "School/Notes/Periodic Table.md",
     "School/Notes/5.1-5.5.md",
     "conflict-files-obsidian-git.md",
     "School/Notes/4.2-4.4.md",
@@ -232,7 +243,6 @@
     "School/Notes/2.4-2.8.md",
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/Notes/6.3-6.8.md",
-    "School/CHM 2045.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
     "School/Notes/8.5-8.6.md",
     "Presentations.md",
@@ -251,8 +261,6 @@
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "Calculus/Limits and Continuity.md",
     "Calculus/Logarithms.md",
-    "Calculus/Power Rule.md",
-    "Calculus/Product Rule.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
