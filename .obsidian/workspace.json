@@ -36,24 +36,12 @@
             }
           },
           {
-            "id": "d261adb73020df4a",
+            "id": "d85dbcbdd01ef305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f256c66116ec4970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Notes/8.5-8.6.md",
+                "file": "School/CHM 2045.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/CHM 2045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/CHM 2045.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/8.1-8.4.md"
+                "file": "School/CHM 2045.md"
               }
             }
           },
@@ -230,16 +218,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d261adb73020df4a",
+  "active": "d85dbcbdd01ef305",
   "lastOpenFiles": [
-    "School/Notes/8.5-8.6.md",
-    "School/Notes/8.1-8.4.md",
+    "9.1-9.3.md",
+    "Screen Shot 2023-12-02 at 1.36.45 AM.png",
+    "Pasted image 20231202013441.png",
+    "Pasted image 20231202013413.png",
+    "Pasted image 20231202013023.png",
+    "Pasted image 20231202013015.png",
+    "Pasted image 20231202012941.png",
+    "Pasted image 20231202012847.png",
+    "Screen Shot 2023-12-02 at 1.24.29 AM.png",
     "School/CHM 2045.md",
+    "School/CHM 2045L.md",
+    "School/COURSES Dates.md",
+    "School/Notes/8.1-8.4.md",
+    "Screen Shot 2023-12-02 at 1.19.27 AM.png",
+    "School/Notes/8.5-8.6.md",
     "School/Notes/5.1-5.5.md",
     "School/Notes/8.7-8.8.md",
     "School/Notes/6.3-6.8.md",
     "School/Notes/10.4-10.7.md",
-    "9.1-9.3.md",
     "School/Notes/Periodic Table.md",
     "conflict-files-obsidian-git.md",
     "School/Notes/4.2-4.4.md",
@@ -251,29 +250,17 @@
     "Presentations.md",
     "School/ENC 1101.md",
     "School/Notes/5.2 The Definite Integral- Calculus 5.2.md",
-    "School/COURSES Dates.md",
     "School/Notes/Exam 3.md",
     "LaTex.md",
     "Obsidian Shortcuts.md",
     "Images/Pasted image 20231121151118.png",
     "Hobbies/stuff/Game Wish List.md",
-    "Calculus/Calculus Table of Content.md",
-    "Images/Pasted image 20231121151802.png",
-    "School/MAC 2311.md",
-    "Images/Pasted image 20231121151628.png",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
-    "Images/Screen Shot 2023-11-16 at 12.31.30 AM.png",
-    "Images/Screen Shot 2023-11-15 at 11.19.06 PM.png",
     "daily/11/16",
     "daily/11",
-    "Images/Screen Shot 2023-11-16 at 12.18.45 AM.png",
-    "Images/Screen Shot 2023-11-16 at 12.15.58 AM.png",
-    "Images/Screen Shot 2023-11-16 at 12.13.28 AM.png",
-    "Images/Screen Shot 2023-11-15 at 10.50.38 PM.png",
     "Untitled",
-    "Images/Pasted image 20231115204643.png",
     "Hobbies/stuff",
     "School/vocab",
     "TESTTEST",
