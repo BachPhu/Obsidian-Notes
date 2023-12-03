@@ -9,8 +9,8 @@ Address the problem, then causes that potentially related
 # Addressing Problem
 ## Student-Teacher Interaction
 Online Education Forum: Part Two - Teaching Online Versus Teaching Conventionally
-
-- Research about the number of student felt burnout or not successfully pursue STEM degree thru online courses. then the causes
+- Unclear communication -> burn out, unmotivative
+	- Research about the number of student felt burnout or not successfully pursue STEM degree thru online courses. then the causes
 ## Student-Student Interaction 
 ACTIVE-STUDENT-ENGAGEMENT-IN-ONLINE-STEM-CLASSES-APPROACHES-AND-RECOMMENDATIONS.pdf
 
@@ -27,3 +27,6 @@ TEACHING ONLINE: STEM EDUCATION IN THE TIME OF COVID
 
 ## Adaptive platform
 Khan academy effectiveness: The case of math secondary students' perceptions
+
+AI can helps:
+assist in language barriers, unclear instruction, comprehension problem
