@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/8.5-8.6.md",
+                "file": "9.1-9.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -140,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/8.5-8.6.md",
+                "file": "9.1-9.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/8.5-8.6.md",
+                "file": "9.1-9.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/8.5-8.6.md"
+                "file": "9.1-9.3.md"
               }
             }
           },
@@ -233,16 +231,17 @@
   },
   "active": "f256c66116ec4970",
   "lastOpenFiles": [
+    "Images/Screen Shot 2023-12-02 at 1.19.27 AM.png",
+    "Images/Pasted image 20231202012847.png",
+    "School/Notes/8.5-8.6.md",
     "School/Notes/6.3-6.8.md",
-    "Screen Shot 2023-12-02 at 1.36.45 AM.png",
-    "Screen Shot 2023-12-02 at 1.24.29 AM.png",
-    "Screen Shot 2023-12-02 at 1.19.27 AM.png",
-    "Pasted image 20231202013441.png",
-    "Pasted image 20231202013413.png",
-    "Pasted image 20231202013023.png",
-    "Pasted image 20231202013015.png",
-    "Pasted image 20231202012941.png",
-    "Pasted image 20231202012847.png",
+    "Images/Screen Shot 2023-12-02 at 1.36.45 AM.png",
+    "Images/Screen Shot 2023-12-02 at 1.24.29 AM.png",
+    "Images/Pasted image 20231202013441.png",
+    "Images/Pasted image 20231202013413.png",
+    "Images/Pasted image 20231202013023.png",
+    "Images/Pasted image 20231202013015.png",
+    "Images/Pasted image 20231202012941.png",
     "Essay 4.md",
     "School/Notes/10.4-10.7.md",
     "School/Notes/5.1-5.5.md",
@@ -256,7 +255,6 @@
     "School/Notes/2.4-2.8.md",
     "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
     "School/Notes/Ch 1.7, 2.1-2.3.md",
-    "School/Notes/8.5-8.6.md",
     "Presentations.md",
     "School/ENC 1101.md",
     "School/Notes/5.2 The Definite Integral- Calculus 5.2.md",
