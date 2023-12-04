@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.1-9.3.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.1-9.3.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.1-9.3.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.1-9.3.md"
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md"
               }
             }
           },
@@ -231,9 +232,10 @@
   },
   "active": "d261adb73020df4a",
   "lastOpenFiles": [
+    "School/MAC 2311.md",
+    "9.1-9.3.md",
     "School/CHM 2045.md",
     "School/Notes/5.1-5.5.md",
-    "9.1-9.3.md",
     "Images/Screen Shot 2023-12-02 at 1.19.27 AM.png",
     "Images/Pasted image 20231202012847.png",
     "School/Notes/8.5-8.6.md",
@@ -265,7 +267,6 @@
     "Images/Pasted image 20231121151118.png",
     "Hobbies/stuff/Game Wish List.md",
     "Calculus/Calculus Table of Content.md",
-    "School/MAC 2311.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
