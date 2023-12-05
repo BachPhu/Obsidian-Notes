@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afd02598984e8492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 4.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 4.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -229,27 +241,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f256c66116ec4970",
+  "active": "afd02598984e8492",
   "lastOpenFiles": [
+    "Essay 4.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20231202013441.png",
+    "Images/Screen Shot 2023-12-02 at 1.19.27 AM.png",
+    "Images/Screen Shot 2023-12-02 at 1.24.29 AM.png",
+    "Images/Screen Shot 2023-12-02 at 1.36.45 AM.png",
+    "Images/Pasted image 20231202013413.png",
+    "Images/Pasted image 20231202013023.png",
+    "Images/Pasted image 20231202013015.png",
+    "Images/Pasted image 20231202012941.png",
+    "Images/Pasted image 20231202012847.png",
     "CompSci Orientation Leader Meeting.md",
     "School/Notes/8.5-8.6.md",
     "School/Notes/6.3-6.8.md",
     "Screen Shot 2023-12-02 at 1.36.45 AM.png",
-    "Screen Shot 2023-12-02 at 1.24.29 AM.png",
-    "Screen Shot 2023-12-02 at 1.19.27 AM.png",
-    "Pasted image 20231202013441.png",
-    "Pasted image 20231202013413.png",
-    "Pasted image 20231202013023.png",
-    "Pasted image 20231202013015.png",
-    "Pasted image 20231202012941.png",
-    "Pasted image 20231202012847.png",
-    "Essay 4.md",
     "School/Notes/10.4-10.7.md",
     "School/Notes/5.1-5.5.md",
     "School/CHM 2045.md",
     "9.1-9.3.md",
     "School/Notes/Periodic Table.md",
-    "conflict-files-obsidian-git.md",
     "School/Notes/4.2-4.4.md",
     "School/Notes/3.5-3.7.md",
     "School/Notes/4.1, 4.5.md",
@@ -263,10 +276,8 @@
     "School/Notes/Exam 3.md",
     "LaTex.md",
     "Obsidian Shortcuts.md",
-    "Images/Pasted image 20231121151118.png",
     "Hobbies/stuff/Game Wish List.md",
     "Calculus/Calculus Table of Content.md",
-    "School/MAC 2311.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
