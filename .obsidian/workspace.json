@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md"
+                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
               }
             }
           },
