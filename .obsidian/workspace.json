@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md"
+                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   "active": "b3617c1cbc1afb61",
   "lastOpenFiles": [
     "School/MAC 2311.md",
-    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
+    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
     "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
     "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
