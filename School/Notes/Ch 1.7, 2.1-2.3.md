@@ -26,6 +26,9 @@ tags:
 - The **law of multiple proportions**
      If two elements A and B combine to form more than one compound, the masses of B that can combine with a given mass of A are in the ratio of small whole numbers
 
+- **Law of definite proportion**:  
+	A chemical compound always contains same elements combined in the same proportion by mass  
+
 ---
 ## J. J. Thomson’s Plum Pudding Model
 - Atom are made of charges particles
