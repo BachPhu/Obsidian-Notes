@@ -173,7 +173,7 @@ the sample
 > $$ K = C + 273.15$$
 
 - The freezing point of water, 0 °C, is 273.15 K
-$$ C = \frac{5}{9}(F - 32)$$
+$$ C = \frac{5}{9}(F) - 32$$
 or
 $$F = \frac{9}{5}(C) + 32$$
 ---
