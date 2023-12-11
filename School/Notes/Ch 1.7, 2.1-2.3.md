@@ -124,3 +124,4 @@ Example 2.4
 Isotopes of Hydrogen
 ![[Screen Shot 2023-12-10 at 10.26.40 PM.png]]
 Isotopes of Neon
+![[Screen Shot 2023-12-10 at 10.41.14 PM.png]]
