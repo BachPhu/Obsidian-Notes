@@ -83,6 +83,12 @@ Rutherford showed that the paths of $\color{#84C1FF}\alpha$ and $\beta$ radiatio
 
 # 2.3 Atomic Structure
 ## Atomic Numbers, Mass Numbers, and Isotopes
+
+## Atomic Structure
+- Nucleus is assumed to contain:  
+	- _Protons_: Have a positive charge that is equal in magnitude to the electron’s negative charge  
+	- _Neutrons_: Have virtually the same mass as a proton but no charge  
+- Atoms of different elements, which have different numbers of protons and electrons, exhibit different chemical behaviors
 # Rutherford's Gold Foil Experiment
 
 - Test the accuracy of Thomson's plum pudding model (proved false)
@@ -114,3 +120,7 @@ Example 2.4
 | ------------- | ------ | ------- | -------- | ------------- | ----------- | --- |
 | U             | 92     | 144     | 92       | _92_          | 236          |
 
+## Symbols of Isotopes or Nuclides
+Isotopes of Hydrogen
+![[Screen Shot 2023-12-10 at 10.26.40 PM.png]]
+Isotopes of Neon
