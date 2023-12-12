@@ -24,15 +24,14 @@ that substance
 ---
 ### Molecule
 - In a **molecule**, two or more atoms are joined in specific geometrical arrangement 
-	- attachments are called bonds  
+	- attachments are called **bonds**  
 	- attachments come in different strengths  
 	- come in different shapes and patterns  
 
 ---
 ### Fundamental Concepts of Chemistry  
 ▪ Matter is composed of various types of atoms  
-▪ By reorganizing the way, the atoms are attached to each other,  
-one substance changes to another
+▪ By reorganizing the way, the atoms are attached to each other, one substance changes to another
 
 # 1.2
 
@@ -42,6 +41,14 @@ one substance changes to another
 > - 1.2.2 Distinguish among elements, compounds, and mixtures.
 >     
 > - 1.2.3 Identify the atomic symbols of common elements.
+
+---
+
+# Classification of Matter
+- Matter has many levels of organization and is complex  
+- The two fundamental ways in which matter is classified  
+	- Physical state  
+	- Composition
 
 
 ---
@@ -56,7 +63,8 @@ one substance changes to another
 
 - In a liquid, the molecules are packed closely together but still move rapidly and slide over another. Gas, molecules far apart but move at high speed. Solid, held tight together and mostly stay in place (some can wiggle).
 ---
-## Pure Substances
+## Classification of Matter Based on Composition
+### Pure Substances
 
 - A **pure substance** (usually referred to simply as a _substance_) is made up of only one  
 component, and its composition is invariant
@@ -69,13 +77,19 @@ component, and its composition is invariant
 > 	    
 > 	- **Compounds** are substances composed of two or more elements; they contain two or more kinds of atoms (Figure 1.4(c))
 
+- Each _element_ is made of a unique kind of atom but can be made of more than one atom of that kind.  
+- A _compound_ is made of atoms from two or more different elements.  
+- Consists a constant composition and can be broken down into its elements via chemical  
+processes  
+- [n] law of constant composition (or the law of definite proportions).
+
 - **Mixtures** are combinations of two or more substances in which each substance retains its chemical identity.
 
 ![[Pasted image 20230824234101.png ]]
 
 ---
 
-## Compounds
+### Compounds
 - Most elements can interact with other elements to form compounds.
 	- For example, when hydrogen gas burns in oxygen gas, the elements hydrogen and oxygen combine to form the compound water.
 
@@ -159,7 +173,7 @@ the sample
 > $$ K = C + 273.15$$
 
 - The freezing point of water, 0 °C, is 273.15 K
-$$ C = \frac{5}{9}(F - 32)$$
+$$ C = \frac{5}{9}(F) - 32$$
 or
 $$F = \frac{9}{5}(C) + 32$$
 ---
@@ -265,3 +279,33 @@ device
 ▪ Assumed to have an infinite number of significant figures
 
 ![[sig fig rule]] 
+
+
+## Dimensional Analysis (Unit Factor Method or Factor-label Method)
+
+Dimensional analysis is used to change units.  
+▪ We apply conversion factors (e.g., 1 inch = 2.54 centimeter), which are equalities.  
+▪ Helps convert a given result from one system of units to another  
+
+
+Original quantity × Conversion factor = Equivalent quantity  
+
+
+## The Scientific Method
+
+Scientific method  
+▪ Lies at the center of scientific inquiry  
+▪ Varies based on the nature of a specific problem and the investigator involved
+
+---
+**Theory** (model): Set of tested hypothesis that  gives an overall explanation of a natural  
+phenomenon  
+▪ Explanation of why nature behaves in a certain way  
+▪ Constantly refined or replaced as more information becomes available  
+▪ Explains observed natural behaviour in terms of human experiences
+
+---
+**Natural law**: A summary of observed (measurable) behavior
+
+
+**Law of conservation of mass**, which states that  the total mass of materials is unaffected by a chemical change in those materials

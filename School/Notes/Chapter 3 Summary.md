@@ -68,3 +68,12 @@ The empirical formula of any substance can be determined from its percent compos
 The mole concept can be used to calculate the relative quantities of reactants and products in chemical reactions. The coefficients in a balanced equation give the relative numbers of moles of the reactants and products. To calculate the number of grams of a product from the number of grams of a reactant, first convert grams of reactant to moles of reactant. Then use the coefficients in the balanced equation to convert the number of moles of reactant to moles of product. Finally, convert moles of product to grams of product.
 
 A **limiting reactant** is the reactant that is completely consumed in a reaction. When it is used up, the reaction stops, thus limiting the quantities of products formed. The **theoretical yield** of a reaction is the quantity of product calculated to form when the limiting reactant is fully consumed. The actual yield of a reaction is the amount of product experimentally obtained in a reaction; it is always less than the theoretical yield. The **percent yield** is the actual yield divided by the theoretical yield, converted to a percentage.
+
+___
+# Question
+
+Which one of the following statements about balanced equations is false? In a balanced reaction  
+A) atoms must be balanced on both sides of the reaction arrow.  
+B) mass must be conserved.  
+**C) molecules must be balanced on both sides of the reaction arrow.**  
+D) net charge must be balanced on both sides of the reaction arrow
