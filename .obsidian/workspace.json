@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/6.1-6.2.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "photoe",
+                "query": "cation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/6.1-6.2.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/6.1-6.2.md",
+                "file": "School/Notes/2.4-2.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/6.1-6.2.md"
+                "file": "School/Notes/2.4-2.8.md"
               }
             }
           },
@@ -244,15 +244,15 @@
   },
   "active": "f256c66116ec4970",
   "lastOpenFiles": [
-    "School/Notes/6.3-6.8.md",
+    "School/Notes/4.2-4.4.md",
     "School/Notes/6.1-6.2.md",
+    "School/Notes/6.3-6.8.md",
     "School/Notes/10.4-10.7.md",
     "School/Notes/5.1-5.5.md",
     "School/Notes/5.6-5.8.md",
     "School/Notes/10.1-10.3.md",
     "7.3-7.4.md",
     "School/Notes/7.1-7.2.md",
-    "School/Notes/4.2-4.4.md",
     "School/Notes/4.1, 4.5.md",
     "School/Notes/8.1-8.4.md",
     "Essay 4.md",
