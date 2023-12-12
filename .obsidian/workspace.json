@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/Notes/10.4-10.7.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lattice ene",
+                "query": "effusion",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "Calculus/Calculus Table of Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/8.1-8.4.md"
+                "file": "Calculus/Calculus Table of Content.md"
               }
             }
           },
@@ -242,13 +242,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3617c1cbc1afb61",
+  "active": "0e2e4707183ca8ca",
   "lastOpenFiles": [
+    "School/Notes/5.1-5.5.md",
     "School/CHM 2045.md",
+    "School/Notes/10.1-10.3.md",
+    "9.4-9.6.md",
+    "School/Notes/6.3-6.8.md",
+    "School/Notes/6.1-6.2.md",
+    "School/Notes/8.1-8.4.md",
     "7.3-7.4.md",
     "School/Notes/7.1-7.2.md",
     "School/Notes/5.6-5.8.md",
-    "School/Notes/5.1-5.5.md",
     "School/Notes/4.1, 4.5.md",
     "School/Notes/4.2-4.4.md",
     "School/Notes/3.5-3.7.md",
@@ -261,7 +266,6 @@
     "Screen Shot 2023-12-10 at 10.41.14 PM.png",
     "Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "School/Notes/10.4-10.7.md",
-    "9.4-9.6.md",
     "Images/Screen Shot 2023-12-10 at 2.36.54 PM.png",
     "Images/Screen Shot 2023-12-09 at 8.22.13 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.36.43 PM.png",
@@ -271,15 +275,11 @@
     "Images/Screen Shot 2023-12-10 at 2.30.54 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.29.39 PM.png",
     "School/CHM 2045L.md",
-    "School/Notes/6.3-6.8.md",
     "9.1-9.3.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/MAC 2311.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
-    "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
-    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
-    "School/Notes/3.2 The Derivative as a Function.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
