@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "7.3-7.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,8 +101,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lattice ene",
-                "matchingCase": true,
+                "query": "First Law of Thermodynamics",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/8.1-8.4.md",
+                "file": "School/Notes/5.1-5.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/8.1-8.4.md"
+                "file": "School/Notes/5.1-5.5.md"
               }
             }
           },
@@ -242,16 +242,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3617c1cbc1afb61",
+  "active": "f256c66116ec4970",
   "lastOpenFiles": [
-    "Pasted image 20231206162128.png",
-    "School/CHM 2045.md",
-    "7.3-7.4.md",
-    "School/Notes/7.1-7.2.md",
     "School/Notes/5.6-5.8.md",
     "School/Notes/5.1-5.5.md",
-    "School/Notes/4.1, 4.5.md",
+    "School/Notes/10.4-10.7.md",
+    "School/Notes/10.1-10.3.md",
+    "7.3-7.4.md",
+    "School/Notes/7.1-7.2.md",
     "School/Notes/4.2-4.4.md",
+    "School/Notes/4.1, 4.5.md",
+    "School/Notes/8.1-8.4.md",
+    "Essay 4.md",
+    "Pasted image 20231206162128.png",
+    "School/CHM 2045.md",
     "School/Notes/3.5-3.7.md",
     "School/Notes/Chapter 3 Summary.md",
     "School/Notes/2.4-2.8.md",
@@ -261,7 +265,6 @@
     "School/Notes/Chapter 2 Summary.md",
     "Screen Shot 2023-12-10 at 10.41.14 PM.png",
     "Screen Shot 2023-12-10 at 10.26.40 PM.png",
-    "School/Notes/10.4-10.7.md",
     "9.4-9.6.md",
     "Images/Screen Shot 2023-12-10 at 2.36.54 PM.png",
     "Images/Screen Shot 2023-12-09 at 8.22.13 PM.png",
@@ -270,7 +273,6 @@
     "Images/Screen Shot 2023-12-10 at 2.35.23 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.33.21 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.30.54 PM.png",
-    "Images/Screen Shot 2023-12-10 at 2.29.39 PM.png",
     "School/CHM 2045L.md",
     "School/Notes/6.3-6.8.md",
     "9.1-9.3.md",
@@ -278,9 +280,6 @@
     "School/MAC 2311.md",
     "School/Notes/3.9 Derivatives of Exponential and Logarithmic Functions - Calculus 3.9;.md",
     "School/Notes/3.5 Derivatives of Trigonometric Functions- Calculus 3.5.md",
-    "School/Notes/3.3 Differentiation Rules- Calculus 3.3;.md",
-    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
-    "School/Notes/3.2 The Derivative as a Function.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
