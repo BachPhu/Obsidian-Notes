@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay 4.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay 4.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay 4.md",
+                "file": "Blender/Blender Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay 4.md"
+                "file": "Blender/Blender Shortcuts.md"
               }
             }
           },
@@ -255,7 +255,9 @@
   },
   "active": "81d350c0372dda23",
   "lastOpenFiles": [
+    "LaTex.md",
     "Obsidian Shortcuts.md",
+    "Essay 4.md",
     "Presentations.md",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
@@ -289,8 +291,6 @@
     "Images/Screen Shot 2023-12-10 at 2.35.23 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.33.21 PM.png",
     "Images/Screen Shot 2023-12-10 at 2.30.54 PM.png",
-    "School/CHM 2045L.md",
-    "9.1-9.3.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
