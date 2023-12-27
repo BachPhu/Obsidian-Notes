@@ -1,3 +1,8 @@
+---
+tags:
+  - enc1101
+---
+
  # idea
 concern of virtual classroom which cause by communication issue ( and during covid 19 period)
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - enc1101
+---
+
 Used a real life event as support evidence
 historical example?
 give example where failure to inform warnning cause deaths of many people

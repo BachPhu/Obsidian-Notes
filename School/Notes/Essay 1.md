@@ -1,6 +1,7 @@
 ---
 tags:
   - essay/summarize
+  - enc1101
 link: https://floridapolytechnic.instructure.com/courses/7376/assignments/149705
 ---
 ```dataview

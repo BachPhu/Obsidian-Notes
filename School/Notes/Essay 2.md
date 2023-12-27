@@ -1,3 +1,8 @@
+---
+tags:
+  - enc1101
+---
+
 # Inside View: Tech and the Wisdom of Crowds
 
 talk about the connection of human on the internet
