@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "file": "Hobbies/stuff/Coop games.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "file": "Hobbies/stuff/Coop games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "file": "Hobbies/stuff/Coop games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md"
+                "file": "Hobbies/stuff/Coop games.md"
               }
             }
           },
@@ -279,8 +279,9 @@
   },
   "active": "d4bc3efda4950440",
   "lastOpenFiles": [
-    "LaTex.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
+    "Hobbies/stuff/Coop games.md",
+    "LaTex.md",
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
@@ -304,7 +305,6 @@
     "School/Notes/Essay 4.md",
     "School/Notes/Exam 3.md",
     "School/Notes/F.D.A. Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken.md",
-    "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
     "School/FA 23",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
