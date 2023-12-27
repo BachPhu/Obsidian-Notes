@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/PHY 2048L.md",
+                "file": "Physics/Chapter 2 - Motion in One Direction.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/PHY 2048L.md",
+                "file": "Physics/Chapter 2 - Motion in One Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/PHY 2048L.md",
+                "file": "Physics/Chapter 2 - Motion in One Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/PHY 2048L.md"
+                "file": "Physics/Chapter 2 - Motion in One Direction.md"
               }
             }
           },
@@ -267,8 +267,13 @@
   },
   "active": "a8236d4f9eed17e9",
   "lastOpenFiles": [
-    "School/FA 23/CHM 2045L.md",
+    "LaTex.md",
+    "CompSci Orientation Leader Meeting.md",
+    "Keyboard Shortcuts.md",
+    "Obsidian Shortcuts.md",
+    "Physics/Chapter 2 - Motion in One Direction.md",
     "School/PHY 2048L.md",
+    "School/FA 23/CHM 2045L.md",
     "School/PHY 2048.md",
     "School/MAC 2312.md",
     "School/IDS 1380.md",
@@ -288,11 +293,6 @@
     "School/Notes/Exam 3.md",
     "School/Notes/F.D.A. Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken.md",
     "School/Notes/Irvin, What Is ‘Academic’ Writing.md",
-    "School/Notes/Mervis, “Americans May Know”.md",
-    "School/Notes/Mooney, “Blinded by Science”.md",
-    "School/Notes/Pappas, “Evolution, Climate and Vaccines”.md",
-    "School/Notes/Periodic Table.md",
-    "School/Notes/Point-Slope Form.md",
     "School/FA 23",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
