@@ -99,9 +99,11 @@
             "id": "d4bc3efda4950440",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -278,10 +280,10 @@
   "active": "d4bc3efda4950440",
   "lastOpenFiles": [
     "LaTex.md",
+    "Physics/Chapter 2 - Motion in One Direction.md",
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
-    "Physics/Chapter 2 - Motion in One Direction.md",
     "School/PHY 2048L.md",
     "School/FA 23/CHM 2045L.md",
     "School/PHY 2048.md",

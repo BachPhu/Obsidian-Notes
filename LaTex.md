@@ -4,7 +4,7 @@ link: https://physicsanduniverse.com/latex-symbols-and-using-them-to-write-equat
 
 \cdot - dot for multiplication
 \text
-
+\quad for tab?
 \div - division
 
 
