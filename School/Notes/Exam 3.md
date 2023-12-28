@@ -1,3 +1,8 @@
+---
+tags:
+  - calculus/mac2311
+---
+
 Applied Optimization
 Implicit Differentiation
 Multivariable Function
