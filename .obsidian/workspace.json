@@ -106,9 +106,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "355e5ea70f29b545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Chapter 2 - Motion in One Direction.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -277,10 +289,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4bc3efda4950440",
+  "active": "355e5ea70f29b545",
   "lastOpenFiles": [
-    "Hobbies/stuff/Coop games.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
+    "conflict-files-obsidian-git.md",
+    "Hobbies/stuff/Coop games.md",
     "LaTex.md",
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
@@ -304,7 +317,6 @@
     "School/Notes/Essay 3.md",
     "School/Notes/Essay 4.md",
     "School/Notes/Exam 3.md",
-    "School/Notes/F.D.A. Warning on NyQuil Chicken Alerts Many to Existence of NyQuil Chicken.md",
     "School/FA 23",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
