@@ -4,4 +4,7 @@
 # Thomas F. Plunkett, DMD PA
 
 
-# Dental Designs of Lakeland
+# Shimmering Dental
+
+125
+
