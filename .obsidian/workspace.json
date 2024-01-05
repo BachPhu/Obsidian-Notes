@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dental.md",
+                "file": "Personal/Dental.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRIP.md",
+                "file": "School/PHY 2048.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TRIP.md",
+                "file": "School/PHY 2048.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TRIP.md",
+                "file": "School/PHY 2048.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRIP.md"
+                "file": "School/PHY 2048.md"
               }
             }
           },
@@ -315,8 +315,17 @@
   },
   "active": "5aa0f1f766f7b07f",
   "lastOpenFiles": [
-    "Dental.md",
-    "TRIP.md",
+    "School/PHY 2048L.md",
+    "School/PHY 2048.md",
+    "School/FA 23/CHM 2045.md",
+    "School/EGN 1007.md",
+    "School/FA 23/COP 2271.md",
+    "School/FA 23/CHM 2045L.md",
+    "School/COURSES Dates.md",
+    "School/IDS 1380.md",
+    "School/MAC 2312.md",
+    "Personal/TRIP.md",
+    "Personal/Dental.md",
     "Untitled",
     "Hobbies/stuff/Coop games.md",
     "Hobbies/stuff/Games.md",
@@ -328,20 +337,11 @@
     "CompSci Orientation Leader Meeting.md",
     "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
-    "School/PHY 2048L.md",
-    "School/FA 23/CHM 2045L.md",
-    "School/PHY 2048.md",
-    "School/MAC 2312.md",
-    "School/IDS 1380.md",
     "School/ENC 2210.md",
-    "School/EGN 1007.md",
     "School/Notes/Chapter 5 Summary.md",
     "School/Notes/Chapter 6 Summary.md",
     "School/Notes/Communicating_science_to_policy_makers.md",
     "School/Notes/Derivative of $e^x$.md",
-    "School/Notes/Derivative of Exponential.md",
-    "School/Notes/Derivative of General Logarithmic Function.md",
-    "School/Notes/Drummond, Caitlin, and Baruch Fischhoff “Individuals with Greater Science Literacy ....md",
     "School/FA 23",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
