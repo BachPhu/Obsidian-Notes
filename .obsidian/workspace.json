@@ -60,6 +60,16 @@
             }
           },
           {
+            "id": "5908af6dbab9a2d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "b3617c1cbc1afb61",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f256c66116ec4970",
+  "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
     "School/Notes/4.2-4.4.md",
     "School/Notes/5.1-5.5.md",
