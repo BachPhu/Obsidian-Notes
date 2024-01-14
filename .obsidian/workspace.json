@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:calculus/mac2311",
+                "query": "tag:#chm2045  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/PHY 2048.md"
+                "file": "School/Notes/Ch 1.1-1.3, 1.5-1.6.md"
               }
             }
           },
@@ -315,8 +316,12 @@
   },
   "active": "5aa0f1f766f7b07f",
   "lastOpenFiles": [
-    "School/PHY 2048L.md",
+    "School/Notes/3.1-3.4.md",
+    "School/Notes/Chapter 3 Summary.md",
+    "School/Notes/9.4-9.6.md",
+    "School/Notes/4.1, 4.5.md",
     "School/PHY 2048.md",
+    "School/PHY 2048L.md",
     "School/FA 23/CHM 2045.md",
     "School/EGN 1007.md",
     "School/FA 23/COP 2271.md",
@@ -338,10 +343,6 @@
     "Keyboard Shortcuts.md",
     "Obsidian Shortcuts.md",
     "School/ENC 2210.md",
-    "School/Notes/Chapter 5 Summary.md",
-    "School/Notes/Chapter 6 Summary.md",
-    "School/Notes/Communicating_science_to_policy_makers.md",
-    "School/Notes/Derivative of $e^x$.md",
     "School/FA 23",
     "Images/Screen Shot 2023-12-10 at 10.26.40 PM.png",
     "Images/Pasted image 20231206162128.png",
