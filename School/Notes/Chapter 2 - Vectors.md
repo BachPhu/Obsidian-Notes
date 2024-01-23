@@ -1,3 +1,8 @@
+---
+tags:
+  - phy2048
+---
+
 # Vector Terminology
 
 - A vector has: magnitude and direction
