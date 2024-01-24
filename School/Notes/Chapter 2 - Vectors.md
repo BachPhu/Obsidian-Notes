@@ -100,6 +100,7 @@ $$\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|cos(\phi)$$
 - If you know the Cartesian coordinates of the two vectors, then the dot product is:
 $$\vec{A} \cdot \vec{B} = A_{x}B_{x} + A_{y}B_{y} + A_{z}B_{z}$$
 - Dot products, more specifically combining both expressions, can be used to find the angle between two vectors
+$$\theta = cos^{-1}(\frac{\vec{A} \cdot \vec{B}}{|A||B|})$$
 - This product always results in a scalar and the dot product is sometimes referred to as the scalar product.
 ![[Pasted image 20240122225626.png]]
 ![[Pasted image 20240122225630.png | 250]]
@@ -125,7 +126,7 @@ $$|\vec{A} \times \vec{B}| = |\vec{A}||\vec{B}|sin(\theta)$$
 
 $$ \vec{A} \times \vec{B} = -\vec{B} \times \vec{A} $$
 - Like the dot product, the cross product can also be used to determine the angle between two vectors.
-
+$$\theta = sin^{-1}(\frac{\vec{A} \cdot \vec{B}}{|A||B|})$$
 ---
 # Vector Algebra Summary
 
