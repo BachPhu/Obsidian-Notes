@@ -1,6 +1,10 @@
 ---
+quickshare-date: 2024-01-24 21:26:35
+quickshare-url: https://noteshare.space/note/clrslf0wb1212101mw6zpj6rum#1qeX5wLAV+VGK8Y+HgGJ/FNwSiuFZ23zp6cBzXNzClM
 tags:
   - phy2048
+share_link: https://share.note.sx/3l9e3g7r#Yem5Al7kH5Ua7eMDygIRvwuzhcvfCVonPYrPnMWhqyE
+share_updated: 2024-01-24T21:30:03-05:00
 ---
 
 # Vector Terminology
@@ -138,3 +142,4 @@ $$ \vec{A} \times \vec{B} = -\vec{B} \times \vec{A} $$
 
 
 ![[Pasted image 20240122231658.png]]
+

@@ -48,18 +48,6 @@
             }
           },
           {
-            "id": "f256c66116ec4970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/stuff/Coop games.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5908af6dbab9a2d0",
             "type": "leaf",
             "state": {
@@ -72,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,9 +207,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "44f0a954b4e892ee",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
