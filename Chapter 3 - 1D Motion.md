@@ -7,10 +7,13 @@
 > - Calculate the average velocity given the displacement and elapsed time.
 
 ## Displacement and Position
-- The displacement is the change in position, in one dimension this is:
-$$\Delta x = x_{f} - x_{i} $$
-and equivalently: 
-$$ x_{f} =  \Delta x  + x_{i} $$
+
+> [!NOTE]
+> - The displacement is the change in position, in one dimension this is:
+> $$\Delta x = x_{f} - x_{i} $$
+> and equivalently: 
+> $$ x_{f} =  \Delta x  + x_{i} $$
+> 
 
 - The total displacement for a trip is the sum of displacements between intermediate points.
 
@@ -21,8 +24,9 @@ $$ x_{f} =  \Delta x  + x_{i} $$
 
 ## Average Velocity
 
-- The average velocity which only depends on the endpoints (not the path) is given by:
-$$\vec{v}_{avg} = \frac{\Delta\vec{r}}{\Delta t}$$
+> [!NOTE]
+> - The average velocity which only depends on the endpoints (not the path) is given by:
+> $$\vec{v}_{avg} = \frac{\Delta\vec{r}}{\Delta t}$$
 
 
 ---
@@ -104,6 +108,7 @@ $$\bar{v}=\frac{v_{0} + v}{2}$$
 ![[Screen Shot 2024-01-25 at 11.22.47 PM.png]]
 ![[Screen Shot 2024-01-25 at 11.22.29 PM.png]]
 
+---
 ## Solving for Final Velocity from Acceleration and Time
 - The x component of velocity of as a function of time for an object undergoing a constant x direction acceleration is given by:
 $$a_{x} = \frac{v_{x} - v_{0}}{t}$$
@@ -114,6 +119,8 @@ $$a_{x} = \frac{v_{x} - v_{0}}{t}$$
 - Final velocity depends on how large the acceleration is and how long it lasts
 - If the acceleration is zero, then the final velocity equals the initial velocity ($v = v_{0}$), as expected (in other words, velocity is constant)
 - If a is negative, then the final velocity is less than the initial velocity
+
+---
 ## Solving for Final Position with Constant Acceleration
 
 > [!NOTE]
