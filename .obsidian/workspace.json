@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 - 1D Motion.md",
+                "file": "School/Notes/Essay 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3 - 1D Motion.md",
+                "file": "School/Notes/Essay 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 3 - 1D Motion.md",
+                "file": "School/Notes/Essay 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 3 - 1D Motion.md"
+                "file": "School/Notes/Essay 3.md"
               }
             }
           },
@@ -228,9 +227,13 @@
   },
   "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
+    "School/FA 23/ENC 1101.md",
+    "School/Notes/Essay 2.md",
+    "School/Notes/Essay 1.md",
+    "School/FA 23/EGN 1006.md",
+    "Chapter 3 - 1D Motion.md",
     "Pasted image 20240125233407.png",
     "Constant acceleration.md",
-    "Chapter 3 - 1D Motion.md",
     "!Constant acceleration.md",
     "School/PHY 2048.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
@@ -243,7 +246,6 @@
     "Screen Shot 2024-01-25 at 11.16.33 PM.png",
     "Screen Shot 2024-01-25 at 11.12.40 PM.png",
     "Screen Shot 2024-01-25 at 11.11.24 PM.png",
-    "Screen Shot 2024-01-25 at 11.10.20 PM.png",
     "Chapter 1 - Units.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/FA 23/MAC 2311.md",
@@ -261,9 +263,6 @@
     "Personal/TRIP.md",
     "Personal/Dental.md",
     "Hobbies/cos.md",
-    "School/Notes/4.2-4.4.md",
-    "School/Notes/3.1-3.4.md",
-    "School/Notes/6.1-6.2.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
