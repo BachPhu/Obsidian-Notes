@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keyboard Shortcuts.md",
+                "file": "Calculus/Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edox",
+                "query": "unit cir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keyboard Shortcuts.md",
+                "file": "Calculus/Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keyboard Shortcuts.md",
+                "file": "Calculus/Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keyboard Shortcuts.md"
+                "file": "Calculus/Triangle.md"
               }
             }
           },
@@ -227,6 +228,7 @@
   },
   "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
+    "Keyboard Shortcuts.md",
     "School/Notes/Essay 3.md",
     "School/FA 23/ENC 1101.md",
     "School/Notes/Essay 2.md",
@@ -262,7 +264,6 @@
     "conflict-files-obsidian-git.md",
     "Hobbies/cos.md",
     "Personal/TRIP.md",
-    "Personal/Dental.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
