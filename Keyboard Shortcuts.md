@@ -20,3 +20,5 @@ _____
 
 
 Cmd + Shift + .   - show hidden (ignore) file
+
+or Most RK keyboards are press FN+Spacebar to restore default for RGB backlit keyboards. As for RK87, **press FN+left ctrl+ESC** to reset.
