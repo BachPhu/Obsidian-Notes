@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/EGN 1007.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/EGN 1007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+                "file": "School/EGN 1007.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/4.5 Derivatives and the Shape of a Graph.md"
+                "file": "School/EGN 1007.md"
               }
             }
           },
@@ -227,6 +227,16 @@
   },
   "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
+    "School/ENC 2210.md",
+    "School/IDS 1380.md",
+    "School/EGN 1007.md",
+    "Screen Shot 2024-01-28 at 11.39.13 PM.png",
+    "Screen Shot 2024-01-28 at 11.36.41 PM.png",
+    "Screen Shot 2024-01-28 at 11.36.26 PM.png",
+    "Screen Shot 2024-01-28 at 11.36.17 PM.png",
+    "School/PHY 2048.md",
+    "Screen Shot 2024-01-28 at 11.35.28 PM.png",
+    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/FA 23/MAC 2311.md",
     "Chapter 3 - 1D Motion.md",
     "Images/Pasted image 20240125225205.png",
@@ -240,18 +250,11 @@
     "Images/Pasted image 20240125233407.png",
     "Constant acceleration.md",
     "!Constant acceleration.md",
-    "School/PHY 2048.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
     "Images/Screen Shot 2024-01-25 at 11.22.47 PM.png",
     "Images/Screen Shot 2024-01-25 at 11.22.29 PM.png",
     "Images/Pasted image 20240125232208.png",
-    "Images/Pasted image 20240125231854.png",
-    "Images/Pasted image 20240125231851.png",
-    "Images/Screen Shot 2024-01-25 at 11.17.13 PM.png",
-    "Images/Screen Shot 2024-01-25 at 11.16.33 PM.png",
-    "Images/Screen Shot 2024-01-25 at 11.12.40 PM.png",
     "Chapter 1 - Units.md",
-    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/Notes/Chapter 2 - Vectors.md",
     "School/COURSES Dates.md",
     "School/Notes/5.1-5.5.md",
@@ -259,9 +262,6 @@
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "School/Lecture Notes/Summary & synthesis.md",
     "School/FA 23/CHM 2045.md",
-    "School/ENC 2210.md",
-    "School/EGN 1007.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
