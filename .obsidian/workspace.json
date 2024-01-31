@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e348249422689e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Triangle.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -226,8 +238,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5908af6dbab9a2d0",
+  "active": "e348249422689e0d",
   "lastOpenFiles": [
+    "Calculus/Triangle.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Pasted image 20240131124619.png",
     "School/EGN 1007.md",
     "School/ENC 2210.md",
     "School/IDS 1380.md",
@@ -241,7 +257,6 @@
     "School/FA 23/MAC 2311.md",
     "Chapter 3 - 1D Motion.md",
     "Images/Pasted image 20240125225205.png",
-    "Calculus/Triangle.md",
     "Keyboard Shortcuts.md",
     "School/Notes/Essay 3.md",
     "School/FA 23/ENC 1101.md",
@@ -254,7 +269,6 @@
     "Physics/Chapter 2 - Motion in One Direction.md",
     "Images/Screen Shot 2024-01-25 at 11.22.47 PM.png",
     "Images/Screen Shot 2024-01-25 at 11.22.29 PM.png",
-    "Images/Pasted image 20240125232208.png",
     "Chapter 1 - Units.md",
     "School/Notes/Chapter 2 - Vectors.md",
     "School/COURSES Dates.md",
@@ -262,7 +276,6 @@
     "School/Notes/Audience and Purpose.md",
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "School/Lecture Notes/Summary & synthesis.md",
-    "School/FA 23/CHM 2045.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
