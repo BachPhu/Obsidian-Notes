@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6199eadfc7419f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EGN 1007.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EGN 1007.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EGN 1007.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -225,11 +237,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5908af6dbab9a2d0",
+  "active": "6199eadfc7419f05",
   "lastOpenFiles": [
+    "Pasted image 20240131124619.png",
+    "School/EGN 1007.md",
+    "Untitled.md",
     "School/ENC 2210.md",
     "School/IDS 1380.md",
-    "School/EGN 1007.md",
     "Screen Shot 2024-01-28 at 11.39.13 PM.png",
     "Screen Shot 2024-01-28 at 11.36.41 PM.png",
     "Screen Shot 2024-01-28 at 11.36.26 PM.png",
@@ -261,7 +275,6 @@
     "School/Notes/Audience and Purpose.md",
     "School/Lecture Notes/08-23-2023 Lectures.md",
     "School/Lecture Notes/Summary & synthesis.md",
-    "School/FA 23/CHM 2045.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
