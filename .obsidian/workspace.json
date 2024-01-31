@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/EGN 1007.md",
+                "file": "Calculus/Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unit circle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EGN 1007.md",
+                "file": "Calculus/Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EGN 1007.md",
+                "file": "Calculus/Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EGN 1007.md"
+                "file": "Calculus/Triangle.md"
               }
             }
           },
@@ -227,9 +228,9 @@
   },
   "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
+    "School/EGN 1007.md",
     "School/ENC 2210.md",
     "School/IDS 1380.md",
-    "School/EGN 1007.md",
     "Screen Shot 2024-01-28 at 11.39.13 PM.png",
     "Screen Shot 2024-01-28 at 11.36.41 PM.png",
     "Screen Shot 2024-01-28 at 11.36.26 PM.png",
