@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/Notes/Chapter 2 - Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 4- 3D Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,6 +61,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e98a881a6a8f0310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6efbc9cad29052c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Notes/Chapter 3 - 1D Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 4- 3D Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chapter 4- 3D Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Chapter 4- 3D Motion.md"
               }
             }
           },
@@ -239,42 +257,42 @@
   },
   "active": "e348249422689e0d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Templates/vector.md",
+    "Chapter 4- 3D Motion.md",
+    "School/Notes/Chapter 2 - Vectors.md",
+    "School/PHY 2048.md",
+    "School/Notes/Chapter 3 - 1D Motion.md",
     "Calculus/Triangle.md",
+    "School/FA 23/CHM 2045L.md",
+    "daily/2023-06-30.md",
+    "School/Notes/Constant acceleration.md",
     "Untitled.md",
-    "Pasted image 20240131124619.png",
+    "Images/Pasted image 20240131124619.png",
+    "School/Notes/Chapter 1 - Units.md",
+    "Images/Screen Shot 2024-02-01 at 12.08.13 AM.png",
+    "Images/Screen Shot 2024-02-01 at 12.07.49 AM.png",
+    "Images/Pasted image 20240201000605.png",
+    "Images/Pasted image 20240201000603.png",
+    "Images/Screen Shot 2024-01-28 at 11.35.28 PM.png",
+    "!Constant acceleration.md",
+    "conflict-files-obsidian-git.md",
     "School/EGN 1007.md",
     "School/ENC 2210.md",
     "School/IDS 1380.md",
-    "Screen Shot 2024-01-28 at 11.39.13 PM.png",
-    "Screen Shot 2024-01-28 at 11.36.41 PM.png",
-    "Screen Shot 2024-01-28 at 11.36.26 PM.png",
-    "Screen Shot 2024-01-28 at 11.36.17 PM.png",
-    "School/PHY 2048.md",
-    "Screen Shot 2024-01-28 at 11.35.28 PM.png",
+    "Images/Screen Shot 2024-01-28 at 11.39.13 PM.png",
+    "Images/Screen Shot 2024-01-28 at 11.36.41 PM.png",
+    "Images/Screen Shot 2024-01-28 at 11.36.26 PM.png",
+    "Images/Screen Shot 2024-01-28 at 11.36.17 PM.png",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/FA 23/MAC 2311.md",
-    "Chapter 3 - 1D Motion.md",
-    "Images/Pasted image 20240125225205.png",
     "Keyboard Shortcuts.md",
     "School/Notes/Essay 3.md",
     "School/FA 23/ENC 1101.md",
     "School/Notes/Essay 2.md",
     "School/Notes/Essay 1.md",
     "School/FA 23/EGN 1006.md",
-    "Images/Pasted image 20240125233407.png",
-    "Constant acceleration.md",
-    "!Constant acceleration.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
-    "Images/Screen Shot 2024-01-25 at 11.22.47 PM.png",
-    "Images/Screen Shot 2024-01-25 at 11.22.29 PM.png",
-    "Chapter 1 - Units.md",
-    "School/Notes/Chapter 2 - Vectors.md",
     "School/COURSES Dates.md",
-    "School/Notes/5.1-5.5.md",
-    "School/Notes/Audience and Purpose.md",
-    "School/Lecture Notes/08-23-2023 Lectures.md",
-    "School/Lecture Notes/Summary & synthesis.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",

@@ -1,3 +1,21 @@
+---
+tags:
+  - phy2048
+---
+3.1 Position, Displacement, and Average Velocity
+
+3.2 Instantaneous Velocity and Speed
+
+3.3 Average and Instantaneous Acceleration
+
+3.4 Motion with Constant Acceleration
+
+3.5 Free Fall
+
+3.6 Finding Velocity and Displacement from Acceleration
+
+---
+
 # 3.1 Position, Displacement, and Average Velocity
 
 > [!Learning Objectives]
@@ -142,3 +160,23 @@ motion with constant velocity (acceleration = zero)
 ![[Pasted image 20240125233407.png]]
 
 ---
+# Two-Body Pursuit Problems
+
+In a two-body pursuit problem, the motions of the objects are coupled—meaning, the unknown we seek depends on the motion of both objects. To solve these problems we write the equations of motion for each object and then solve them simultaneously to find the unknown.
+- To do this both objects need to have the same starting time and the positions need to be defined relative to the same reference point.
+- qWe can set the positions equal to each other and determine at what time(s) that occurs.
+![[Pasted image 20240201000605.png |400]]
+
+---
+
+# 3.5 Free Fall
+
+> [!Learning Objectives]
+> - Use the kinematic equations with the variables y and g to analyze free-fall motion.
+> - Describe how the values of the position, velocity, and acceleration change during a free fall.
+> - Solve for the position, velocity, and acceleration as functions of time when an object is in a free fall
+
+The acceleration of free-falling objects is therefore called acceleration due to gravity. Acceleration due to gravity is constant (g), which means we can apply the kinematic equations to any falling object where air resistance and friction are negligible.
+
+![[Screen Shot 2024-02-01 at 12.07.49 AM.png]]
+![[Screen Shot 2024-02-01 at 12.08.13 AM.png]]
