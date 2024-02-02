@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Chapter 2 - Vectors.md",
+                "file": "School/EGN 1007.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e348249422689e0d",
+            "id": "6199eadfc7419f05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,24 +61,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "e98a881a6a8f0310",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6efbc9cad29052c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Notes/Chapter 3 - 1D Motion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unit circle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,43 +237,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e348249422689e0d",
+  "active": "6199eadfc7419f05",
   "lastOpenFiles": [
-    "Templates/vector.md",
-    "Chapter 4- 3D Motion.md",
-    "School/Notes/Chapter 2 - Vectors.md",
-    "School/PHY 2048.md",
-    "School/Notes/Chapter 3 - 1D Motion.md",
-    "Calculus/Triangle.md",
-    "School/FA 23/CHM 2045L.md",
-    "daily/2023-06-30.md",
-    "School/Notes/Constant acceleration.md",
     "Untitled.md",
-    "Images/Pasted image 20240131124619.png",
+    "Templates/vector.md",
+    "School/Notes/Constant acceleration.md",
+    "School/Notes/Chapter 3 - 1D Motion.md",
     "School/Notes/Chapter 1 - Units.md",
     "Images/Screen Shot 2024-02-01 at 12.08.13 AM.png",
     "Images/Screen Shot 2024-02-01 at 12.07.49 AM.png",
-    "Images/Pasted image 20240201000605.png",
-    "Images/Pasted image 20240201000603.png",
-    "Images/Screen Shot 2024-01-28 at 11.35.28 PM.png",
-    "!Constant acceleration.md",
-    "conflict-files-obsidian-git.md",
-    "School/EGN 1007.md",
-    "School/ENC 2210.md",
-    "School/IDS 1380.md",
     "Images/Screen Shot 2024-01-28 at 11.39.13 PM.png",
     "Images/Screen Shot 2024-01-28 at 11.36.41 PM.png",
     "Images/Screen Shot 2024-01-28 at 11.36.26 PM.png",
     "Images/Screen Shot 2024-01-28 at 11.36.17 PM.png",
+    "Images/Screen Shot 2024-01-28 at 11.35.28 PM.png",
+    "Images/Pasted image 20240201000605.png",
+    "Images/Pasted image 20240201000603.png",
+    "Images/Pasted image 20240131124619.png",
+    "Chapter 4- 3D Motion.md",
+    "School/EGN 1007.md",
+    "School/ENC 2210.md",
+    "School/IDS 1380.md",
+    "School/PHY 2048.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/FA 23/MAC 2311.md",
+    "Chapter 3 - 1D Motion.md",
+    "Calculus/Triangle.md",
     "Keyboard Shortcuts.md",
     "School/Notes/Essay 3.md",
     "School/FA 23/ENC 1101.md",
     "School/Notes/Essay 2.md",
     "School/Notes/Essay 1.md",
     "School/FA 23/EGN 1006.md",
+    "Constant acceleration.md",
+    "!Constant acceleration.md",
     "Physics/Chapter 2 - Motion in One Direction.md",
+    "Chapter 1 - Units.md",
+    "School/Notes/Chapter 2 - Vectors.md",
     "School/COURSES Dates.md",
     "Untitled.canvas",
     "Excalidraw",
