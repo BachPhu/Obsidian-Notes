@@ -1,6 +1,10 @@
 ---
+quickshare-date: 2024-02-02 00:24:56
+quickshare-url: https://noteshare.space/note/cls47b7dy1046001mwrxb23dq1#AnbCN9nbJWrsTY2x4Rn/gVTa1g7GVINasKa64Td/FUE
 tags:
   - phy2048
+share_link: https://share.note.sx/1yxukq2s#yS3u7IXSkQ+TNFBjRlIn4sUPeRNyP5UxLHmb4i3+KjA
+share_updated: 2024-02-02T00:25:45-05:00
 ---
 
 4.1 Displacement and Velocity Vectors
