@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68d420c15d7198d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4- 3D Motion.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -237,13 +249,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e348249422689e0d",
+  "active": "68d420c15d7198d9",
   "lastOpenFiles": [
+    "Chapter 4- 3D Motion.md",
+    "conflict-files-obsidian-git.md",
     "Screen Shot 2024-02-02 at 12.18.35 AM.png",
     "School/Notes/Chapter 2 - Vectors.md",
     "School/PHY 2048.md",
     "School/Notes/Chapter 3 - 1D Motion.md",
-    "Chapter 4- 3D Motion.md",
     "Screen Shot 2024-02-02 at 12.09.14 AM.png",
     "Screen Shot 2024-02-02 at 12.04.49 AM.png",
     "Pasted image 20240202000438.png",
@@ -260,9 +273,7 @@
     "Images/Screen Shot 2024-02-01 at 12.07.49 AM.png",
     "Images/Pasted image 20240201000605.png",
     "Images/Pasted image 20240201000603.png",
-    "Images/Screen Shot 2024-01-28 at 11.35.28 PM.png",
     "!Constant acceleration.md",
-    "conflict-files-obsidian-git.md",
     "School/EGN 1007.md",
     "School/ENC 2210.md",
     "School/IDS 1380.md",
