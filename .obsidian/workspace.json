@@ -58,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68d420c15d7198d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chapter 4- 3D Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chapter 4- 3D Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Chapter 4- 3D Motion.md"
               }
             }
           },
@@ -249,10 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68d420c15d7198d9",
+  "active": "e348249422689e0d",
   "lastOpenFiles": [
-    "Chapter 4- 3D Motion.md",
     "conflict-files-obsidian-git.md",
+    "Chapter 4- 3D Motion.md",
     "Screen Shot 2024-02-02 at 12.18.35 AM.png",
     "School/Notes/Chapter 2 - Vectors.md",
     "School/PHY 2048.md",
