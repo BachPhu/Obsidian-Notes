@@ -97,6 +97,8 @@ Step 2: Plug initial velocity down these formula
 
 ---
 ## Trajectory
+![[Screen Shot 2024-02-07 at 2.08.59 AM.png]]
+
 ![[Screen Shot 2024-02-02 at 12.09.14 AM.png]]
 
 ---
