@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Chapter 2 - Vectors.md",
+                "file": "School/Notes/Chapter 3 - 1D Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "School/Notes/Chapter 3 - 1D Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "School/Notes/Chapter 3 - 1D Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4- 3D Motion.md"
+                "file": "School/Notes/Chapter 3 - 1D Motion.md"
               }
             }
           },
@@ -237,13 +237,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e348249422689e0d",
+  "active": "5908af6dbab9a2d0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Chapter 4- 3D Motion.md",
-    "Screen Shot 2024-02-02 at 12.18.35 AM.png",
-    "School/Notes/Chapter 2 - Vectors.md",
     "School/PHY 2048.md",
+    "Chapter 4- 3D Motion.md",
+    "School/Notes/Chapter 2 - Vectors.md",
+    "conflict-files-obsidian-git.md",
+    "Screen Shot 2024-02-02 at 12.18.35 AM.png",
     "School/Notes/Chapter 3 - 1D Motion.md",
     "Screen Shot 2024-02-02 at 12.09.14 AM.png",
     "Screen Shot 2024-02-02 at 12.04.49 AM.png",
