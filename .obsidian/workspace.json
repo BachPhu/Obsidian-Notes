@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9318c9b0e6f80121",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Calculus Table of Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "81743d8f19343154",
             "type": "leaf",
             "pinned": true,
@@ -36,12 +22,50 @@
             }
           },
           {
+            "id": "9318c9b0e6f80121",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Calculus Table of Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "5908af6dbab9a2d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School/PHY 2048.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58cbf17c1ae76fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Notes/Chapter 2 - Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e8827fae87e56b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Notes/Chapter 3 - 1D Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "School/Notes/Chapter 2 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "School/Notes/Chapter 2 - Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4- 3D Motion.md"
+                "file": "School/Notes/Chapter 2 - Vectors.md"
               }
             }
           },
@@ -237,14 +261,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa279e038c25e32d",
+  "active": "58cbf17c1ae76fe2",
   "lastOpenFiles": [
     "School/PHY 2048.md",
-    "Chapter 4- 3D Motion.md",
-    "Screen Shot 2024-02-07 at 2.08.59 AM.png",
-    "School/COURSES Dates.md",
     "School/Notes/Chapter 3 - 1D Motion.md",
+    "Chapter 4- 3D Motion.md",
     "School/Notes/Chapter 2 - Vectors.md",
+    "School/COURSES Dates.md",
+    "Calculus/Calculus Table of Content.md",
+    "Screen Shot 2024-02-07 at 2.08.59 AM.png",
     "conflict-files-obsidian-git.md",
     "Screen Shot 2024-02-02 at 12.18.35 AM.png",
     "Screen Shot 2024-02-02 at 12.09.14 AM.png",
