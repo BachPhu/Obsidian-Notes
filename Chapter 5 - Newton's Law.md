@@ -51,5 +51,14 @@ $$F_{net}= F = ma$$
 Newton’s Second Law and Momentum
 
 The instantaneous rate at which a body’s momentum changes is equal to the net force acting on the body.
+$$m\vec{a} = \vec{F}_{net} = d\vec{p}/dt$$
+$$\vec{p} = m\vec{v}$$
+---
+## Weight and Gravitational Force
+
+The gravitational force on a mass is its weight. We can write this in vector form, where $\vec{w}$ weight and m is mass, as
+$$\vec{W} = m\vec{g}$$
 
 ---
+## Newton’s third law
+- Newton’s third law states that for every action there is an equal and opposite reaction.
