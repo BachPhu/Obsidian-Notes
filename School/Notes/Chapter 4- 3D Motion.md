@@ -7,13 +7,10 @@ share_link: https://share.note.sx/1yxukq2s#yS3u7IXSkQ+TNFBjRlIn4sUPeRNyP5UxLHmb4
 share_updated: 2024-02-02T00:25:45-05:00
 ---
 
-4.1 Displacement and Velocity Vectors
-
-4.2 Acceleration Vector
-
-4.3 Projectile Motion
-
-4.4 Uniform Circular Motion
+[[Chapter 4- 3D Motion#4.1 Displacement and Velocity Vectors]]
+[[Chapter 4- 3D Motion#4.2 Acceleration Vector]]
+[[Chapter 4- 3D Motion#4.3 Projectile Motion]]
+[[Chapter 4- 3D Motion#4.4 Uniform Circular Motion]]
 
 ---
 # 4.1 Displacement and Velocity Vectors

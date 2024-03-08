@@ -36,55 +36,19 @@
             }
           },
           {
-            "id": "5908af6dbab9a2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/PHY 2048.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58cbf17c1ae76fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Notes/Chapter 2 - Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38e8827fae87e56b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5 - Newton's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa279e038c25e32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4- 3D Motion.md",
+                "file": "Chapter 6 - Applications of Newton's Laws.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5 - Newton's Law.md",
+                "file": "Chapter 6 - Applications of Newton's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5 - Newton's Law.md",
+                "file": "Chapter 6 - Applications of Newton's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5 - Newton's Law.md"
+                "file": "Chapter 6 - Applications of Newton's Laws.md"
               }
             }
           },
@@ -261,44 +225,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38e8827fae87e56b",
+  "active": "aa279e038c25e32d",
   "lastOpenFiles": [
-    "Pasted image 20240307230523.png",
-    "Chapter 4- 3D Motion.md",
-    "Chapter 5 - Newton's Law.md",
-    "Images/Pasted image 20240201234614.png",
-    "Images/Screen Shot 2024-02-02 at 12.04.49 AM.png",
-    "Obsidian Shortcuts.md",
-    "Images/Screen Shot 2024-02-02 at 12.09.14 AM.png",
-    "School/PHY 2048.md",
-    "School/Notes/Chapter 3 - 1D Motion.md",
-    "School/Notes/Chapter 2 - Vectors.md",
+    "LaTex.md",
+    "Chapter 6 - Applications of Newton's Laws.md",
+    "School/Notes/Chapter 4- 3D Motion.md",
     "School/COURSES Dates.md",
     "Calculus/Calculus Table of Content.md",
-    "Images/Screen Shot 2024-02-07 at 2.08.59 AM.png",
-    "conflict-files-obsidian-git.md",
-    "Images/Screen Shot 2024-02-02 at 12.18.35 AM.png",
-    "Images/Pasted image 20240202000438.png",
-    "Templates/vector.md",
-    "Calculus/Triangle.md",
-    "School/FA 23/CHM 2045L.md",
-    "daily/2023-06-30.md",
-    "School/Notes/Constant acceleration.md",
-    "Untitled.md",
-    "Images/Pasted image 20240131124619.png",
-    "School/Notes/Chapter 1 - Units.md",
-    "Images/Screen Shot 2024-02-01 at 12.08.13 AM.png",
-    "Images/Screen Shot 2024-02-01 at 12.07.49 AM.png",
-    "Images/Pasted image 20240201000605.png",
-    "!Constant acceleration.md",
-    "School/EGN 1007.md",
-    "School/ENC 2210.md",
-    "School/IDS 1380.md",
-    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+    "School/FA 23/CHM 2045.md",
+    "School/Notes/Chapter 5 - Newton's Law.md",
     "School/FA 23/MAC 2311.md",
-    "Keyboard Shortcuts.md",
-    "School/Notes/Essay 3.md",
-    "School/FA 23/ENC 1101.md",
+    "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
+    "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",
+    "Calculus/Intermediate Value Theorem.md",
+    "Calculus/Limit Existence Theorem.md",
+    "Calculus/Limit-Based Continuity.md",
+    "Calculus/Limits and Continuity.md",
+    "Calculus/Logarithms.md",
+    "Calculus/Power Rule.md",
+    "Calculus/Product Rule.md",
+    "Calculus/Quadratic Formula.md",
+    "Calculus/Quotient Rule.md",
+    "Calculus/Triangle.md",
+    "Calculus/Two Special Trig Function.md",
+    "Calculus/Unit Circle.md",
+    "School/Notes/6.1-6.2.md",
+    "School/Notes/4.2-4.4.md",
+    "School/Notes/Chapter 5 Summary.md",
+    "School/Notes/Chapter 6 Summary.md",
+    "Pasted image 20240308001414.png",
+    "Pasted image 20240308001410.png",
+    "Pasted image 20240308001359.png",
+    "Pasted image 20240308000902.png",
+    "Pasted image 20240307230523.png",
+    "Images/Pasted image 20240201234614.png",
+    "Images/Screen Shot 2024-02-02 at 12.04.49 AM.png",
+    "Images/Screen Shot 2024-02-02 at 12.09.14 AM.png",
+    "Images/Screen Shot 2024-02-07 at 2.08.59 AM.png",
+    "Images/Screen Shot 2024-02-02 at 12.18.35 AM.png",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
