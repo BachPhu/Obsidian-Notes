@@ -13,12 +13,21 @@
 5.7 Drawing Free-Body Diagrams
 
 ---
-5.1 Forces
+# 5.1 Forces
 
-Kinematics: The study of motion is called kinematics, but kinematics only describes the way objects move—their velocity and their acceleration.
-Dynamics is the study of how forces affect the motion of objects and systems. It considers the causes of motion of objects and systems of interest, where a system is anything being analyzed.
+**Kinematics**: The study of motion is called kinematics, but kinematics only describes the way objects move—their velocity and their acceleration.
+**Dynamics** is the study of how forces affect the motion of objects and systems. It considers the causes of motion of objects and systems of interest, where a system is anything being analyzed.
+
+We can define **force** as the push or pull on an object with a specific magnitude and direction (therefore, it is a vector quantity)
+
+The SI unit of force is called the newton (abbreviated N)
+$$\text{1 N = 1 kg} \cdot m / s^{2}$$
 
 ---
+## Contact forces
+
+---
+
 Newton’s First Law states that the velocity of an object will remain unchanged unless it is acted on by a net external force.
 
 ---
@@ -28,3 +37,5 @@ Newton’s Second Law and Momentum
 
 ---
 The instantaneous rate at which a body’s momentum changes is equal to the net force acting on the body.
+
+---
