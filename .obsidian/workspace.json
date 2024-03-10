@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 - Potential Energy and Conservation of Energy.md",
+                "file": "Chapter 7 - Work and Kinetic Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 8 - Potential Energy and Conservation of Energy.md",
+                "file": "Chapter 7 - Work and Kinetic Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 8 - Potential Energy and Conservation of Energy.md",
+                "file": "Chapter 7 - Work and Kinetic Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 8 - Potential Energy and Conservation of Energy.md"
+                "file": "Chapter 7 - Work and Kinetic Energy.md"
               }
             }
           },
@@ -235,8 +235,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e1623a1bea71a18",
+  "active": "f1edb24080cf78d8",
   "lastOpenFiles": [
+    "Chapter 8 - Potential Energy and Conservation of Energy.md",
+    "Chapter 7 - Work and Kinetic Energy.md",
     "Pasted image 20240308015825.png",
     "Pasted image 20240308015809.png",
     "Screen Shot 2024-03-08 at 1.57.43 AM.png",
@@ -246,18 +248,15 @@
     "Pasted image 20240308015535.png",
     "Pasted image 20240308015532.png",
     "Templates/Math/appoarch.md",
-    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "Pasted image 20240308015055.png",
     "School/PHY 2048.md",
     "Calculus/Calculus Table of Content.md",
-    "Chapter 7 - Work and Kinetic Energy.md",
     "Obsidian Shortcuts.md",
     "LaTex.md",
     "Images/cal 2 project.md",
     "Images/Pasted image 20240307230523.png",
     "CompSci Orientation Leader Meeting.md",
     "Chapter 6 - Applications of Newton's Laws.md",
-    "Images/Pasted image 20240308005352.png",
     "School/Notes/Chapter 4- 3D Motion.md",
     "School/COURSES Dates.md",
     "School/FA 23/CHM 2045.md",
