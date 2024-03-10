@@ -41,24 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 7 - Work and Kinetic Energy.md",
+                "file": "School/Notes/Chapter 5 - Newton's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e1623a1bea71a18",
+            "id": "7bc66e63c38451a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "School/PHY 2048.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7 - Work and Kinetic Energy.md",
+                "file": "School/PHY 2048.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 7 - Work and Kinetic Energy.md",
+                "file": "School/PHY 2048.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 7 - Work and Kinetic Energy.md"
+                "file": "School/PHY 2048.md"
               }
             }
           },
@@ -235,10 +238,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1edb24080cf78d8",
+  "active": "7bc66e63c38451a4",
   "lastOpenFiles": [
-    "Chapter 8 - Potential Energy and Conservation of Energy.md",
+    "School/Notes/Chapter 5 - Newton's Law.md",
+    "Screen Shot 2024-03-10 at 5.16.13 PM.png",
+    "School/PHY 2048.md",
+    "Calculus/Calculus Table of Content.md",
+    "Chapter 6 - Applications of Newton's Laws.md",
     "Chapter 7 - Work and Kinetic Energy.md",
+    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "Pasted image 20240308015825.png",
     "Pasted image 20240308015809.png",
     "Screen Shot 2024-03-08 at 1.57.43 AM.png",
@@ -249,18 +257,13 @@
     "Pasted image 20240308015532.png",
     "Templates/Math/appoarch.md",
     "Pasted image 20240308015055.png",
-    "School/PHY 2048.md",
-    "Calculus/Calculus Table of Content.md",
     "Obsidian Shortcuts.md",
     "LaTex.md",
     "Images/cal 2 project.md",
-    "Images/Pasted image 20240307230523.png",
     "CompSci Orientation Leader Meeting.md",
-    "Chapter 6 - Applications of Newton's Laws.md",
     "School/Notes/Chapter 4- 3D Motion.md",
     "School/COURSES Dates.md",
     "School/FA 23/CHM 2045.md",
-    "School/Notes/Chapter 5 - Newton's Law.md",
     "School/FA 23/MAC 2311.md",
     "School/Notes/4.5 Derivatives and the Shape of a Graph.md",
     "School/Notes/3.4 Derivatives as Rates of Change -  Calculus 3.4;.md",

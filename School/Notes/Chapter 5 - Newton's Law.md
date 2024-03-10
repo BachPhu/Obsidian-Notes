@@ -119,3 +119,7 @@ Strings allow a force placed at one position to be transferred to another positi
 Pulleys allow for a force in one direction to be re-directed in another direction.
 
 ![[Pasted image 20240308001359.png]]
+
+---
+# Summary
+![[Screen Shot 2024-03-10 at 5.16.13 PM.png]]
