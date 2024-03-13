@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notes/Chapter 5 - Newton's Law.md",
+                "file": "School/PHY 2048.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unit circle",
+                "query": "tag:phy2048",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/PHY 2048.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Triangle.md",
+                "file": "School/PHY 2048.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Triangle.md"
+                "file": "School/PHY 2048.md"
               }
             }
           },
@@ -238,12 +237,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bc66e63c38451a4",
+  "active": "f1edb24080cf78d8",
   "lastOpenFiles": [
+    "School/Notes/Chapter 5 - Newton's Law.md",
+    "Calculus/Triangle.md",
     "School/PHY 2048.md",
     "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "Chapter 7 - Work and Kinetic Energy.md",
-    "School/Notes/Chapter 5 - Newton's Law.md",
     "Screen Shot 2024-03-10 at 5.16.13 PM.png",
     "Calculus/Calculus Table of Content.md",
     "Chapter 6 - Applications of Newton's Laws.md",
