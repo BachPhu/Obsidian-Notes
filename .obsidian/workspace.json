@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "Calculus/Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,12 +106,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "Calculus/Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/PHY 2048.md",
+                "file": "Calculus/Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/PHY 2048.md"
+                "file": "Calculus/Triangle.md"
               }
             }
           },
@@ -240,8 +240,8 @@
   },
   "active": "7bc66e63c38451a4",
   "lastOpenFiles": [
-    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "School/PHY 2048.md",
+    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "Chapter 7 - Work and Kinetic Energy.md",
     "School/Notes/Chapter 5 - Newton's Law.md",
     "Screen Shot 2024-03-10 at 5.16.13 PM.png",
