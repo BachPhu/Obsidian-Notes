@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "06bacc8c7e221be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7bc66e63c38451a4",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notes/Chapter 5 - Newton's Law.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notes/Chapter 5 - Newton's Law.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notes/Chapter 5 - Newton's Law.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -234,8 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a9bdd7250d9d66",
+  "active": "06bacc8c7e221be1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Screen Shot 2024-03-13 at 12.58.34 AM.png",
     "School/COURSES Dates.md",
     "Calculus/Calculus Table of Content.md",
     "Chapter 8 - Potential Energy and Conservation of Energy.md",
@@ -253,7 +267,6 @@
     "Pasted image 20240308015535.png",
     "Pasted image 20240308015532.png",
     "Templates/Math/appoarch.md",
-    "Pasted image 20240308015055.png",
     "Obsidian Shortcuts.md",
     "LaTex.md",
     "Images/cal 2 project.md",
