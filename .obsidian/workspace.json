@@ -37,18 +37,12 @@
             "id": "08a9bdd7250d9d66",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Proposal Sources.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "06bacc8c7e221be1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -64,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -143,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/COURSES Dates.md",
+                "file": "Proposal Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/COURSES Dates.md",
+                "file": "Proposal Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/COURSES Dates.md"
+                "file": "Proposal Sources.md"
               }
             }
           },
@@ -242,8 +235,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06bacc8c7e221be1",
+  "active": "08a9bdd7250d9d66",
   "lastOpenFiles": [
+    "School/ENC 2210.md",
+    "Proposal Sources.md",
     "conflict-files-obsidian-git.md",
     "Screen Shot 2024-03-13 at 12.58.34 AM.png",
     "School/COURSES Dates.md",
@@ -278,8 +273,6 @@
     "Calculus/Limits and Continuity.md",
     "Calculus/Logarithms.md",
     "Calculus/Power Rule.md",
-    "Calculus/Product Rule.md",
-    "Calculus/Quadratic Formula.md",
     "Untitled.canvas",
     "Excalidraw",
     "daily/11/19",
