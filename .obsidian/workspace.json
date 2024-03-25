@@ -44,31 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b2a8766d93f880b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "7bc66e63c38451a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 8 - Potential Energy and Conservation of Energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a249b810334dfa20",
@@ -245,15 +224,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2a8766d93f880b4",
+  "active": "08a9bdd7250d9d66",
   "lastOpenFiles": [
-    "School/ENC 2210.md",
+    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "Proposal Sources.md",
+    "School/ENC 2210.md",
     "conflict-files-obsidian-git.md",
     "Screen Shot 2024-03-13 at 12.58.34 AM.png",
     "School/COURSES Dates.md",
     "Calculus/Calculus Table of Content.md",
-    "Chapter 8 - Potential Energy and Conservation of Energy.md",
     "School/PHY 2048.md",
     "School/Notes/Chapter 5 - Newton's Law.md",
     "Screen Shot 2024-03-10 at 5.16.13 PM.png",
