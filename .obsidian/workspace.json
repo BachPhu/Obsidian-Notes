@@ -46,6 +46,16 @@
             }
           },
           {
+            "id": "b2a8766d93f880b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "7bc66e63c38451a4",
             "type": "leaf",
             "state": {
@@ -58,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +245,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08a9bdd7250d9d66",
+  "active": "b2a8766d93f880b4",
   "lastOpenFiles": [
     "School/ENC 2210.md",
     "Proposal Sources.md",
